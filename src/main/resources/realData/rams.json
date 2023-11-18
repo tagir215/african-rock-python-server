@@ -1,0 +1,3776 @@
+{
+   "Corsair Vengeance 16 GB (2 x 8 GB) DDR5-5200 CL40 Memory":{
+      "id":64,
+      "name":"Corsair Vengeance 16 GB (2 x 8 GB) DDR5-5200 CL40 Memory",
+      "price":69.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-16-gb-p52945",
+      "Price / GB":[
+         "$4.374"
+      ],
+      "Speed":[
+         "DDR5-5200"
+      ],
+      "Part #":[
+         "CMK16GX5M2B5200C40"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "40"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.25 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Timing":[
+         "40-40-40-77"
+      ],
+      "First Word Latency":[
+         "15.385 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory":{
+      "id":80,
+      "name":"TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+      "price":89.99,
+      "url":"https://pc-builder.io/ram/teamgroup-t-force-delta-rgb-32-gb-p9859",
+      "Price / GB":[
+         "$2.812"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "TF3D432G3600HC18JDC01"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "TEAMGROUP"
+      ],
+      "UPC Codes":[
+         "765441651753"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory":{
+      "id":22,
+      "name":"G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+      "price":219.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z5-rgb-32-gb-p14892",
+      "Price / GB":[
+         "$6.875"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "F5-6000J3636F16GX2-TZ5RK"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "36"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354040729"
+      ],
+      "Timing":[
+         "36-36-36-96"
+      ],
+      "First Word Latency":[
+         "12 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory":{
+      "id":54,
+      "name":"Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+      "price":72.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-pro-16-gb-p13893",
+      "Price / GB":[
+         "$4.562"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "CMW16GX4M2C3200C16W"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "843591078719"
+      ],
+      "Timing":[
+         "16-18-18-36"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory":{
+      "id":71,
+      "name":"TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+      "price":80.98,
+      "url":"https://pc-builder.io/ram/teamgroup-t-create-expert-32-gb-p14944",
+      "Price / GB":[
+         "$2.531"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "TTCED432G3200HC16FDC01"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Gray"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "TEAMGROUP"
+      ],
+      "UPC Codes":[
+         "765441658677"
+      ],
+      "Timing":[
+         "16-20-20-40"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 64 GB (2 x 32 GB) DDR4-3600 CL18 Memory":{
+      "id":86,
+      "name":"G.Skill Ripjaws V 64 GB (2 x 32 GB) DDR4-3600 CL18 Memory",
+      "price":199.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-64-gb-p12581",
+      "Price / GB":[
+         "$3.125"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "F4-3600C18D-64GVK"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354034674"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance LPX 8 GB (1 x 8 GB) DDR4-2400 CL16 Memory":{
+      "id":1,
+      "name":"Corsair Vengeance LPX 8 GB (1 x 8 GB) DDR4-2400 CL16 Memory",
+      "price":29.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-8-gb-p13530",
+      "Price / GB":[
+         "$3.749"
+      ],
+      "Speed":[
+         "DDR4-2400"
+      ],
+      "Part #":[
+         "CMK8GX4M1A2400C16"
+      ],
+      "Modules":[
+         "1 x 8GB"
+      ],
+      "Color":[
+         "Black / Yellow"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "843591084680"
+      ],
+      "First Word Latency":[
+         "13.333 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Silicon Power GAMING 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory":{
+      "id":51,
+      "name":"Silicon Power GAMING 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+      "price":75.97,
+      "url":"https://pc-builder.io/ram/silicon-power-gaming-32-gb-p8025",
+      "Price / GB":[
+         "$2.374"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "SP032GXLZU320BDAJ7"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Silicon Power"
+      ],
+      "UPC Codes":[
+         "886576061948"
+      ],
+      "Timing":[
+         "16-18-18-36"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Dominator Platinum 32 GB (4 x 8 GB) DDR4-2666 CL15 Memory":{
+      "id":17,
+      "name":"Corsair Dominator Platinum 32 GB (4 x 8 GB) DDR4-2666 CL15 Memory",
+      "price":194.99,
+      "url":"https://pc-builder.io/ram/corsair-dominator-platinum-32-gb-p10608",
+      "Price / GB":[
+         "$6.093"
+      ],
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Part #":[
+         "CMD32GX4M4A2666C15"
+      ],
+      "Modules":[
+         "4 x 8GB"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "15"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Timing":[
+         "15-15-15-36"
+      ],
+      "First Word Latency":[
+         "11.253 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory":{
+      "id":60,
+      "name":"G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+      "price":73.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z-rgb-16-gb-p7453",
+      "Price / GB":[
+         "$4.624"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "F4-3600C18D-16GTZRX"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory":{
+      "id":10,
+      "name":"Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory",
+      "price":45.99,
+      "url":"https://pc-builder.io/ram/patriot-signature-premium-16-gb-p11607",
+      "Price / GB":[
+         "$2.874"
+      ],
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Part #":[
+         "PSP416G2666KH1"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "19"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Patriot"
+      ],
+      "UPC Codes":[
+         "814914025819"
+      ],
+      "Timing":[
+         "19-19-19-43"
+      ],
+      "First Word Latency":[
+         "14.254 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory":{
+      "id":33,
+      "name":"G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+      "price":239.99,
+      "url":"https://pc-builder.io/ram/gskill-flare-x5-32-gb-p51296",
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "30"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "F5-6000J3038F16GX2-FX5"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "30-38-38-96"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z RGB 64 GB (2 x 32 GB) DDR4-3600 CL18 Memory":{
+      "id":87,
+      "name":"G.Skill Trident Z RGB 64 GB (2 x 32 GB) DDR4-3600 CL18 Memory",
+      "price":226.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z-rgb-64-gb-p12021",
+      "Price / GB":[
+         "$3.594"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "F4-3600C18D-64GTZR"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354035916"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory":{
+      "id":61,
+      "name":"G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+      "price":49.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-16-gb-p8266",
+      "Price / GB":[
+         "$3.124"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "F4-3200C16D-16GVKB"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354014973, 796594397564, 848354019473"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Kingston FURY Beast 16 GB (2 x 8 GB) DDR5-5200 CL40 Memory":{
+      "id":39,
+      "name":"Kingston FURY Beast 16 GB (2 x 8 GB) DDR5-5200 CL40 Memory",
+      "price":95.51,
+      "url":"https://pc-builder.io/ram/kingston-fury-beast-16-gb-p14955",
+      "Price / GB":[
+         "$5.969"
+      ],
+      "Speed":[
+         "DDR5-5200"
+      ],
+      "Part #":[
+         "KF552C40BBK2-16"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "40"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.25 V"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "UPC Codes":[
+         "740617325959"
+      ],
+      "First Word Latency":[
+         "15.385 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z5 Neo 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory":{
+      "id":31,
+      "name":"G.Skill Trident Z5 Neo 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+      "price":379.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z5-neo-64-gb-p50825",
+      "Price / GB":[
+         "$5.937"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "F5-6000J3040G32GX2-TZ5N"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "30"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.4 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "30-40-40-96"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-2400 CL15 Memory":{
+      "id":20,
+      "name":"G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-2400 CL15 Memory",
+      "price":51.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-16-gb-p7313",
+      "Price / GB":[
+         "$3.249"
+      ],
+      "Speed":[
+         "DDR4-2400"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "15"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "F4-2400C15D-16GVR"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black / Red"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "First Word Latency":[
+         "12.5 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Kingston FURY Renegade 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory":{
+      "id":84,
+      "name":"Kingston FURY Renegade 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory",
+      "price":126.44,
+      "url":"https://pc-builder.io/ram/kingston-fury-renegade-32-gb-p14906",
+      "Price / GB":[
+         "$3.951"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "KF436C16RB1K2/32"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "UPC Codes":[
+         "740617322514"
+      ],
+      "First Word Latency":[
+         "8.889 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB Pro SL 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory":{
+      "id":48,
+      "name":"Corsair Vengeance RGB Pro SL 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+      "price":117.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-pro-sl-32-gb-p11416",
+      "Price / GB":[
+         "$3.687"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "CMH32GX4M2D3600C18W"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "White / Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006632085"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Kingston HyperX Fury 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory":{
+      "id":4,
+      "name":"Kingston HyperX Fury 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory",
+      "price":98.5,
+      "url":"https://pc-builder.io/ram/kingston-hyperx-fury-16-gb-p7587",
+      "Price / GB":[
+         "$6.156"
+      ],
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Part #":[
+         "HX426C16FB3K2/16"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "UPC Codes":[
+         "740617293388"
+      ],
+      "First Word Latency":[
+         "12.003 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Supermicro MEM-DR412L-SL02-LR26 128 GB (1 x 128 GB) Registered DDR4-2666 CL22 Memory":{
+      "id":7,
+      "name":"Supermicro MEM-DR412L-SL02-LR26 128 GB (1 x 128 GB) Registered DDR4-2666 CL22 Memory",
+      "price":22.11,
+      "url":"https://pc-builder.io/ram/supermicro-mem-dr412l-sl02-lr26-128-gb-p14331",
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "22"
+      ],
+      "ECC / Registered":[
+         "ECC / Registered"
+      ],
+      "Part #":[
+         "MEM-DR412L-SL02-LR26"
+      ],
+      "Modules":[
+         "1 x 128GB"
+      ],
+      "Color":[
+         "Green / Black"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Supermicro"
+      ],
+      "First Word Latency":[
+         "16.504 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-5600 CL28 Memory":{
+      "id":36,
+      "name":"G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-5600 CL28 Memory",
+      "price":219.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-s5-32-gb-p14978",
+      "Price / GB":[
+         "$11.127"
+      ],
+      "Speed":[
+         "DDR5-5600"
+      ],
+      "Part #":[
+         "F5-5600J2834F16GX2-RS5K"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "28"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "28-34-34-89"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory":{
+      "id":44,
+      "name":"Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+      "price":99.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-pro-32-gb-p12571",
+      "Price / GB":[
+         "$3.125"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "CMW32GX4M2Z3600C18"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006621003"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "TEAMGROUP T-Force Delta RGB 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory":{
+      "id":81,
+      "name":"TEAMGROUP T-Force Delta RGB 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+      "price":64.98,
+      "url":"https://pc-builder.io/ram/teamgroup-t-force-delta-rgb-16-gb-p10349",
+      "Price / GB":[
+         "$4.061"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "TF4D416G3600HC18JDC01"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "TEAMGROUP"
+      ],
+      "UPC Codes":[
+         "765441651760"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Samsung Green 8 GB (1 x 8 GB) DDR4-2133 CL15 Memory":{
+      "id":3,
+      "name":"Samsung Green 8 GB (1 x 8 GB) DDR4-2133 CL15 Memory",
+      "price":23.0,
+      "url":"https://pc-builder.io/ram/samsung-green-8-gb-p7737",
+      "Price / GB":[
+         "$2.875"
+      ],
+      "Speed":[
+         "DDR4-2133"
+      ],
+      "Part #":[
+         "M378A1G43DB0-CPB"
+      ],
+      "Modules":[
+         "1 x 8GB"
+      ],
+      "Color":[
+         "Green / Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "15"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "Timing":[
+         "15-15-15-28"
+      ],
+      "First Word Latency":[
+         "14.065 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory":{
+      "id":34,
+      "name":"TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+      "price":239.99,
+      "url":"https://pc-builder.io/ram/teamgroup-t-force-delta-rgb-32-gb-p15025",
+      "Price / GB":[
+         "$7.500"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "FF3D532G6000HC30DC01"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "30"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "TEAMGROUP"
+      ],
+      "UPC Codes":[
+         "765441661677"
+      ],
+      "Timing":[
+         "30-36-36-76"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-7200 CL34 Memory":{
+      "id":42,
+      "name":"G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-7200 CL34 Memory",
+      "price":299.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z5-rgb-32-gb-p50809",
+      "Price / GB":[
+         "$9.375"
+      ],
+      "Speed":[
+         "DDR5-7200"
+      ],
+      "Part #":[
+         "F5-7200J3445G16GX2-TZ5RK"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "34"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.4 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "34-45-45-115"
+      ],
+      "First Word Latency":[
+         "9.444 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Dominator Platinum RGB 32 GB (2 x 16 GB) DDR5-6200 CL36 Memory":{
+      "id":37,
+      "name":"Corsair Dominator Platinum RGB 32 GB (2 x 16 GB) DDR5-6200 CL36 Memory",
+      "price":339.99,
+      "url":"https://pc-builder.io/ram/corsair-dominator-platinum-rgb-32-gb-p14923",
+      "Price / GB":[
+         "$10.625"
+      ],
+      "Speed":[
+         "DDR5-6200"
+      ],
+      "Part #":[
+         "CMT32GX5M2X6200C36W"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "36"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.3 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006663553"
+      ],
+      "Timing":[
+         "36-39-39-76"
+      ],
+      "First Word Latency":[
+         "11.613 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "TEAMGROUP T-Force Vulcan Z 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory":{
+      "id":82,
+      "name":"TEAMGROUP T-Force Vulcan Z 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+      "price":84.99,
+      "url":"https://pc-builder.io/ram/teamgroup-t-force-vulcan-z-32-gb-p9883",
+      "Price / GB":[
+         "$2.656"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "TLZGD432G3600HC18JDC01"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "TEAMGROUP"
+      ],
+      "UPC Codes":[
+         "765441652101"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Patriot Viper Steel 16 GB (2 x 8 GB) DDR4-4400 CL19 Memory":{
+      "id":77,
+      "name":"Patriot Viper Steel 16 GB (2 x 8 GB) DDR4-4400 CL19 Memory",
+      "price":109.99,
+      "url":"https://pc-builder.io/ram/patriot-viper-steel-16-gb-p13864",
+      "Price / GB":[
+         "$6.874"
+      ],
+      "Speed":[
+         "DDR4-4400"
+      ],
+      "Part #":[
+         "PVS416G440C9K"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Silver / Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "19"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.45 V"
+      ],
+      "Manufacturer":[
+         "Patriot"
+      ],
+      "UPC Codes":[
+         "814914024935"
+      ],
+      "Timing":[
+         "19-19-19-39"
+      ],
+      "First Word Latency":[
+         "8.636 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory":{
+      "id":55,
+      "name":"Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+      "price":89.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-32-gb-p10693",
+      "Price / GB":[
+         "$2.812"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "CMK32GX4M2E3200C16"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black / Yellow"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006608547"
+      ],
+      "Timing":[
+         "16-20-20-38"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Kingston HyperX Fury 8 GB (1 x 8 GB) DDR4-2666 CL16 Memory":{
+      "id":2,
+      "name":"Kingston HyperX Fury 8 GB (1 x 8 GB) DDR4-2666 CL16 Memory",
+      "price":29.99,
+      "url":"https://pc-builder.io/ram/kingston-hyperx-fury-8-gb-p8581",
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "HX426C16FB3/8"
+      ],
+      "Modules":[
+         "1 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "First Word Latency":[
+         "12.003 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory":{
+      "id":70,
+      "name":"Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+      "price":49.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-16-gb-p12765",
+      "Price / GB":[
+         "$3.124"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "CMK16GX4M2E3200C16"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006608530"
+      ],
+      "Timing":[
+         "16-20-20-38"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z5 RGB 64 GB (2 x 32 GB) DDR5-6400 CL32 Memory":{
+      "id":23,
+      "name":"G.Skill Trident Z5 RGB 64 GB (2 x 32 GB) DDR5-6400 CL32 Memory",
+      "price":434.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z5-rgb-64-gb-p50810",
+      "Price / GB":[
+         "$6.797"
+      ],
+      "Speed":[
+         "DDR5-6400"
+      ],
+      "Part #":[
+         "F5-6400J3239G32GX2-TZ5RK"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "32"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.4 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "32-39-39-102"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Crucial CT2K4G4DFS824A 8 GB (2 x 4 GB) DDR4-2400 CL17 Memory":{
+      "id":14,
+      "name":"Crucial CT2K4G4DFS824A 8 GB (2 x 4 GB) DDR4-2400 CL17 Memory",
+      "price":30.99,
+      "url":"https://pc-builder.io/ram/crucial-ct2k4g4dfs824a-8-gb-p14451",
+      "Price / GB":[
+         "$4.247"
+      ],
+      "Speed":[
+         "DDR4-2400"
+      ],
+      "Part #":[
+         "CT2K4G4DFS824A"
+      ],
+      "Modules":[
+         "2 x 4GB"
+      ],
+      "Color":[
+         "Green"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "17"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Crucial"
+      ],
+      "UPC Codes":[
+         "649528769824"
+      ],
+      "First Word Latency":[
+         "14.167 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory":{
+      "id":5,
+      "name":"Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory",
+      "price":57.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-16-gb-p8980",
+      "Price / GB":[
+         "$3.624"
+      ],
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Part #":[
+         "CMK16GX4M2A2666C16"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black / Yellow"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "843591069618"
+      ],
+      "Timing":[
+         "16-18-18-35"
+      ],
+      "First Word Latency":[
+         "12.003 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws 4 8 GB (1 x 8 GB) DDR4-2400 CL15 Memory":{
+      "id":11,
+      "name":"G.Skill Ripjaws 4 8 GB (1 x 8 GB) DDR4-2400 CL15 Memory",
+      "price":45.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-4-8-gb-p9094",
+      "Speed":[
+         "DDR4-2400"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "15"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "8GB DDR4 2400 GSKILL"
+      ],
+      "Modules":[
+         "1 x 8GB"
+      ],
+      "Color":[
+         "Black / Green"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "First Word Latency":[
+         "12.5 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "G.Skill Trident Z5 Neo RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory":{
+      "id":63,
+      "name":"G.Skill Trident Z5 Neo RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+      "price":389.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z5-neo-rgb-64-gb-p50822",
+      "Price / GB":[
+         "$6.094"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "F5-6000J3040G32GX2-TZ5NR"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "30"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.4 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "30-40-40-96"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory":{
+      "id":85,
+      "name":"Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+      "price":77.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-pro-16-gb-p10926",
+      "Price / GB":[
+         "$4.874"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "CMW16GX4M2D3600C18"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006614852, 718929138024"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory":{
+      "id":49,
+      "name":"G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+      "price":88.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-32-gb-p12540",
+      "Price / GB":[
+         "$2.781"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "F4-3200C16D-32GVK"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354017011"
+      ],
+      "Timing":[
+         "16-18-18-38"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Kingston FURY Beast 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory":{
+      "id":58,
+      "name":"Kingston FURY Beast 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+      "price":59.99,
+      "url":"https://pc-builder.io/ram/kingston-fury-beast-16-gb-p14894",
+      "Price / GB":[
+         "$3.749"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "KF432C16BBK216"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "UPC Codes":[
+         "740617319903"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory":{
+      "id":50,
+      "name":"Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+      "price":54.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-16-gb-p10564",
+      "Price / GB":[
+         "$3.437"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "CMK16GX4M2D3600C18"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006612971"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Aegis 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory":{
+      "id":69,
+      "name":"G.Skill Aegis 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+      "price":49.99,
+      "url":"https://pc-builder.io/ram/gskill-aegis-16-gb-p12728",
+      "Price / GB":[
+         "$3.124"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "F4-3200C16D-16GIS"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Red / Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "16-18-18-38"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-4400 CL19 Memory":{
+      "id":76,
+      "name":"G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-4400 CL19 Memory",
+      "price":159.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z-rgb-32-gb-p14655",
+      "Price / GB":[
+         "$5.000"
+      ],
+      "Speed":[
+         "DDR4-4400"
+      ],
+      "Part #":[
+         "F4-4400C19D-32GTZR"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "19"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.5 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354031208"
+      ],
+      "Timing":[
+         "19-26-26-46"
+      ],
+      "First Word Latency":[
+         "8.636 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "TEAMGROUP T-Force Vulcan Z 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory":{
+      "id":56,
+      "name":"TEAMGROUP T-Force Vulcan Z 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+      "price":48.99,
+      "url":"https://pc-builder.io/ram/teamgroup-t-force-vulcan-z-16-gb-p14455",
+      "Price / GB":[
+         "$3.062"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "TLZGD416G3200HC16CDC01"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "TEAMGROUP"
+      ],
+      "UPC Codes":[
+         "765441645943"
+      ],
+      "Timing":[
+         "16-18-18-38"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Silicon Power GAMING 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory":{
+      "id":47,
+      "name":"Silicon Power GAMING 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+      "price":44.97,
+      "url":"https://pc-builder.io/ram/silicon-power-gaming-16-gb-p9852",
+      "Price / GB":[
+         "$2.811"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "SP016GXLZU320BDAJ5"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black / Gray"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Silicon Power"
+      ],
+      "UPC Codes":[
+         "886576058863"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory":{
+      "id":57,
+      "name":"G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+      "price":118.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z-rgb-32-gb-p11670",
+      "Price / GB":[
+         "$3.718"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "F4-3200C16D-32GTZRX"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354030614"
+      ],
+      "Timing":[
+         "16-18-18-38"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory":{
+      "id":78,
+      "name":"G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+      "price":89.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-32-gb-p12951",
+      "Price / GB":[
+         "$2.812"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "F4-3600C18D-32GVK"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance 64 GB (2 x 32 GB) DDR5-5200 CL40 Memory":{
+      "id":35,
+      "name":"Corsair Vengeance 64 GB (2 x 32 GB) DDR5-5200 CL40 Memory",
+      "price":269.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-64-gb-p14896",
+      "Price / GB":[
+         "$4.219"
+      ],
+      "Speed":[
+         "DDR5-5200"
+      ],
+      "Part #":[
+         "CMK64GX5M2B5200C40"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "40"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.25 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006661245"
+      ],
+      "Timing":[
+         "40-40-40-77"
+      ],
+      "First Word Latency":[
+         "15.385 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory":{
+      "id":26,
+      "name":"G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+      "price":224.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-s5-32-gb-p14997",
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "30"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "F5-6000J3040F16GX2-RS5K"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "30-40-40-96"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Patriot Viper Elite II 16 GB (1 x 16 GB) DDR4-2666 CL16 Memory":{
+      "id":12,
+      "name":"Patriot Viper Elite II 16 GB (1 x 16 GB) DDR4-2666 CL16 Memory",
+      "price":43.99,
+      "url":"https://pc-builder.io/ram/patriot-viper-elite-ii-16-gb-p15300",
+      "Price / GB":[
+         "$2.749"
+      ],
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Part #":[
+         "PVE2416G266C6"
+      ],
+      "Modules":[
+         "1 x 16GB"
+      ],
+      "Color":[
+         "Red / Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Patriot"
+      ],
+      "UPC Codes":[
+         "814914028780"
+      ],
+      "Timing":[
+         "16-17-17-36"
+      ],
+      "First Word Latency":[
+         "12.003 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-4000 CL18 Memory":{
+      "id":88,
+      "name":"G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-4000 CL18 Memory",
+      "price":116.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-32-gb-p14670",
+      "Price / GB":[
+         "$3.656"
+      ],
+      "Speed":[
+         "DDR4-4000"
+      ],
+      "Part #":[
+         "F4-4000C18D-32GVK"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.4 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354034148"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "9 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 8 GB (1 x 8 GB) DDR4-2400 CL15 Memory":{
+      "id":9,
+      "name":"G.Skill Ripjaws V 8 GB (1 x 8 GB) DDR4-2400 CL15 Memory",
+      "price":59.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-8-gb-p7127",
+      "Price / GB":[
+         "$7.499"
+      ],
+      "Speed":[
+         "DDR4-2400"
+      ],
+      "Part #":[
+         "F4-2400C15S-8GVR"
+      ],
+      "Modules":[
+         "1 x 8GB"
+      ],
+      "Color":[
+         "Red"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "15"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354016908"
+      ],
+      "First Word Latency":[
+         "12.5 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Samsung M378A2K43CB1-CTD 16 GB (1 x 16 GB) DDR4-2666 CL19 Memory":{
+      "id":18,
+      "name":"Samsung M378A2K43CB1-CTD 16 GB (1 x 16 GB) DDR4-2666 CL19 Memory",
+      "price":48.56,
+      "url":"https://pc-builder.io/ram/samsung-m378a2k43cb1-ctd-16-gb-p7024",
+      "Price / GB":[
+         "$3.035"
+      ],
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Part #":[
+         "M378A2K43CB1-CTD"
+      ],
+      "Modules":[
+         "1 x 16GB"
+      ],
+      "Color":[
+         "Green / Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "19"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "UPC Codes":[
+         "634158069345"
+      ],
+      "First Word Latency":[
+         "14.254 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory":{
+      "id":59,
+      "name":"G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory",
+      "price":129.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-32-gb-p14553",
+      "Price / GB":[
+         "$4.062"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "F4-3600C16D-32GVKC"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354033622"
+      ],
+      "Timing":[
+         "16-19-19-39"
+      ],
+      "First Word Latency":[
+         "8.889 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-2133 CL13 Memory":{
+      "id":13,
+      "name":"Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-2133 CL13 Memory",
+      "price":92.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-32-gb-p14015",
+      "Price / GB":[
+         "$2.906"
+      ],
+      "Speed":[
+         "DDR4-2133"
+      ],
+      "Part #":[
+         "CMK32GX4M2A2133C13"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black / Yellow"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "13"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "843591070621"
+      ],
+      "First Word Latency":[
+         "12.189 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Kingston ValueRAM 8 GB (1 x 8 GB) DDR4-2666 CL19 Memory":{
+      "id":19,
+      "name":"Kingston ValueRAM 8 GB (1 x 8 GB) DDR4-2666 CL19 Memory",
+      "price":32.46,
+      "url":"https://pc-builder.io/ram/kingston-valueram-8-gb-p14351",
+      "Price / GB":[
+         "$4.058"
+      ],
+      "Speed":[
+         "DDR4-2666"
+      ],
+      "Part #":[
+         "KVR26N19S8/8"
+      ],
+      "Modules":[
+         "1 x 8GB"
+      ],
+      "Color":[
+         "Green / Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "19"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "UPC Codes":[
+         "740617270907"
+      ],
+      "First Word Latency":[
+         "14.254 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory":{
+      "id":45,
+      "name":"Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+      "price":104.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-32-gb-p11105",
+      "Price / GB":[
+         "$3.281"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "CMK32GX4M2D3600C18"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black / Yellow"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006618676"
+      ],
+      "Timing":[
+         "18-22-22-42"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory":{
+      "id":25,
+      "name":"Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+      "price":224.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-32-gb-p15136",
+      "Price / GB":[
+         "$7.031"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "CMK32GX5M2D6000C36"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "36"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006690177"
+      ],
+      "Timing":[
+         "36-36-36-76"
+      ],
+      "First Word Latency":[
+         "12 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL40 Memory":{
+      "id":28,
+      "name":"Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL40 Memory",
+      "price":217.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-32-gb-p14967",
+      "Price / GB":[
+         "$6.812"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "CMH32GX5M2B6000C40"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "40"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006692874"
+      ],
+      "Timing":[
+         "40-40-40-77"
+      ],
+      "First Word Latency":[
+         "13.333 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-5200 CL40 Memory":{
+      "id":65,
+      "name":"Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-5200 CL40 Memory",
+      "price":167.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-32-gb-p14902",
+      "Price / GB":[
+         "$5.250"
+      ],
+      "Speed":[
+         "DDR5-5200"
+      ],
+      "Part #":[
+         "CMH32GX5M2B5200C40"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "40"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.25 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006692850"
+      ],
+      "Timing":[
+         "40-40-40-77"
+      ],
+      "First Word Latency":[
+         "15.385 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-4400 CL19 Memory":{
+      "id":75,
+      "name":"G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-4400 CL19 Memory",
+      "price":129.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-32-gb-p14930",
+      "Price / GB":[
+         "$4.062"
+      ],
+      "Speed":[
+         "DDR4-4400"
+      ],
+      "Part #":[
+         "F4-4400C19D-32GVK"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "19"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.5 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354031192"
+      ],
+      "Timing":[
+         "19-26-26-46"
+      ],
+      "First Word Latency":[
+         "8.636 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL40 Memory":{
+      "id":40,
+      "name":"Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL40 Memory",
+      "price":359.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-64-gb-p51279",
+      "Price / GB":[
+         "$5.625"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "CMH64GX5M2B6000Z40"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "40"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Timing":[
+         "40-40-40-77"
+      ],
+      "First Word Latency":[
+         "13.333 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-5600 CL36 Memory":{
+      "id":21,
+      "name":"Corsair Vengeance 32 GB (2 x 16 GB) DDR5-5600 CL36 Memory",
+      "price":159.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-32-gb-p14851",
+      "Price / GB":[
+         "$5.000"
+      ],
+      "Speed":[
+         "DDR5-5600"
+      ],
+      "Part #":[
+         "CMK32GX5M2B5600C36"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "36"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.25 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006659327"
+      ],
+      "Timing":[
+         "36-36-36-76"
+      ],
+      "First Word Latency":[
+         "12.857 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Silicon Power SP016GBLFU320B22 16 GB (2 x 8 GB) DDR4-3200 CL22 Memory":{
+      "id":68,
+      "name":"Silicon Power SP016GBLFU320B22 16 GB (2 x 8 GB) DDR4-3200 CL22 Memory",
+      "price":41.99,
+      "url":"https://pc-builder.io/ram/silicon-power-sp016gblfu320b22-16-gb-p14964",
+      "Price / GB":[
+         "$2.624"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "22"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "SP016GBLFU320B22"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Silicon Power"
+      ],
+      "UPC Codes":[
+         "886576054193"
+      ],
+      "First Word Latency":[
+         "13.75 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory":{
+      "id":24,
+      "name":"Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+      "price":234.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-32-gb-p15014",
+      "Price / GB":[
+         "$7.343"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "CMH32GX5M2D6000C36W"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "36"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006695547"
+      ],
+      "Timing":[
+         "36-36-36-76"
+      ],
+      "First Word Latency":[
+         "12 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory":{
+      "id":27,
+      "name":"G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+      "price":269.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z5-rgb-32-gb-p14898",
+      "Price / GB":[
+         "$8.437"
+      ],
+      "Speed":[
+         "DDR5-6400"
+      ],
+      "Part #":[
+         "F5-6400J3239G16GX2-TZ5RK"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "32"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.4 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "32-39-39-102"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z5 Neo RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory":{
+      "id":30,
+      "name":"G.Skill Trident Z5 Neo RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+      "price":259.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z5-neo-rgb-32-gb-p15071",
+      "Price / GB":[
+         "$8.125"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "F5-6000J3038F16GX2-TZ5NR"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "30"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "30-38-38-96"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2400 CL16 Memory":{
+      "id":8,
+      "name":"Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2400 CL16 Memory",
+      "price":54.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-16-gb-p14292",
+      "Price / GB":[
+         "$3.437"
+      ],
+      "Speed":[
+         "DDR4-2400"
+      ],
+      "Part #":[
+         "CMK16GX4M2A2400C16"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black / Yellow"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "791713876098, 843591082549"
+      ],
+      "Timing":[
+         "16-16-16-39"
+      ],
+      "First Word Latency":[
+         "13.333 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory":{
+      "id":29,
+      "name":"G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+      "price":189.99,
+      "url":"https://pc-builder.io/ram/gskill-flare-x5-32-gb-p15117",
+      "Price / GB":[
+         "$5.937"
+      ],
+      "Speed":[
+         "DDR5-6000"
+      ],
+      "Part #":[
+         "F5-6000J3636F16GX2-FX5"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "36"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "Timing":[
+         "36-36-36-96"
+      ],
+      "First Word Latency":[
+         "12 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "Corsair Vengeance 64 GB (2 x 32 GB) DDR5-6600 CL32 Memory":{
+      "id":41,
+      "name":"Corsair Vengeance 64 GB (2 x 32 GB) DDR5-6600 CL32 Memory",
+      "price":344.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-64-gb-p51846",
+      "Price / GB":[
+         "$5.390"
+      ],
+      "Speed":[
+         "DDR5-6600"
+      ],
+      "Part #":[
+         "CMK64GX5M2B6600C32"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black / Gray"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "32"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.4 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Timing":[
+         "32-39-39-76"
+      ],
+      "First Word Latency":[
+         "9.697 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB RT 32 GB (2 x 16 GB) DDR4-4600 CL18 Memory":{
+      "id":74,
+      "name":"Corsair Vengeance RGB RT 32 GB (2 x 16 GB) DDR4-4600 CL18 Memory",
+      "price":234.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-rt-32-gb-p14937",
+      "Price / GB":[
+         "$7.343"
+      ],
+      "Speed":[
+         "DDR4-4600"
+      ],
+      "Part #":[
+         "CMN32GX4M2Z4600C18"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "18"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.5 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006652113"
+      ],
+      "Timing":[
+         "18-26-26-46"
+      ],
+      "First Word Latency":[
+         "7.826 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Trident Z Neo 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory":{
+      "id":83,
+      "name":"G.Skill Trident Z Neo 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory",
+      "price":164.99,
+      "url":"https://pc-builder.io/ram/gskill-trident-z-neo-32-gb-p13959",
+      "Price / GB":[
+         "$5.156"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "F4-3600C16D-32GTZNC"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354033462"
+      ],
+      "Timing":[
+         "16-19-19-39"
+      ],
+      "First Word Latency":[
+         "8.889 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory":{
+      "id":72,
+      "name":"Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+      "price":114.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-rgb-pro-32-gb-p14900",
+      "Price / GB":[
+         "$3.593"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "CMW32GX4M2E3200C16W"
+      ],
+      "Modules":[
+         "2 x 16GB"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006620075"
+      ],
+      "Timing":[
+         "16-20-20-38"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Silicon Power XPOWER Turbine 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory":{
+      "id":73,
+      "name":"Silicon Power XPOWER Turbine 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+      "price":45.97,
+      "url":"https://pc-builder.io/ram/silicon-power-xpower-turbine-16-gb-p14483",
+      "Price / GB":[
+         "$2.873"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "SP016GXLZU320BDA"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Blue"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Silicon Power"
+      ],
+      "UPC Codes":[
+         "886576037745"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 64 GB (4 x 16 GB) DDR4-3200 CL14 Memory":{
+      "id":53,
+      "name":"G.Skill Ripjaws V 64 GB (4 x 16 GB) DDR4-3200 CL14 Memory",
+      "price":65.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-64-gb-p13396",
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "14"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "F4-3200C14Q-64GVK"
+      ],
+      "Modules":[
+         "4 x 16GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "First Word Latency":[
+         "8.75 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance LPX 64 GB (2 x 32 GB) DDR4-3200 CL16 Memory":{
+      "id":66,
+      "name":"Corsair Vengeance LPX 64 GB (2 x 32 GB) DDR4-3200 CL16 Memory",
+      "price":188.99,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-64-gb-p12453",
+      "Price / GB":[
+         "$2.953"
+      ],
+      "Speed":[
+         "DDR4-3200"
+      ],
+      "Part #":[
+         "CMK64GX4M2E3200C16"
+      ],
+      "Modules":[
+         "2 x 32GB"
+      ],
+      "Color":[
+         "Black / Yellow"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006619208"
+      ],
+      "Timing":[
+         "16-20-20-38"
+      ],
+      "First Word Latency":[
+         "10 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Samsung M378A1K43CB2-CRC 8 GB (1 x 8 GB) DDR4-2400 CL17 Memory":{
+      "id":6,
+      "name":"Samsung M378A1K43CB2-CRC 8 GB (1 x 8 GB) DDR4-2400 CL17 Memory",
+      "price":22.11,
+      "url":"https://pc-builder.io/ram/samsung-m378a1k43cb2-crc-8-gb-p10419",
+      "Price / GB":[
+         "$2.764"
+      ],
+      "Speed":[
+         "DDR4-2400"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "17"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "M378A1K43CB2-CRC"
+      ],
+      "Modules":[
+         "1 x 8GB"
+      ],
+      "Color":[
+         "Green"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "First Word Latency":[
+         "14.167 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "Samsung M386A4G40DM0-CPB 32 GB (1 x 32 GB) Registered DDR4-2133 CL15 Memory":{
+      "id":15,
+      "name":"Samsung M386A4G40DM0-CPB 32 GB (1 x 32 GB) Registered DDR4-2133 CL15 Memory",
+      "price":52.24,
+      "url":"https://pc-builder.io/ram/samsung-m386a4g40dm0-cpb-32-gb-p7703",
+      "Price / GB":[
+         "$1.633"
+      ],
+      "Speed":[
+         "DDR4-2133"
+      ],
+      "Part #":[
+         "M386A4G40DM0-CPB"
+      ],
+      "Modules":[
+         "1 x 32GB"
+      ],
+      "Color":[
+         "Black / Green"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "15"
+      ],
+      "ECC / Registered":[
+         "ECC / Registered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "UPC Codes":[
+         "800953172416"
+      ],
+      "First Word Latency":[
+         "14.065 ns"
+      ],
+      "Heat Spreader":[
+         "No"
+      ]
+   },
+   "Kingston FURY 128 GB (4 x 32 GB) DDR5-5600 CL40 Memory":{
+      "id":38,
+      "name":"Kingston FURY 128 GB (4 x 32 GB) DDR5-5600 CL40 Memory",
+      "price":449.99,
+      "url":"https://pc-builder.io/ram/kingston-fury-128-gb-p52944",
+      "Price / GB":[
+         "$3.516"
+      ],
+      "Speed":[
+         "DDR5-5600"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR5)"
+      ],
+      "CAS Latency":[
+         "40"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Part #":[
+         "KF556C40BWAK4-128"
+      ],
+      "Modules":[
+         "4 x 32GB"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Voltage":[
+         "1.25 V"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "First Word Latency":[
+         "14.286 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory":{
+      "id":52,
+      "name":"G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory",
+      "price":65.99,
+      "url":"https://pc-builder.io/ram/gskill-ripjaws-v-16-gb-p12316",
+      "Price / GB":[
+         "$4.124"
+      ],
+      "Speed":[
+         "DDR4-3600"
+      ],
+      "Part #":[
+         "F4-3600C16D-16GVKC"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "16"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.35 V"
+      ],
+      "Manufacturer":[
+         "G.Skill"
+      ],
+      "UPC Codes":[
+         "848354033608"
+      ],
+      "Timing":[
+         "16-19-19-39"
+      ],
+      "First Word Latency":[
+         "8.889 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   },
+   "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2133 CL13 Memory":{
+      "id":16,
+      "name":"Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2133 CL13 Memory",
+      "price":59.03,
+      "url":"https://pc-builder.io/ram/corsair-vengeance-lpx-16-gb-p9888",
+      "Price / GB":[
+         "$3.689"
+      ],
+      "Speed":[
+         "DDR4-2133"
+      ],
+      "Part #":[
+         "CMK16GX4M2A2133C13"
+      ],
+      "Modules":[
+         "2 x 8GB"
+      ],
+      "Color":[
+         "Black / Yellow"
+      ],
+      "Form Factor":[
+         "288-pin DIMM (DDR4)"
+      ],
+      "CAS Latency":[
+         "13"
+      ],
+      "ECC / Registered":[
+         "Non-ECC / Unbuffered"
+      ],
+      "Voltage":[
+         "1.2 V"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "843591069656"
+      ],
+      "Timing":[
+         "13-15-15-28"
+      ],
+      "First Word Latency":[
+         "12.189 ns"
+      ],
+      "Heat Spreader":[
+         "Yes"
+      ]
+   }
+}

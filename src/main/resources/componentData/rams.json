@@ -1,0 +1,48 @@
+[
+	{
+	  "id": 901,
+	  "price":100.00,
+	  "manufacturer": "HyperMemory",
+	  "model": "XtremeSpeed 16GB",
+	  "capacity": 16,
+	  "speed": 3200,
+	  "type": "DDR4"
+	},
+	{
+	  "id": 902,
+	  "price":200.00,
+	  "manufacturer": "SpeedKing",
+	  "model": "Ram Super",
+	  "capacity": 32,
+	  "speed": 3600,
+	  "type": "DDR4"
+	},
+	{
+	  "id": 903,
+	  "price":24.00,
+	  "manufacturer": "EcoRAM",
+	  "model": "GreenMemory 8GB",
+	  "capacity": 8,
+	  "speed": 2666,
+	  "type": "DDR4"
+	},
+	{
+	  "id": 904,
+	  "price":2230.00,
+	  "manufacturer": "ProMemory",
+	  "model": "PerformancePlus 64GB",
+	  "capacity": 64,
+	  "speed": 4000,
+	  "type": "DDR4"
+	},
+	{
+	  "id": 905,
+	  "price":20.00,
+	  "manufacturer": "ValueTech",
+	  "model": "BudgetBoost 16GB",
+	  "capacity": 16,
+	  "speed": 3000,
+	  "type": "DDR4"
+	}
+		
+]

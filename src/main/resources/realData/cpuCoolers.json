@@ -1,0 +1,1583 @@
+{
+   "Corsair iCUE H100i RGB ELITE 65.57 CFM Liquid CPU Cooler":{
+      "id":21,
+      "name":"Corsair iCUE H100i RGB ELITE 65.57 CFM Liquid CPU Cooler",
+      "price":139.99,
+      "url":"https://pc-builder.io/cpu-cooler/corsair-icue-h100i-rgb-elite-p2815",
+      "Noise Level":[
+         "19 - 35.8 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 240 mm"
+      ],
+      "Part #":[
+         "CW-9060058-WW"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "iCUE H100i RGB ELITE"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "400 - 1850 RPM"
+      ]
+   },
+   "NZXT Kraken X73 73.11 CFM Liquid CPU Cooler":{
+      "id":27,
+      "name":"NZXT Kraken X73 73.11 CFM Liquid CPU Cooler",
+      "price":184.99,
+      "url":"https://pc-builder.io/cpu-cooler/nzxt-kraken-x73-p2523",
+      "Noise Level":[
+         "21 - 36 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "RL-KRX73-01"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Model":[
+         "Kraken X73"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "815671015280"
+      ],
+      "Fan RPM":[
+         "500 - 2000 RPM"
+      ]
+   },
+   "Deepcool LT720 85.85 CFM Liquid CPU Cooler":{
+      "id":22,
+      "name":"Deepcool LT720 85.85 CFM Liquid CPU Cooler",
+      "price":143.98,
+      "url":"https://pc-builder.io/cpu-cooler/deepcool-lt720-p50612",
+      "Noise Level":[
+         "32.9 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "R-LT720-BKAMNF-G-1",
+         "LT720-AMAZON",
+         "LT720"
+      ],
+      "Color":[
+         "Black / Gray"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Deepcool"
+      ],
+      "Model":[
+         "LT720"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "500 - 2250 RPM"
+      ],
+      "Height":[
+         "68 mm"
+      ]
+   },
+   "Thermalright Peerless Assasin 120 SE 66.17 CFM CPU Cooler":{
+      "id":6,
+      "name":"Thermalright Peerless Assasin 120 SE 66.17 CFM CPU Cooler",
+      "price":35.9,
+      "url":"https://pc-builder.io/cpu-cooler/thermalright-peerless-assasin-120-se-p2780",
+      "Noise Level":[
+         "25.6 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "PA120 SE-D3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Thermalright"
+      ],
+      "Model":[
+         "Peerless Assasin 120 SE"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "1550 RPM"
+      ],
+      "Height":[
+         "155 mm"
+      ]
+   },
+   "Deepcool AK400 66.47 CFM CPU Cooler":{
+      "id":8,
+      "name":"Deepcool AK400 66.47 CFM CPU Cooler",
+      "price":34.99,
+      "url":"https://pc-builder.io/cpu-cooler/deepcool-ak400-p2775",
+      "Noise Level":[
+         "29 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "R-AK400-BKNNMN-G-1"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Deepcool"
+      ],
+      "Model":[
+         "AK400"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "500 - 1850 RPM"
+      ],
+      "Height":[
+         "155 mm"
+      ]
+   },
+   "NZXT Kraken Elite 360 RGB 78.02 CFM Liquid CPU Cooler":{
+      "id":29,
+      "name":"NZXT Kraken Elite 360 RGB 78.02 CFM Liquid CPU Cooler",
+      "price":298.99,
+      "url":"https://pc-builder.io/cpu-cooler/nzxt-kraken-elite-360-rgb-p52701",
+      "Noise Level":[
+         "17.9 - 30.6 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "RL-KR36E-B1"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Model":[
+         "Kraken Elite 360 RGB"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "500 - 1800 RPM"
+      ],
+      "Height":[
+         "60 mm"
+      ]
+   },
+   "ID-COOLING FROSTFLOW X 74.5 CFM Liquid CPU Cooler":{
+      "id":18,
+      "name":"ID-COOLING FROSTFLOW X 74.5 CFM Liquid CPU Cooler",
+      "price":54.99,
+      "url":"https://pc-builder.io/cpu-cooler/id-cooling-frostflow-x-p2556",
+      "Noise Level":[
+         "18 - 35.2 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 240 mm"
+      ],
+      "Part #":[
+         "FROSTFLOW X 240 SNOW"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "ID-COOLING"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "sTR4",
+         "sTRX4",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "700 - 1800 RPM"
+      ]
+   },
+   "Cooler Master MASTERLIQUID ML240L RGB V2 65.59 CFM Liquid CPU Cooler":{
+      "id":2,
+      "name":"Cooler Master MASTERLIQUID ML240L RGB V2 65.59 CFM Liquid CPU Cooler",
+      "price":89.99,
+      "url":"https://pc-builder.io/cpu-cooler/cooler-master-masterliquid-ml240l-rgb-v2-p2179",
+      "Noise Level":[
+         "6 - 27 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 240 mm"
+      ],
+      "Part #":[
+         "MLW-D24M-A18PC-R2"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Cooler Master"
+      ],
+      "Model":[
+         "MASTERLIQUID ML240L RGB V2"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "884102067891"
+      ],
+      "Fan RPM":[
+         "650 - 1800 RPM"
+      ]
+   },
+   "NZXT Kraken 360 78.02 CFM Liquid CPU Cooler":{
+      "id":37,
+      "name":"NZXT Kraken 360 78.02 CFM Liquid CPU Cooler",
+      "price":179.99,
+      "url":"https://pc-builder.io/cpu-cooler/nzxt-kraken-360-p52706",
+      "Noise Level":[
+         "17.9 - 30.6 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "RL-KN360-B1"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Model":[
+         "Kraken 360"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "500 - 1800 RPM"
+      ],
+      "Height":[
+         "56 mm"
+      ]
+   },
+   "NZXT Kraken 240 78.02 CFM Liquid CPU Cooler":{
+      "id":16,
+      "name":"NZXT Kraken 240 78.02 CFM Liquid CPU Cooler",
+      "price":139.98,
+      "url":"https://pc-builder.io/cpu-cooler/nzxt-kraken-240-p52699",
+      "Noise Level":[
+         "17.9 - 30.6 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 240 mm"
+      ],
+      "Part #":[
+         "RL-KN240-B1"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Model":[
+         "Kraken 240"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "500 - 1800 RPM"
+      ],
+      "Height":[
+         "56 mm"
+      ]
+   },
+   "Corsair iCUE H150i ELITE CAPELLIX XT 65.57 CFM Liquid CPU Cooler":{
+      "id":36,
+      "name":"Corsair iCUE H150i ELITE CAPELLIX XT 65.57 CFM Liquid CPU Cooler",
+      "price":199.99,
+      "url":"https://pc-builder.io/cpu-cooler/corsair-icue-h150i-elite-capellix-xt-p52705",
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "CW-9060073-WW"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "iCUE H150i ELITE CAPELLIX XT"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "550 - 2100 RPM"
+      ]
+   },
+   "Corsair iCUE H150i ELITE CAPELLIX 75 CFM Liquid CPU Cooler":{
+      "id":33,
+      "name":"Corsair iCUE H150i ELITE CAPELLIX 75 CFM Liquid CPU Cooler",
+      "price":149.99,
+      "url":"https://pc-builder.io/cpu-cooler/corsair-icue-h150i-elite-capellix-p1475",
+      "Noise Level":[
+         "10 - 37 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "CW-9060048-WW"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "iCUE H150i ELITE CAPELLIX"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "840006618775"
+      ],
+      "Fan RPM":[
+         "2400 RPM"
+      ]
+   },
+   "Deepcool AK620 ZERO DARK 68.99 CFM CPU Cooler":{
+      "id":25,
+      "name":"Deepcool AK620 ZERO DARK 68.99 CFM CPU Cooler",
+      "price":69.98,
+      "url":"https://pc-builder.io/cpu-cooler/deepcool-ak620-zero-dark-p3035",
+      "Noise Level":[
+         "28 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "R-AK620-BKNNMT-G-1"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Deepcool"
+      ],
+      "Model":[
+         "AK620 ZERO DARK"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "500 - 1850 RPM"
+      ],
+      "Height":[
+         "160 mm"
+      ]
+   },
+   "Corsair iCUE H100i ELITE CAPELLIX XT 65.57 CFM Liquid CPU Cooler":{
+      "id":35,
+      "name":"Corsair iCUE H100i ELITE CAPELLIX XT 65.57 CFM Liquid CPU Cooler",
+      "price":159.99,
+      "url":"https://pc-builder.io/cpu-cooler/corsair-icue-h100i-elite-capellix-xt-p52704",
+      "Noise Level":[
+         "5 - 34.1 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 240 mm"
+      ],
+      "Part #":[
+         "CW-9060072-WW"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "iCUE H100i ELITE CAPELLIX XT"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "550 - 2100 RPM"
+      ]
+   },
+   "Noctua NH-D15 chromax.black 82.52 CFM CPU Cooler":{
+      "id":4,
+      "name":"Noctua NH-D15 chromax.black 82.52 CFM CPU Cooler",
+      "price":109.95,
+      "url":"https://pc-builder.io/cpu-cooler/noctua-nh-d15-chromaxblack-p1457",
+      "Noise Level":[
+         "19.2 - 24.6 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "NH-D15 CHROMAX.BLACK",
+         "NH-D15 CH.BK",
+         "NH-D15-CH-BK"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Noctua"
+      ],
+      "Model":[
+         "NH-D15 chromax.black"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "841501100185"
+      ],
+      "Fan RPM":[
+         "300 - 1500 RPM"
+      ],
+      "Height":[
+         "165 mm"
+      ]
+   },
+   "Deepcool AK620 68.99 CFM CPU Cooler":{
+      "id":12,
+      "name":"Deepcool AK620 68.99 CFM CPU Cooler",
+      "price":72.95,
+      "url":"https://pc-builder.io/cpu-cooler/deepcool-ak620-p2646",
+      "Noise Level":[
+         "28 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "R-AK620-BKNNMT-G"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Deepcool"
+      ],
+      "Model":[
+         "AK620"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "500 - 1850 RPM"
+      ],
+      "Height":[
+         "160 mm"
+      ]
+   },
+   "Corsair iCUE H100i ELITE CAPELLIX 75 CFM Liquid CPU Cooler":{
+      "id":30,
+      "name":"Corsair iCUE H100i ELITE CAPELLIX 75 CFM Liquid CPU Cooler",
+      "price":149.99,
+      "url":"https://pc-builder.io/cpu-cooler/corsair-icue-h100i-elite-capellix-p1956",
+      "Noise Level":[
+         "10 - 37 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 240 mm"
+      ],
+      "Part #":[
+         "CW-9060046-WW"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "iCUE H100i ELITE CAPELLIX"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "840006618751"
+      ],
+      "Fan RPM":[
+         "2400 RPM"
+      ]
+   },
+   "Noctua NH-D15 82.5 CFM CPU Cooler":{
+      "id":11,
+      "name":"Noctua NH-D15 82.5 CFM CPU Cooler",
+      "price":99.95,
+      "url":"https://pc-builder.io/cpu-cooler/noctua-nh-d15-p1404",
+      "Noise Level":[
+         "19.2 - 24.6 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "NH-D15"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Noctua"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "807320186861, 803983039766, 842431012456"
+      ],
+      "Fan RPM":[
+         "300 - 1500 RPM"
+      ],
+      "Height":[
+         "165 mm"
+      ]
+   },
+   "be quiet! Pure Rock 2 Black CPU Cooler":{
+      "id":17,
+      "name":"be quiet! Pure Rock 2 Black CPU Cooler",
+      "price":49.99,
+      "url":"https://pc-builder.io/cpu-cooler/be-quiet-pure-rock-2-black-p1947",
+      "Noise Level":[
+         "19.1 - 26.8 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "BK007"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "be quiet!"
+      ],
+      "Model":[
+         "Pure Rock 2 Black"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "1500 RPM"
+      ],
+      "Height":[
+         "155 mm"
+      ]
+   },
+   "Deepcool AG400 75.89 CFM CPU Cooler":{
+      "id":10,
+      "name":"Deepcool AG400 75.89 CFM CPU Cooler",
+      "price":124.99,
+      "url":"https://pc-builder.io/cpu-cooler/deepcool-ag400-bk-argb-p2945",
+      "Noise Level":[
+         "31.6 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "R-AG400-BKANMC-G-2"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Deepcool"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "500 - 2000 RPM"
+      ],
+      "Height":[
+         "150 mm"
+      ]
+   },
+   "Thermalright Peerless Assassin 120 SE ARGB 66.17 CFM CPU Cooler":{
+      "id":19,
+      "name":"Thermalright Peerless Assassin 120 SE ARGB 66.17 CFM CPU Cooler",
+      "price":39.9,
+      "url":"https://pc-builder.io/cpu-cooler/thermalright-peerless-assassin-120-se-argb-p2790",
+      "Noise Level":[
+         "25.6 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "PA 120 SE ARGB"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Thermalright"
+      ],
+      "Model":[
+         "Peerless Assassin 120 SE ARGB"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "1550 RPM"
+      ],
+      "Height":[
+         "155 mm"
+      ]
+   },
+   "Cooler Master Hyper 212 Black Edition 42 CFM CPU Cooler":{
+      "id":1,
+      "name":"Cooler Master Hyper 212 Black Edition 42 CFM CPU Cooler",
+      "price":49.99,
+      "url":"https://pc-builder.io/cpu-cooler/cooler-master-hyper-212-black-edition-p2785",
+      "Noise Level":[
+         "6.5 - 26 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "RR-212S-20PK-R2"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Cooler Master"
+      ],
+      "Model":[
+         "Hyper 212 Black Edition"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "884102095771"
+      ],
+      "Fan RPM":[
+         "800 - 2000 RPM"
+      ],
+      "Height":[
+         "159 mm"
+      ]
+   },
+   "Thermalright Assassin X 120 Refined SE 66.17 CFM CPU Cooler":{
+      "id":20,
+      "name":"Thermalright Assassin X 120 Refined SE 66.17 CFM CPU Cooler",
+      "price":19.9,
+      "url":"https://pc-builder.io/cpu-cooler/thermalright-assassin-x-120-refined-se-p2782",
+      "Noise Level":[
+         "25.6 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "AX120 SE-D3",
+         "AX120 Refined SE"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Thermalright"
+      ],
+      "Model":[
+         "Assassin X 120 Refined SE"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "1550 RPM"
+      ],
+      "Height":[
+         "148 mm"
+      ]
+   },
+   "NZXT Kraken 360 RGB 78.02 CFM Liquid CPU Cooler":{
+      "id":31,
+      "name":"NZXT Kraken 360 RGB 78.02 CFM Liquid CPU Cooler",
+      "price":219.99,
+      "url":"https://pc-builder.io/cpu-cooler/nzxt-kraken-360-rgb-p52702",
+      "Noise Level":[
+         "17.9 - 30.6 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "RL-KR360-W1"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Model":[
+         "Kraken 360 RGB"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "500 - 1800 RPM"
+      ],
+      "Height":[
+         "56 mm"
+      ]
+   },
+   "be quiet! Dark Rock Pro 4 50.5 CFM CPU Cooler":{
+      "id":3,
+      "name":"be quiet! Dark Rock Pro 4 50.5 CFM CPU Cooler",
+      "price":89.9,
+      "url":"https://pc-builder.io/cpu-cooler/be-quiet-dark-rock-pro-4-p1604",
+      "Noise Level":[
+         "12.8 - 24.3 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "BK022"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "be quiet!"
+      ],
+      "Model":[
+         "Dark Rock Pro 4"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "1500 RPM"
+      ],
+      "Height":[
+         "163 mm"
+      ]
+   },
+   "NZXT Kraken Z73 73.11 CFM Liquid CPU Cooler":{
+      "id":14,
+      "name":"NZXT Kraken Z73 73.11 CFM Liquid CPU Cooler",
+      "price":284.99,
+      "url":"https://pc-builder.io/cpu-cooler/nzxt-kraken-z73-p2249",
+      "Noise Level":[
+         "21 - 36 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "RL-KRZ73-01"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Model":[
+         "Kraken Z73"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "815671015303"
+      ],
+      "Fan RPM":[
+         "500 - 1800 RPM"
+      ]
+   },
+   "ARCTIC Liquid Freezer II 360 56.3 CFM Liquid CPU Cooler":{
+      "id":9,
+      "name":"ARCTIC Liquid Freezer II 360 56.3 CFM Liquid CPU Cooler",
+      "price":124.99,
+      "url":"https://pc-builder.io/cpu-cooler/arctic-liquid-freezer-ii-360-p1336",
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "ACFRE00068A"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "ARCTIC"
+      ],
+      "Model":[
+         "Liquid Freezer II 360"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "039978308443, 872767009875"
+      ],
+      "Fan RPM":[
+         "800 - 2000 RPM"
+      ]
+   },
+   "Deepcool LS720 85.85 CFM Liquid CPU Cooler":{
+      "id":28,
+      "name":"Deepcool LS720 85.85 CFM Liquid CPU Cooler",
+      "price":139.99,
+      "url":"https://pc-builder.io/cpu-cooler/deepcool-ls720-p2798",
+      "Noise Level":[
+         "32.9 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "R-LS720-BKAMNT-G-1",
+         "LS720"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Deepcool"
+      ],
+      "Model":[
+         "LS720"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "500 - 2250 RPM"
+      ]
+   },
+   "NZXT Kraken Z73 RGB 52.44 CFM Liquid CPU Cooler":{
+      "id":26,
+      "name":"NZXT Kraken Z73 RGB 52.44 CFM Liquid CPU Cooler",
+      "price":304.99,
+      "url":"https://pc-builder.io/cpu-cooler/nzxt-kraken-z73-rgb-p2679",
+      "Noise Level":[
+         "22 - 33 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "RL-KRZ73-R1"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Model":[
+         "Kraken Z73 RGB"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "815671016638"
+      ],
+      "Fan RPM":[
+         "500 - 1500 RPM"
+      ]
+   },
+   "NZXT Kraken 240 RGB 78.02 CFM Liquid CPU Cooler":{
+      "id":13,
+      "name":"NZXT Kraken 240 RGB 78.02 CFM Liquid CPU Cooler",
+      "price":159.99,
+      "url":"https://pc-builder.io/cpu-cooler/nzxt-kraken-240-rgb-p52698",
+      "Noise Level":[
+         "17.9 - 30.6 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 240 mm"
+      ],
+      "Part #":[
+         "RL-KR240-W1"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Model":[
+         "Kraken 240 RGB"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700"
+      ],
+      "Fan RPM":[
+         "500 - 1800 RPM"
+      ],
+      "Height":[
+         "56 mm"
+      ]
+   },
+   "ARCTIC Liquid Freezer II 240 56.3 CFM Liquid CPU Cooler":{
+      "id":24,
+      "name":"ARCTIC Liquid Freezer II 240 56.3 CFM Liquid CPU Cooler",
+      "price":97.99,
+      "url":"https://pc-builder.io/cpu-cooler/arctic-liquid-freezer-ii-240-p2116",
+      "Water Cooled":[
+         "Yes - 240 mm"
+      ],
+      "Part #":[
+         "ACFRE00046A"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "ARCTIC"
+      ],
+      "Model":[
+         "Liquid Freezer II 240"
+      ],
+      "CPU Socket":[
+         "AM4",
+         "AM5",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "872767009820"
+      ],
+      "Fan RPM":[
+         "200 - 1800 RPM"
+      ]
+   },
+   "Noctua NH-U12S chromax.black 55 CFM CPU Cooler":{
+      "id":15,
+      "name":"Noctua NH-U12S chromax.black 55 CFM CPU Cooler",
+      "price":79.95,
+      "url":"https://pc-builder.io/cpu-cooler/noctua-nh-u12s-chromaxblack-p2148",
+      "Noise Level":[
+         "18.6 - 22.4 dB"
+      ],
+      "Water Cooled":[
+         "No"
+      ],
+      "Part #":[
+         "NH-U12S chromax.black",
+         "NH-U12S CH.BK",
+         "NH-U12S-CH-BK"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Noctua"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "UPC Codes":[
+         "841501100178"
+      ],
+      "Fan RPM":[
+         "300 - 1500 RPM"
+      ],
+      "Height":[
+         "158 mm"
+      ]
+   },
+   "Corsair iCUE H150i ELITE LCD XT 65.57 CFM Liquid CPU Cooler":{
+      "id":34,
+      "name":"Corsair iCUE H150i ELITE LCD XT 65.57 CFM Liquid CPU Cooler",
+      "price":259.99,
+      "url":"https://pc-builder.io/cpu-cooler/corsair-icue-h150i-elite-lcd-xt-p52703",
+      "Noise Level":[
+         "5 - 31.1 dB"
+      ],
+      "Water Cooled":[
+         "Yes - 360 mm"
+      ],
+      "Part #":[
+         "CW-9060077-WW"
+      ],
+      "Color":[
+         "White / Gray"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "iCUE H150i ELITE LCD XT"
+      ],
+      "CPU Socket":[
+         "AM2",
+         "AM2+",
+         "AM3",
+         "AM3+",
+         "AM4",
+         "AM5",
+         "sTR4",
+         "sTRX4",
+         "FM1",
+         "FM2",
+         "FM2+",
+         "LGA1150",
+         "LGA1151",
+         "LGA1155",
+         "LGA1156",
+         "LGA1200",
+         "LGA1366",
+         "LGA1700",
+         "LGA2011",
+         "LGA2011-3",
+         "LGA2066"
+      ],
+      "Fan RPM":[
+         "550 - 2100 RPM"
+      ]
+   }
+}

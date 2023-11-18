@@ -1,0 +1,5642 @@
+{
+   "Intel Core i3-10100 3.6 GHz Quad-Core Processor":{
+      "id":70,
+      "name":"Intel Core i3-10100 3.6 GHz Quad-Core Processor",
+      "price":106.0,
+      "url":"https://pc-builder.io/cpu/intel-core-i3-10100-p1076",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "4 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.3 GHz"
+      ],
+      "L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110100"
+      ],
+      "L3 Cache":[
+         "1 x 6 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "4"
+      ],
+      "Series":[
+         "Intel Core i3"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 630"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858445825"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 9 7900X3D 4.4 GHz 12-Core Processor":{
+      "id":29,
+      "name":"AMD Ryzen 9 7900X3D 4.4 GHz 12-Core Processor",
+      "price":599.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-7900x3d-p51632",
+      "TDP":[
+         "120 W"
+      ],
+      "L2 Cache":[
+         "12 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.6 GHz"
+      ],
+      "L1 Cache":[
+         "12 x 32 kB Instruction",
+         "12 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000909WOF"
+      ],
+      "L3 Cache":[
+         "1 x 128 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "12"
+      ],
+      "Series":[
+         "AMD Ryzen 9"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "4.4 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "AMD Ryzen 7 5700G 3.8 GHz 8-Core Processor":{
+      "id":10,
+      "name":"AMD Ryzen 7 5700G 3.8 GHz 8-Core Processor",
+      "price":228.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-5700g-p1288",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Cezanne"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.6 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000263BOX"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon Vega 8"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "797505615449, 730143313377, 797505615739"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i7-10700 2.9 GHz 8-Core Processor":{
+      "id":72,
+      "name":"Intel Core i7-10700 2.9 GHz 8-Core Processor",
+      "price":268.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-10700-p820",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.8 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110700"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "2.9 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 630"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858447737"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "Intel Core i9-13900KS 3 GHz 24-Core Processor":{
+      "id":45,
+      "name":"Intel Core i9-13900KS 3 GHz 24-Core Processor",
+      "price":729.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i9-13900ks-p51622",
+      "TDP":[
+         "150 W"
+      ],
+      "L2 Cache":[
+         "8 x 2 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "6 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513900KS"
+      ],
+      "L3 Cache":[
+         "1 x 36 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "24"
+      ],
+      "Series":[
+         "Intel Core i9"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "3 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 770"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "4 x 4 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "16 x 32 kB Instruction",
+         "16 x 64 kB Data"
+      ]
+   },
+   "Intel Core i7-11700KF 3.6 GHz 8-Core Processor":{
+      "id":73,
+      "name":"Intel Core i7-11700KF 3.6 GHz 8-Core Processor",
+      "price":255.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-11700kf-p301",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Rocket Lake-S"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070811700KF"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Rocket Lake"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858478199"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "Intel Core i5-11600K 3.9 GHz 6-Core Processor":{
+      "id":61,
+      "name":"Intel Core i5-11600K 3.9 GHz 6-Core Processor",
+      "price":189.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-11600k-p571",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Rocket Lake-S"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.9 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070811600K"
+      ],
+      "L3 Cache":[
+         "1 x 12 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Rocket Lake"
+      ],
+      "Core Clock":[
+         "3.9 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 750"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858477253"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 5 5600 3.5 GHz 6-Core Processor":{
+      "id":3,
+      "name":"AMD Ryzen 5 5600 3.5 GHz 6-Core Processor",
+      "price":129.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-5600-p1303",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Vermeer"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000927BOX"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143314190"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i7-13700KF 3.4 GHz 16-Core Processor":{
+      "id":44,
+      "name":"Intel Core i7-13700KF 3.4 GHz 16-Core Processor",
+      "price":429.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-13700kf-p1321",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 2 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.4 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513700KF"
+      ],
+      "L3 Cache":[
+         "1 x 30 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "16"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "3.4 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "2 x 4 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 64 kB Data"
+      ]
+   },
+   "Intel Core i5-11400F 2.6 GHz 6-Core Processor":{
+      "id":57,
+      "name":"Intel Core i5-11400F 2.6 GHz 6-Core Processor",
+      "price":149.98,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-11400f-p1070",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Rocket Lake-S"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070811400F"
+      ],
+      "L3 Cache":[
+         "1 x 12 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Rocket Lake"
+      ],
+      "Core Clock":[
+         "2.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858478120"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 5 3600X 3.8 GHz 6-Core Processor":{
+      "id":18,
+      "name":"AMD Ryzen 5 3600X 3.8 GHz 6-Core Processor",
+      "price":138.48,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-3600x-p41",
+      "TDP":[
+         "95 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Matisse"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 64 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "Ryzen 5 3600X",
+         "100-100000022BOX"
+      ],
+      "L3 Cache":[
+         "2 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143309912"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor":{
+      "id":7,
+      "name":"AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor",
+      "price":151.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-5600g-p1292",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Cezanne"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000252BOX"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.9 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon Vega 7"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143313414"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "AMD Ryzen 5 5500 3.6 GHz 6-Core Processor":{
+      "id":8,
+      "name":"AMD Ryzen 5 5500 3.6 GHz 6-Core Processor",
+      "price":123.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-5500-p1307",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Cezanne"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.2 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000457BOX"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143314121"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i9-10900K 3.7 GHz 10-Core Processor":{
+      "id":63,
+      "name":"Intel Core i9-10900K 3.7 GHz 10-Core Processor",
+      "price":347.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i9-10900k-p807",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "10 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.3 GHz"
+      ],
+      "L1 Cache":[
+         "10 x 32 kB Instruction",
+         "10 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110900K"
+      ],
+      "L3 Cache":[
+         "1 x 20 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "10"
+      ],
+      "Series":[
+         "Intel Core i9"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 630"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858447638"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Threadripper 3960X 3.8 GHz 24-Core Processor":{
+      "id":77,
+      "name":"AMD Threadripper 3960X 3.8 GHz 24-Core Processor",
+      "price":2012.99,
+      "url":"https://pc-builder.io/cpu/amd-threadripper-3960x-p957",
+      "TDP":[
+         "280 W"
+      ],
+      "L2 Cache":[
+         "24 x 512 kB"
+      ],
+      "Core Family":[
+         "Castle Peak"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "4.5 GHz"
+      ],
+      "L1 Cache":[
+         "24 x 32 kB Instruction",
+         "24 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000010WOF"
+      ],
+      "L3 Cache":[
+         "8 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "24"
+      ],
+      "Series":[
+         "AMD Threadripper"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "512 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143311885"
+      ],
+      "Socket":[
+         "sTRX4"
+      ]
+   },
+   "Intel Core i5-12600KF 3.7 GHz 10-Core Processor":{
+      "id":51,
+      "name":"Intel Core i5-12600KF 3.7 GHz 10-Core Processor",
+      "price":259.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-12600kf-p1298",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "6 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Alder Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.9 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071512600KF"
+      ],
+      "L3 Cache":[
+         "1 x 20 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "10"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Alder Lake"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "1 x 2 MB"
+      ],
+      "UPC Codes":[
+         "735858499057"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 64 kB Data"
+      ]
+   },
+   "Intel Core i5-10600K 4.1 GHz 6-Core Processor":{
+      "id":65,
+      "name":"Intel Core i5-10600K 4.1 GHz 6-Core Processor",
+      "price":203.97,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-10600k-p353",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "6 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.8 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110600K"
+      ],
+      "L3 Cache":[
+         "1 x 12 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "4.1 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 630"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858447652"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 7 3700X 3.6 GHz 8-Core Processor":{
+      "id":12,
+      "name":"AMD Ryzen 7 3700X 3.6 GHz 8-Core Processor",
+      "price":164.13,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-3700x-p544",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Matisse"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 64 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "Ryzen 7 3700X",
+         "100-100000071BOX"
+      ],
+      "L3 Cache":[
+         "2 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143309974, 730143309981"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i7-10700K 3.8 GHz 8-Core Processor":{
+      "id":58,
+      "name":"Intel Core i7-10700K 3.8 GHz 8-Core Processor",
+      "price":265.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-10700k-p1251",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.1 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110700K"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 630"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858447614"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 5 4500 3.6 GHz 6-Core Processor":{
+      "id":11,
+      "name":"AMD Ryzen 5 4500 3.6 GHz 6-Core Processor",
+      "price":99.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-4500-p1308",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Renoir-X"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.1 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000644BOX"
+      ],
+      "L3 Cache":[
+         "1 x 8 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143314114"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor":{
+      "id":21,
+      "name":"AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor",
+      "price":384.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-7800x3d-p52516",
+      "TDP":[
+         "120 W"
+      ],
+      "L2 Cache":[
+         "8 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000910WOF"
+      ],
+      "L3 Cache":[
+         "1 x 96 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "4.2 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "Intel Core i3-12100F 3.3 GHz Quad-Core Processor":{
+      "id":41,
+      "name":"Intel Core i3-12100F 3.3 GHz Quad-Core Processor",
+      "price":94.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i3-12100f-p1291",
+      "TDP":[
+         "58 W"
+      ],
+      "L2 Cache":[
+         "4 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Alder Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.3 GHz"
+      ],
+      "L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071512100F"
+      ],
+      "L3 Cache":[
+         "1 x 12 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "4"
+      ],
+      "Series":[
+         "Intel Core i3"
+      ],
+      "Microarchitecture":[
+         "Alder Lake"
+      ],
+      "Core Clock":[
+         "3.3 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858504423"
+      ],
+      "Socket":[
+         "LGA1700"
+      ]
+   },
+   "Intel Core i5-12600K 3.7 GHz 10-Core Processor":{
+      "id":39,
+      "name":"Intel Core i5-12600K 3.7 GHz 10-Core Processor",
+      "price":259.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-12600k-p1300",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "6 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Alder Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.9 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071512600K"
+      ],
+      "L3 Cache":[
+         "1 x 20 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "10"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Alder Lake"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 770"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "1 x 2 MB"
+      ],
+      "UPC Codes":[
+         "735858499040"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 64 kB Data"
+      ]
+   },
+   "Intel Core i7-10700F 2.9 GHz 8-Core Processor":{
+      "id":64,
+      "name":"Intel Core i7-10700F 2.9 GHz 8-Core Processor",
+      "price":247.49,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-10700f-p509",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.8 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110700F"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "2.9 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858447751"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "Intel Core i5-13500 2.5 GHz 14-Core Processor":{
+      "id":48,
+      "name":"Intel Core i5-13500 2.5 GHz 14-Core Processor",
+      "price":249.98,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-13500-p51624",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.8 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513500"
+      ],
+      "L3 Cache":[
+         "1 x 24 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "14"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "2.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 770"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "2 x 2 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 64 kB Data"
+      ]
+   },
+   "Intel Core i7-13700F 2.1 GHz 16-Core Processor":{
+      "id":54,
+      "name":"Intel Core i7-13700F 2.1 GHz 16-Core Processor",
+      "price":369.98,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-13700f-p51629",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 2 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.2 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513700F"
+      ],
+      "L3 Cache":[
+         "1 x 30 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "16"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "2.1 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "2 x 4 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 64 kB Data"
+      ]
+   },
+   "Intel Core i9-10850K 3.6 GHz 10-Core Processor":{
+      "id":67,
+      "name":"Intel Core i9-10850K 3.6 GHz 10-Core Processor",
+      "price":339.89,
+      "url":"https://pc-builder.io/cpu/intel-core-i9-10850k-p1001",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "10 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.2 GHz"
+      ],
+      "L1 Cache":[
+         "10 x 32 kB Instruction",
+         "10 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110850K"
+      ],
+      "L3 Cache":[
+         "1 x 20 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "10"
+      ],
+      "Series":[
+         "Intel Core i9"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 630"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858459273"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 5 7600 3.8 GHz 6-Core Processor":{
+      "id":24,
+      "name":"AMD Ryzen 5 7600 3.8 GHz 6-Core Processor",
+      "price":229.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-7600-p51620",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.1 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100001015BOX"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "AMD Ryzen 9 7950X 4.5 GHz 16-Core Processor":{
+      "id":27,
+      "name":"AMD Ryzen 9 7950X 4.5 GHz 16-Core Processor",
+      "price":699.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-7950x-p1309",
+      "TDP":[
+         "170 W"
+      ],
+      "L2 Cache":[
+         "16 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.7 GHz"
+      ],
+      "L1 Cache":[
+         "16 x 32 kB Instruction",
+         "16 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000514WOF"
+      ],
+      "L3 Cache":[
+         "1 x 64 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "16"
+      ],
+      "Series":[
+         "AMD Ryzen 9"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "4.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143314534"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "AMD Ryzen 9 7950X3D 4.2 GHz 16-Core Processor":{
+      "id":26,
+      "name":"AMD Ryzen 9 7950X3D 4.2 GHz 16-Core Processor",
+      "price":699.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-7950x3d-p51630",
+      "TDP":[
+         "120 W"
+      ],
+      "L2 Cache":[
+         "16 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.7 GHz"
+      ],
+      "L1 Cache":[
+         "16 x 32 kB Instruction",
+         "16 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000908WOF"
+      ],
+      "L3 Cache":[
+         "1 x 128 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "16"
+      ],
+      "Series":[
+         "AMD Ryzen 9"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "4.2 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "Intel Core i5-12400F 2.5 GHz 6-Core Processor":{
+      "id":37,
+      "name":"Intel Core i5-12400F 2.5 GHz 6-Core Processor",
+      "price":169.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-12400f-p1281",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Alder Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071512400F"
+      ],
+      "L3 Cache":[
+         "1 x 18 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Alder Lake"
+      ],
+      "Core Clock":[
+         "2.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858503037"
+      ],
+      "Socket":[
+         "LGA1700"
+      ]
+   },
+   "Intel Core i7-10700KF 3.8 GHz 8-Core Processor":{
+      "id":74,
+      "name":"Intel Core i7-10700KF 3.8 GHz 8-Core Processor",
+      "price":289.96,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-10700kf-p1116",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.1 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110700KF"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "767531765272"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "Intel Core i3-10105F 3.7 GHz Quad-Core Processor":{
+      "id":68,
+      "name":"Intel Core i3-10105F 3.7 GHz Quad-Core Processor",
+      "price":85.0,
+      "url":"https://pc-builder.io/cpu/intel-core-i3-10105f-p910",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "4 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110105F"
+      ],
+      "L3 Cache":[
+         "1 x 6 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "4"
+      ],
+      "Series":[
+         "Intel Core i3"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "675901933384, 735858478106"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 5 4600G 3.7 GHz 6-Core Processor":{
+      "id":14,
+      "name":"AMD Ryzen 5 4600G 3.7 GHz 6-Core Processor",
+      "price":133.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-4600g-p1314",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Renoir"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.2 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000147BOX"
+      ],
+      "L3 Cache":[
+         "1 x 8 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon Vega 7"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143313940"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i3-13100F 3.4 GHz Quad-Core Processor":{
+      "id":50,
+      "name":"Intel Core i3-13100F 3.4 GHz Quad-Core Processor",
+      "price":119.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i3-13100f-p51626",
+      "TDP":[
+         "58 W"
+      ],
+      "L2 Cache":[
+         "4 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.5 GHz"
+      ],
+      "L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513100F"
+      ],
+      "L3 Cache":[
+         "1 x 12 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "4"
+      ],
+      "Series":[
+         "Intel Core i3"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "3.4 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "LGA1700"
+      ]
+   },
+   "Intel Core i5-10400F 2.9 GHz 6-Core Processor":{
+      "id":55,
+      "name":"Intel Core i5-10400F 2.9 GHz 6-Core Processor",
+      "price":128.98,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-10400f-p1186",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.3 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110400F"
+      ],
+      "L3 Cache":[
+         "1 x 12 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "2.9 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858445948"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 9 7900X 4.7 GHz 12-Core Processor":{
+      "id":25,
+      "name":"AMD Ryzen 9 7900X 4.7 GHz 12-Core Processor",
+      "price":549.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-7900x-p1312",
+      "TDP":[
+         "170 W"
+      ],
+      "L2 Cache":[
+         "12 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.6 GHz"
+      ],
+      "L1 Cache":[
+         "12 x 32 kB Instruction",
+         "12 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000589WOF"
+      ],
+      "L3 Cache":[
+         "1 x 64 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "12"
+      ],
+      "Series":[
+         "AMD Ryzen 9"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "4.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143314558"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "Intel Core i7-11700 2.5 GHz 8-Core Processor":{
+      "id":66,
+      "name":"Intel Core i7-11700 2.5 GHz 8-Core Processor",
+      "price":194.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-11700-p122",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Rocket Lake-S"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.9 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070811700"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Rocket Lake"
+      ],
+      "Core Clock":[
+         "2.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 750"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858477277"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "Intel Core i5-13400 2.5 GHz 10-Core Processor":{
+      "id":53,
+      "name":"Intel Core i5-13400 2.5 GHz 10-Core Processor",
+      "price":229.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-13400-p51627",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.6 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513400"
+      ],
+      "L3 Cache":[
+         "1 x 20 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "10"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "2.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 730"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "1 x 2 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 64 kB Data"
+      ]
+   },
+   "AMD Threadripper 3970X 3.7 GHz 32-Core Processor":{
+      "id":76,
+      "name":"AMD Threadripper 3970X 3.7 GHz 32-Core Processor",
+      "price":3450.0,
+      "url":"https://pc-builder.io/cpu/amd-threadripper-3970x-p1103",
+      "TDP":[
+         "280 W"
+      ],
+      "L2 Cache":[
+         "32 x 512 kB"
+      ],
+      "Core Family":[
+         "Castle Peak"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "4.5 GHz"
+      ],
+      "L1 Cache":[
+         "32 x 32 kB Instruction",
+         "32 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000011WOF"
+      ],
+      "L3 Cache":[
+         "8 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "32"
+      ],
+      "Series":[
+         "AMD Threadripper"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "512 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143311908"
+      ],
+      "Socket":[
+         "sTRX4"
+      ]
+   },
+   "AMD Ryzen 9 5900X 3.7 GHz 12-Core Processor":{
+      "id":9,
+      "name":"AMD Ryzen 9 5900X 3.7 GHz 12-Core Processor",
+      "price":347.49,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-5900x-p436",
+      "TDP":[
+         "105 W"
+      ],
+      "L2 Cache":[
+         "12 x 512 kB"
+      ],
+      "Core Family":[
+         "Vermeer"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.8 GHz"
+      ],
+      "L1 Cache":[
+         "12 x 32 kB Instruction",
+         "12 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000061WOF"
+      ],
+      "L3 Cache":[
+         "2 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "12"
+      ],
+      "Series":[
+         "AMD Ryzen 9"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "732866856957, 730143312738, 797505615821"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "AMD Ryzen 9 5950X 3.4 GHz 16-Core Processor":{
+      "id":13,
+      "name":"AMD Ryzen 9 5950X 3.4 GHz 16-Core Processor",
+      "price":499.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-5950x-p552",
+      "TDP":[
+         "105 W"
+      ],
+      "L2 Cache":[
+         "16 x 512 kB"
+      ],
+      "Core Family":[
+         "Vermeer"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.9 GHz"
+      ],
+      "L1 Cache":[
+         "16 x 32 kB Instruction",
+         "16 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000059WOF"
+      ],
+      "L3 Cache":[
+         "2 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "16"
+      ],
+      "Series":[
+         "AMD Ryzen 9"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.4 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i7-13700K 3.4 GHz 16-Core Processor":{
+      "id":35,
+      "name":"Intel Core i7-13700K 3.4 GHz 16-Core Processor",
+      "price":439.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-13700k-p1322",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 2 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.4 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513700K"
+      ],
+      "L3 Cache":[
+         "1 x 30 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "16"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "3.4 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 770"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "2 x 4 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 64 kB Data"
+      ]
+   },
+   "Intel Core i3-10100F 3.6 GHz Quad-Core Processor":{
+      "id":56,
+      "name":"Intel Core i3-10100F 3.6 GHz Quad-Core Processor",
+      "price":73.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i3-10100f-p1086",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "4 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.3 GHz"
+      ],
+      "L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110100F"
+      ],
+      "L3 Cache":[
+         "1 x 6 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "4"
+      ],
+      "Series":[
+         "Intel Core i3"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858452199"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 3 4100 3.8 GHz Quad-Core Processor":{
+      "id":15,
+      "name":"AMD Ryzen 3 4100 3.8 GHz Quad-Core Processor",
+      "price":81.5,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-3-4100-p1313",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "4 x 512 kB"
+      ],
+      "Core Family":[
+         "Renoir-X"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4 GHz"
+      ],
+      "L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000510BOX"
+      ],
+      "L3 Cache":[
+         "1 x 4 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "4"
+      ],
+      "Series":[
+         "AMD Ryzen 3"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143314060"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i5-13600K 3.5 GHz 14-Core Processor":{
+      "id":38,
+      "name":"Intel Core i5-13600K 3.5 GHz 14-Core Processor",
+      "price":329.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-13600k-p1320",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "6 x 2 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.1 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513600K"
+      ],
+      "L3 Cache":[
+         "1 x 24 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "14"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "3.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 770"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "2 x 4 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 64 kB Data"
+      ]
+   },
+   "AMD Ryzen 5 3600 3.6 GHz 6-Core Processor":{
+      "id":4,
+      "name":"AMD Ryzen 5 3600 3.6 GHz 6-Core Processor",
+      "price":113.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-3600-p192",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Matisse"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.2 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "Ryzen 5 3600",
+         "100-100000031BOX"
+      ],
+      "L3 Cache":[
+         "2 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143309943, 880794335997, 730143309936"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i5-11400 2.6 GHz 6-Core Processor":{
+      "id":69,
+      "name":"Intel Core i5-11400 2.6 GHz 6-Core Processor",
+      "price":172.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-11400-p167",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Rocket Lake-S"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070811400"
+      ],
+      "L3 Cache":[
+         "1 x 12 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Rocket Lake"
+      ],
+      "Core Clock":[
+         "2.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 730"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858477239"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 9 PRO 7945 3.7 GHz 12-Core OEM/Tray Processor":{
+      "id":32,
+      "name":"AMD Ryzen 9 PRO 7945 3.7 GHz 12-Core OEM/Tray Processor",
+      "price":422.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-pro-7945-p52520",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "12 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.4 GHz"
+      ],
+      "L1 Cache":[
+         "12 x 32 kB Instruction",
+         "12 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-000000598"
+      ],
+      "L3 Cache":[
+         "1 x 64 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "12"
+      ],
+      "Series":[
+         "AMD Ryzen 9 PRO"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "OEM/Tray"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "AMD Ryzen 7 5700X 3.4 GHz 8-Core Processor":{
+      "id":6,
+      "name":"AMD Ryzen 7 5700X 3.4 GHz 8-Core Processor",
+      "price":199.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-5700x-p1305",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Vermeer"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.6 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000926WOF"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.4 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "797505615876, 730143314275"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "AMD Ryzen 7 5800X 3.8 GHz 8-Core Processor":{
+      "id":2,
+      "name":"AMD Ryzen 7 5800X 3.8 GHz 8-Core Processor",
+      "price":257.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-5800x-p1077",
+      "TDP":[
+         "105 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Vermeer"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.7 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000063WOF"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143312714"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i7-12700KF 3.6 GHz 12-Core Processor":{
+      "id":47,
+      "name":"Intel Core i7-12700KF 3.6 GHz 12-Core Processor",
+      "price":377.98,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-12700kf-p1297",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Alder Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071512700KF"
+      ],
+      "L3 Cache":[
+         "1 x 25 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "12"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Alder Lake"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "1 x 2 MB"
+      ],
+      "UPC Codes":[
+         "735858498982"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 64 kB Data"
+      ]
+   },
+   "AMD Ryzen 7 PRO 7745 3.8 GHz 8-Core OEM/Tray Processor":{
+      "id":33,
+      "name":"AMD Ryzen 7 PRO 7745 3.8 GHz 8-Core OEM/Tray Processor",
+      "price":422.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-pro-7745-p52521",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.3 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-000000599"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7 PRO"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "OEM/Tray"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "Intel Core i9-12900K 3.2 GHz 16-Core Processor":{
+      "id":46,
+      "name":"Intel Core i9-12900K 3.2 GHz 16-Core Processor",
+      "price":469.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i9-12900k-p1284",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Alder Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.2 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071512900K"
+      ],
+      "L3 Cache":[
+         "1 x 30 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "16"
+      ],
+      "Series":[
+         "Intel Core i9"
+      ],
+      "Microarchitecture":[
+         "Alder Lake"
+      ],
+      "Core Clock":[
+         "3.2 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 770"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "2 x 2 MB"
+      ],
+      "UPC Codes":[
+         "735858499613"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 64 kB Data"
+      ]
+   },
+   "AMD Ryzen 9 7900 3.6 GHz 12-Core Processor":{
+      "id":30,
+      "name":"AMD Ryzen 9 7900 3.6 GHz 12-Core Processor",
+      "price":422.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-7900-p51625",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "12 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.4 GHz"
+      ],
+      "L1 Cache":[
+         "12 x 32 kB Instruction",
+         "12 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000590BOX"
+      ],
+      "L3 Cache":[
+         "1 x 64 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "12"
+      ],
+      "Series":[
+         "AMD Ryzen 9"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "AMD Ryzen 5 2600 3.4 GHz 6-Core Processor":{
+      "id":16,
+      "name":"AMD Ryzen 5 2600 3.4 GHz 6-Core Processor",
+      "price":82.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-2600-p935",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Pinnacle Ridge"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "3.9 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 64 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "12 nm"
+      ],
+      "Part #":[
+         "YD2600BBAFBOX"
+      ],
+      "L3 Cache":[
+         "1 x 15.99 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen+"
+      ],
+      "Core Clock":[
+         "3.4 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "64 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143309165"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i9-13900K 3 GHz 24-Core Processor":{
+      "id":36,
+      "name":"Intel Core i9-13900K 3 GHz 24-Core Processor",
+      "price":659.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i9-13900k-p1324",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 2 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.8 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513900K"
+      ],
+      "L3 Cache":[
+         "1 x 36 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "24"
+      ],
+      "Series":[
+         "Intel Core i9"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "3 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 770"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "4 x 4 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "16 x 32 kB Instruction",
+         "16 x 64 kB Data"
+      ]
+   },
+   "Intel Core i7-11700K 3.6 GHz 8-Core Processor":{
+      "id":59,
+      "name":"Intel Core i7-11700K 3.6 GHz 8-Core Processor",
+      "price":290.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-11700k-p630",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Rocket Lake-S"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070811700K"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Rocket Lake"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 750"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858477291"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 9 3900X 3.8 GHz 12-Core Processor":{
+      "id":19,
+      "name":"AMD Ryzen 9 3900X 3.8 GHz 12-Core Processor",
+      "price":345.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-9-3900x-p1138",
+      "TDP":[
+         "105 W"
+      ],
+      "L2 Cache":[
+         "12 x 512 kB"
+      ],
+      "Core Family":[
+         "Matisse"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.6 GHz"
+      ],
+      "L1 Cache":[
+         "12 x 32 kB Instruction",
+         "12 x 64 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "Ryzen 9 3900X",
+         "100-100000023BOX"
+      ],
+      "L3 Cache":[
+         "4 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "12"
+      ],
+      "Series":[
+         "AMD Ryzen 9"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143309950"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "AMD Ryzen 7 7700 3.6 GHz 8-Core Processor":{
+      "id":28,
+      "name":"AMD Ryzen 7 7700 3.6 GHz 8-Core Processor",
+      "price":324.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-7700-p51623",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.3 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000592BOX"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "AMD Ryzen 5 7500F 3.7 GHz 6-Core Processor":{
+      "id":31,
+      "name":"AMD Ryzen 5 7500F 3.7 GHz 6-Core Processor",
+      "price":422.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-7500f-p52519",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000597BOX",
+         "100-100000597MPK"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "AMD Ryzen 3 3200G 3.6 GHz Quad-Core Processor":{
+      "id":17,
+      "name":"AMD Ryzen 3 3200G 3.6 GHz Quad-Core Processor",
+      "price":92.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-3-3200g-p375",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "4 x 512 kB"
+      ],
+      "Core Family":[
+         "Picasso"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4 GHz"
+      ],
+      "L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 64 kB Data"
+      ],
+      "Lithography":[
+         "12 nm"
+      ],
+      "Part #":[
+         "Ryzen 3 3200G",
+         "YD3200C5FHBOX"
+      ],
+      "L3 Cache":[
+         "1 x 4 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "4"
+      ],
+      "Series":[
+         "AMD Ryzen 3"
+      ],
+      "Microarchitecture":[
+         "Zen+"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon Vega 8"
+      ],
+      "Maximum Supported Memory":[
+         "64 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "No"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143313209, 730143309851, 730143313100"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor":{
+      "id":22,
+      "name":"AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor",
+      "price":299.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-7600x-p1311",
+      "TDP":[
+         "105 W"
+      ],
+      "L2 Cache":[
+         "6 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.3 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000593WOF"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "4.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143314442"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "Intel Core i5-13600KF 3.5 GHz 14-Core Processor":{
+      "id":43,
+      "name":"Intel Core i5-13600KF 3.5 GHz 14-Core Processor",
+      "price":309.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-13600kf-p1319",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "6 x 2 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.1 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513600KF"
+      ],
+      "L3 Cache":[
+         "1 x 24 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "14"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "3.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "2 x 4 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 64 kB Data"
+      ]
+   },
+   "Intel Core i9-13900KF 3 GHz 24-Core Processor":{
+      "id":49,
+      "name":"Intel Core i9-13900KF 3 GHz 24-Core Processor",
+      "price":629.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i9-13900kf-p1323",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 2 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.8 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513900KF"
+      ],
+      "L3 Cache":[
+         "1 x 36 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "24"
+      ],
+      "Series":[
+         "Intel Core i9"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "3 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "4 x 4 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "16 x 32 kB Instruction",
+         "16 x 64 kB Data"
+      ]
+   },
+   "AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor":{
+      "id":1,
+      "name":"AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor",
+      "price":229.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-5600x-p870",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 512 kB"
+      ],
+      "Core Family":[
+         "Vermeer"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.6 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000065BOX"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143312042"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i5-10400 2.9 GHz 6-Core Processor":{
+      "id":62,
+      "name":"Intel Core i5-10400 2.9 GHz 6-Core Processor",
+      "price":145.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-10400-p676",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 256 kB"
+      ],
+      "Core Family":[
+         "Comet Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.3 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070110400"
+      ],
+      "L3 Cache":[
+         "1 x 12 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Comet Lake"
+      ],
+      "Core Clock":[
+         "2.9 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 630"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858446006"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "Intel Core i5-13400F 2.5 GHz 10-Core Processor":{
+      "id":42,
+      "name":"Intel Core i5-13400F 2.5 GHz 10-Core Processor",
+      "price":209.94,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-13400f-p51621",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Raptor Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.6 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071513400F"
+      ],
+      "L3 Cache":[
+         "1 x 20 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "10"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Raptor Lake"
+      ],
+      "Core Clock":[
+         "2.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "1 x 2 MB"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 64 kB Data"
+      ]
+   },
+   "AMD Ryzen 7 5800X3D 3.4 GHz 8-Core Processor":{
+      "id":5,
+      "name":"AMD Ryzen 7 5800X3D 3.4 GHz 8-Core Processor",
+      "price":399.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-5800x3d-p1304",
+      "TDP":[
+         "105 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Vermeer-X"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.5 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000651WOF"
+      ],
+      "L3 Cache":[
+         "1 x 96 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen 3"
+      ],
+      "Core Clock":[
+         "3.4 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143313797"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i9-11900K 3.5 GHz 8-Core Processor":{
+      "id":60,
+      "name":"Intel Core i9-11900K 3.5 GHz 8-Core Processor",
+      "price":382.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i9-11900k-p978",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Rocket Lake-S"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5.3 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070811900K"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i9"
+      ],
+      "Microarchitecture":[
+         "Rocket Lake"
+      ],
+      "Core Clock":[
+         "3.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 750"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858477338"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   },
+   "AMD Ryzen 7 7700X 4.5 GHz 8-Core Processor":{
+      "id":23,
+      "name":"AMD Ryzen 7 7700X 4.5 GHz 8-Core Processor",
+      "price":399.0,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-7700x-p1310",
+      "TDP":[
+         "105 W"
+      ],
+      "L2 Cache":[
+         "8 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.4 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-100000591WOF"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "4.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143314428"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "Intel Core i7-12700K 3.6 GHz 12-Core Processor":{
+      "id":40,
+      "name":"Intel Core i7-12700K 3.6 GHz 12-Core Processor",
+      "price":339.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-12700k-p1299",
+      "TDP":[
+         "125 W"
+      ],
+      "L2 Cache":[
+         "8 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Alder Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "5 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071512700K"
+      ],
+      "L3 Cache":[
+         "1 x 25 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "12"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Alder Lake"
+      ],
+      "Core Clock":[
+         "3.6 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 770"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Efficiency L2 Cache":[
+         "1 x 2 MB"
+      ],
+      "UPC Codes":[
+         "735858498920"
+      ],
+      "Socket":[
+         "LGA1700"
+      ],
+      "Efficiency L1 Cache":[
+         "4 x 32 kB Instruction",
+         "4 x 64 kB Data"
+      ]
+   },
+   "AMD Threadripper 3990X 2.9 GHz 64-Core Processor":{
+      "id":75,
+      "name":"AMD Threadripper 3990X 2.9 GHz 64-Core Processor",
+      "price":8390.0,
+      "url":"https://pc-builder.io/cpu/amd-threadripper-3990x-p419",
+      "TDP":[
+         "280 W"
+      ],
+      "L2 Cache":[
+         "64 x 512 kB"
+      ],
+      "Core Family":[
+         "Castle Peak"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "4.3 GHz"
+      ],
+      "L1 Cache":[
+         "64 x 32 kB Instruction",
+         "64 x 32 kB Data"
+      ],
+      "Lithography":[
+         "7 nm"
+      ],
+      "Part #":[
+         "100-100000163WOF"
+      ],
+      "L3 Cache":[
+         "16 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "64"
+      ],
+      "Series":[
+         "AMD Threadripper"
+      ],
+      "Microarchitecture":[
+         "Zen 2"
+      ],
+      "Core Clock":[
+         "2.9 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "1024 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "Socket":[
+         "sTRX4"
+      ]
+   },
+   "AMD Ryzen 5 PRO 7645 3.8 GHz 6-Core OEM/Tray Processor":{
+      "id":34,
+      "name":"AMD Ryzen 5 PRO 7645 3.8 GHz 6-Core OEM/Tray Processor",
+      "price":422.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-5-pro-7645-p52522",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 1 MB"
+      ],
+      "Core Family":[
+         "Raphael"
+      ],
+      "ECC Support":[
+         "Yes"
+      ],
+      "Boost Clock":[
+         "5.1 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 32 kB Data"
+      ],
+      "Lithography":[
+         "5 nm"
+      ],
+      "Part #":[
+         "100-000000600"
+      ],
+      "L3 Cache":[
+         "1 x 32 MB"
+      ],
+      "Includes CPU Cooler":[
+         "No"
+      ],
+      "Includes Cooler":[
+         "No"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "AMD Ryzen 5 PRO"
+      ],
+      "Microarchitecture":[
+         "Zen 4"
+      ],
+      "Core Clock":[
+         "3.8 GHz"
+      ],
+      "Integrated Graphics":[
+         "Radeon"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "OEM/Tray"
+      ],
+      "Socket":[
+         "AM5"
+      ]
+   },
+   "Intel Core i5-12400 2.5 GHz 6-Core Processor":{
+      "id":52,
+      "name":"Intel Core i5-12400 2.5 GHz 6-Core Processor",
+      "price":193.95,
+      "url":"https://pc-builder.io/cpu/intel-core-i5-12400-p1290",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "6 x 1.25 MB"
+      ],
+      "Core Family":[
+         "Alder Lake"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.4 GHz"
+      ],
+      "L1 Cache":[
+         "6 x 32 kB Instruction",
+         "6 x 48 kB Data"
+      ],
+      "Lithography":[
+         "10 nm"
+      ],
+      "Part #":[
+         "BX8071512400"
+      ],
+      "L3 Cache":[
+         "1 x 18 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "6"
+      ],
+      "Series":[
+         "Intel Core i5"
+      ],
+      "Microarchitecture":[
+         "Alder Lake"
+      ],
+      "Core Clock":[
+         "2.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "Intel UHD Graphics 730"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858503020"
+      ],
+      "Socket":[
+         "LGA1700"
+      ]
+   },
+   "AMD Ryzen 7 2700X 3.7 GHz 8-Core Processor":{
+      "id":20,
+      "name":"AMD Ryzen 7 2700X 3.7 GHz 8-Core Processor",
+      "price":254.99,
+      "url":"https://pc-builder.io/cpu/amd-ryzen-7-2700x-p780",
+      "TDP":[
+         "105 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Pinnacle Ridge"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.3 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 64 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "12 nm"
+      ],
+      "Part #":[
+         "YD270XBGAFBOX"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "AMD Ryzen 7"
+      ],
+      "Microarchitecture":[
+         "Zen+"
+      ],
+      "Core Clock":[
+         "3.7 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "64 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes"
+      ],
+      "Manufacturer":[
+         "AMD"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "730143309202"
+      ],
+      "Socket":[
+         "AM4"
+      ]
+   },
+   "Intel Core i7-11700F 2.5 GHz 8-Core Processor":{
+      "id":71,
+      "name":"Intel Core i7-11700F 2.5 GHz 8-Core Processor",
+      "price":299.99,
+      "url":"https://pc-builder.io/cpu/intel-core-i7-11700f-p539",
+      "TDP":[
+         "65 W"
+      ],
+      "L2 Cache":[
+         "8 x 512 kB"
+      ],
+      "Core Family":[
+         "Rocket Lake-S"
+      ],
+      "ECC Support":[
+         "No"
+      ],
+      "Boost Clock":[
+         "4.9 GHz"
+      ],
+      "L1 Cache":[
+         "8 x 32 kB Instruction",
+         "8 x 32 kB Data"
+      ],
+      "Lithography":[
+         "14 nm"
+      ],
+      "Part #":[
+         "BX8070811700F"
+      ],
+      "L3 Cache":[
+         "1 x 16 MB"
+      ],
+      "Includes CPU Cooler":[
+         "Yes"
+      ],
+      "Includes Cooler":[
+         "Yes"
+      ],
+      "Core Count":[
+         "8"
+      ],
+      "Series":[
+         "Intel Core i7"
+      ],
+      "Microarchitecture":[
+         "Rocket Lake"
+      ],
+      "Core Clock":[
+         "2.5 GHz"
+      ],
+      "Integrated Graphics":[
+         "None"
+      ],
+      "Maximum Supported Memory":[
+         "128 GB"
+      ],
+      "Simultaneous Multithreading":[
+         "Yes: Hyper-Threading"
+      ],
+      "Manufacturer":[
+         "Intel"
+      ],
+      "Packaging":[
+         "Boxed"
+      ],
+      "UPC Codes":[
+         "735858478168"
+      ],
+      "Socket":[
+         "LGA1200"
+      ]
+   }
+}

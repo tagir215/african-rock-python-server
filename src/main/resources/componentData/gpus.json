@@ -1,0 +1,52 @@
+[
+	{
+	  "id": 701,
+	  "price":199300.00,
+	  "manufacturer": "NVIDIA",
+	  "model": "GeForce RTX 3080",
+	  "vram": 10,
+	  "coreClock": 1440,
+	  "boostClock": 1710
+	},
+	{
+	  "id": 702,
+	  "price":600.00,
+	  "manufacturer": "AMD",
+	  "model": "Radeon RX 6800 XT",
+	  "vram": 16,
+	  "coreClock": 1825,
+	  "boostClock": 2250
+	},
+	{
+	  "id": 703,
+	  "price":23000.00,
+	  "manufacturer": "NVIDIA",
+	  "model": "GeForce GTX 1660 Super",
+	  "vram": 6,
+	  "coreClock": 1530,
+	  "boostClock": 1785
+	},
+	{
+	  "id": 704,
+	  "price":100.00,
+	  "manufacturer": "AMD",
+	  "model": "Gpu Super",
+	  "vram": 12,
+	  "coreClock": 2321,
+	  "boostClock": 2581
+	},
+	{
+	  "id": 705,
+	  "price":200.00,
+	  "manufacturer": "NVIDIA",
+	  "model": "GeForce RTX 3090",
+	  "vram": 24,
+	  "coreClock": 1400,
+	  "boostClock": 1700
+	}
+	
+	
+	
+	
+	
+]

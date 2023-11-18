@@ -1,0 +1,1348 @@
+{
+   "Corsair HX1200 Platinum 1200 W 80+ Platinum Certified Fully Modular ATX Power Supply":{
+      "id":11,
+      "name":"Corsair HX1200 Platinum 1200 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+      "price":232.22,
+      "url":"https://pc-builder.io/power-supply/corsair-hx1200-platinum-p33690",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "8"
+      ],
+      "Part #":[
+         "CP-9020140-NA",
+         "CP-9020140-WW",
+         "CP-9020140-UK",
+         "CP-9020140-EU",
+         "CP-9020140-AU",
+         "CP-9020140-CN",
+         "CP-9020140-JP",
+         "CP-9020140-KR"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "1200 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "16"
+      ],
+      "Length":[
+         "200 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Platinum"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Output":[
+         "+3.3V@30A, +5V@30A, +12V@100A, -12V@0.8A, +5HXB@3.5A"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "HX1200 Platinum"
+      ],
+      "UPC Codes":[
+         "843591093552, 084359109355"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "8"
+      ]
+   },
+   "MSI MPG A850G PCIE5 850 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":20,
+      "name":"MSI MPG A850G PCIE5 850 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":159.98,
+      "url":"https://pc-builder.io/power-supply/msi-mpg-a850g-pcie5-p34625",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "MPG A850G PCIE5"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "850 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "8"
+      ],
+      "Length":[
+         "150 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "MSI"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "1"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "6"
+      ]
+   },
+   "Thermaltake Toughpower GX2 600 W 80+ Gold Certified ATX Power Supply":{
+      "id":4,
+      "name":"Thermaltake Toughpower GX2 600 W 80+ Gold Certified ATX Power Supply",
+      "price":49.99,
+      "url":"https://pc-builder.io/power-supply/thermaltake-toughpower-gx2-p34038",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "3"
+      ],
+      "Part #":[
+         "PS-TPD-0600NNFAGU-2"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "600 W"
+      ],
+      "Modular":[
+         "No"
+      ],
+      "EPS 8-Pin Connectors":[
+         "1"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "6"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Thermaltake"
+      ],
+      "Model":[
+         "Toughpower GX2"
+      ],
+      "UPC Codes":[
+         "841163073971"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "2"
+      ]
+   },
+   "Gigabyte UD750GM 750 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":13,
+      "name":"Gigabyte UD750GM 750 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":86.98,
+      "url":"https://pc-builder.io/power-supply/gigabyte-ud750gm-p34674",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "3"
+      ],
+      "Part #":[
+         "GP-UD750GM"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "750 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "8"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Gigabyte"
+      ],
+      "Model":[
+         "UD750GM"
+      ],
+      "UPC Codes":[
+         "810075651966"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Corsair RM850e (2023) 850 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":6,
+      "name":"Corsair RM850e (2023) 850 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":114.99,
+      "url":"https://pc-builder.io/power-supply/corsair-rm850e-2023-p54648",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020263-NA",
+         "CP-9020263-EU",
+         "CP-9020263-UK",
+         "CP-9020263-AU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "850 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "7"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "RM850e (2023)"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "1"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "3"
+      ]
+   },
+   "Corsair CX750M (2021) 550 W 80+ Bronze Certified Semi-modular ATX Power Supply":{
+      "id":19,
+      "name":"Corsair CX750M (2021) 550 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+      "price":69.98,
+      "url":"https://pc-builder.io/power-supply/corsair-cx750m-2021-p34575",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020222-NA",
+         "CP-9020222-UK",
+         "CP-9020222-EU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "550 W"
+      ],
+      "Modular":[
+         "Semi"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "8"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Bronze"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "CX750M (2021)"
+      ],
+      "UPC Codes":[
+         "840006616634"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Corsair SF750 750 W 80+ Platinum Certified Fully Modular SFX Power Supply":{
+      "id":8,
+      "name":"Corsair SF750 750 W 80+ Platinum Certified Fully Modular SFX Power Supply",
+      "price":164.99,
+      "url":"https://pc-builder.io/power-supply/corsair-sf750-p33993",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "3"
+      ],
+      "Part #":[
+         "CP-9020186-NA",
+         "CP-9020186-EU",
+         "CP-9020186-UK",
+         "CP-9020186-AU"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "750 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "SFX"
+      ],
+      "SATA Connectors":[
+         "8"
+      ],
+      "Length":[
+         "100 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Platinum"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "SF750"
+      ],
+      "UPC Codes":[
+         "843591075527"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Corsair RM850 850 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":14,
+      "name":"Corsair RM850 850 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":139.95,
+      "url":"https://pc-builder.io/power-supply/corsair-rm850-p34542",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020232-NA",
+         "CP-9020232-UK",
+         "CP-9020232-AU"
+      ],
+      "Color":[
+         "White / Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "850 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "3"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "14"
+      ],
+      "Length":[
+         "160 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "RM850"
+      ],
+      "UPC Codes":[
+         "840006628873"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Corsair RM750 750 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":12,
+      "name":"Corsair RM750 750 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":126.99,
+      "url":"https://pc-builder.io/power-supply/corsair-rm750-p34551",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020231-NA",
+         "CP-9020231-UK",
+         "CP-9020231-AU"
+      ],
+      "Color":[
+         "White / Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "750 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "3"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "14"
+      ],
+      "Length":[
+         "160 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "RM750"
+      ],
+      "UPC Codes":[
+         "840006628750"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Corsair RM750e (2023) 750 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":1,
+      "name":"Corsair RM750e (2023) 750 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":99.99,
+      "url":"https://pc-builder.io/power-supply/corsair-rm750e-2023-p54647",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020262-NA",
+         "CP-9020262-UK",
+         "CP-9020262-EU",
+         "CP-9020262-AU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "750 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "7"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "RM750e (2023)"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "1"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "3"
+      ]
+   },
+   "Corsair CV650 650 W 80+ Bronze Certified ATX Power Supply":{
+      "id":16,
+      "name":"Corsair CV650 650 W 80+ Bronze Certified ATX Power Supply",
+      "price":69.99,
+      "url":"https://pc-builder.io/power-supply/corsair-cv650-p33611",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "8"
+      ],
+      "Part #":[
+         "CP-9020236-NA",
+         "CP-9020211-NA",
+         "CP-9020236-UK",
+         "CP-9020236-EU",
+         "CP-9020236-AU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "650 W"
+      ],
+      "Modular":[
+         "No"
+      ],
+      "EPS 8-Pin Connectors":[
+         "1"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "10"
+      ],
+      "Length":[
+         "125 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Bronze"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "CV650"
+      ],
+      "UPC Codes":[
+         "840006615200"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "2"
+      ]
+   },
+   "Thermaltake Smart 600 W 80+ Certified ATX Power Supply":{
+      "id":15,
+      "name":"Thermaltake Smart 600 W 80+ Certified ATX Power Supply",
+      "price":39.99,
+      "url":"https://pc-builder.io/power-supply/thermaltake-smart-p32419",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "3"
+      ],
+      "Part #":[
+         "PS-SPD-0600NPCWUS-W"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "600 W"
+      ],
+      "Modular":[
+         "No"
+      ],
+      "EPS 8-Pin Connectors":[
+         "1"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "6"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency":[
+         "80% Efficiency"
+      ],
+      "Efficiency Rating":[
+         "80+"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Output":[
+         "+3.3V@22A, +5V@17A, +12V@42A, -12V@0.5A, +5VSB@2.5A"
+      ],
+      "Manufacturer":[
+         "Thermaltake"
+      ],
+      "UPC Codes":[
+         "841163062241"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "2"
+      ]
+   },
+   "Cooler Master V850 SFX GOLD 850 W 80+ Gold Certified Fully Modular SFX Power Supply":{
+      "id":17,
+      "name":"Cooler Master V850 SFX GOLD 850 W 80+ Gold Certified Fully Modular SFX Power Supply",
+      "price":140.99,
+      "url":"https://pc-builder.io/power-supply/cooler-master-v850-sfx-gold-p33153",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "MPY-8501-SFHAGV-US",
+         "MPY-8501-SFHAGV-UK",
+         "MPY-8501-SFHAGV-EU",
+         "MPY-8501-SFHAGV-AU",
+         "MPY-8501-SFHAGV-IN"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "850 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "SFX"
+      ],
+      "SATA Connectors":[
+         "8"
+      ],
+      "Length":[
+         "100 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Cooler Master"
+      ],
+      "Model":[
+         "V850 SFX GOLD"
+      ],
+      "UPC Codes":[
+         "884102071010, 657439932565"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Corsair CX650M (2021) 550 W 80+ Bronze Certified Semi-modular ATX Power Supply":{
+      "id":5,
+      "name":"Corsair CX650M (2021) 550 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+      "price":59.99,
+      "url":"https://pc-builder.io/power-supply/corsair-cx650m-2021-p34563",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020221-NA",
+         "CP-9020221-UK",
+         "CP-9020221-EU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "550 W"
+      ],
+      "Modular":[
+         "Semi"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "6"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Bronze"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "CX650M (2021)"
+      ],
+      "UPC Codes":[
+         "840006616528"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Corsair RM750x (2021) 750 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":10,
+      "name":"Corsair RM750x (2021) 750 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":108.59,
+      "url":"https://pc-builder.io/power-supply/corsair-rm750x-2021-p32416",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020199-NA",
+         "CP-9020199-UK",
+         "CP-9020199-EU",
+         "CP-9020199-AU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "750 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "10"
+      ],
+      "Length":[
+         "160 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "RM750x (2021)"
+      ],
+      "UPC Codes":[
+         "840006604716"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Corsair RM1000x (2021) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":3,
+      "name":"Corsair RM1000x (2021) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":185.65,
+      "url":"https://pc-builder.io/power-supply/corsair-rm1000x-2021-p33871",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "8"
+      ],
+      "Part #":[
+         "CP-9020201-NA",
+         "CP-9020201-UK",
+         "CP-9020201-EU",
+         "CP-9020201-AU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "1000 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "3"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "14"
+      ],
+      "Length":[
+         "180 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "RM1000x (2021)"
+      ],
+      "UPC Codes":[
+         "840006603559"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "6"
+      ]
+   },
+   "MSI A1000G PCIE5 1000 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":18,
+      "name":"MSI A1000G PCIE5 1000 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":199.99,
+      "url":"https://pc-builder.io/power-supply/msi-a1000g-pcie5-p34554",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "MPG A1000G PCIE 5"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "1000 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "12"
+      ],
+      "Length":[
+         "150 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "MSI"
+      ],
+      "Model":[
+         "A1000G PCIE5"
+      ],
+      "UPC Codes":[
+         "824142293126"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "1"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "6"
+      ]
+   },
+   "Corsair RM850x (2021) 850 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":2,
+      "name":"Corsair RM850x (2021) 850 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":149.99,
+      "url":"https://pc-builder.io/power-supply/corsair-rm850x-850-w-p32241",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020200-NA",
+         "CP-9020200-UK",
+         "CP-9020200-EU",
+         "CP-9020200-AU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "850 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "3"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "14"
+      ],
+      "Length":[
+         "160 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "RM850x (2021)"
+      ],
+      "UPC Codes":[
+         "840006604839"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "4"
+      ]
+   },
+   "Thermaltake Smart 500 W 80+ Certified ATX Power Supply":{
+      "id":9,
+      "name":"Thermaltake Smart 500 W 80+ Certified ATX Power Supply",
+      "price":34.99,
+      "url":"https://pc-builder.io/power-supply/thermaltake-smart-p33375",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "6"
+      ],
+      "Part #":[
+         "PS-SPD-0500NPCWUS-W"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "500 W"
+      ],
+      "Modular":[
+         "No"
+      ],
+      "EPS 8-Pin Connectors":[
+         "1"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "5"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency":[
+         "80% Efficiency"
+      ],
+      "Efficiency Rating":[
+         "80+"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Output":[
+         "+3.3V@20A, +5V@15A, +12V@35A, -12V@0.5A, +5VSB@2.5A"
+      ],
+      "Manufacturer":[
+         "Thermaltake"
+      ],
+      "UPC Codes":[
+         "780746640417, 841163062234"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "0"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "2"
+      ]
+   },
+   "Corsair RM1000e (2023) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply":{
+      "id":7,
+      "name":"Corsair RM1000e (2023) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "price":159.99,
+      "url":"https://pc-builder.io/power-supply/corsair-rm1000e-2023-p54649",
+      "PCIe 12-Pin Connectors":[
+         "0"
+      ],
+      "Molex 4-Pin Connectors":[
+         "4"
+      ],
+      "Part #":[
+         "CP-9020264-NA",
+         "CP-9020264-AU",
+         "CP-9020264-UK",
+         "CP-9020264-EU"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "ATX 4-Pin Connectors":[
+         "0"
+      ],
+      "PCIe 8-Pin Connectors":[
+         "0"
+      ],
+      "Wattage":[
+         "1000 W"
+      ],
+      "Modular":[
+         "Full"
+      ],
+      "EPS 8-Pin Connectors":[
+         "2"
+      ],
+      "Type":[
+         "ATX"
+      ],
+      "SATA Connectors":[
+         "7"
+      ],
+      "Length":[
+         "140 mm"
+      ],
+      "PCIe 6-Pin Connectors":[
+         "0"
+      ],
+      "Efficiency Rating":[
+         "80+ Gold"
+      ],
+      "Fanless":[
+         "No"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "RM1000e (2023)"
+      ],
+      "PCIe 12+4-Pin 12VHPWR Connectors":[
+         "1"
+      ],
+      "PCIe 6+2-Pin Connectors":[
+         "6"
+      ]
+   }
+}

@@ -1,0 +1,57 @@
+[
+	{
+	  "id": 601,
+	  "price":350.00,
+	  "manufacturer": "TechMaster",
+	  "model": "Ryzen 7 5800X",
+	  "cores": 8,
+	  "threads": 16,
+	  "clockSpeed": 3.8,
+	  "socket": "AM4"
+	},
+	{
+	  "id": 602,
+	  "price":400.00,
+	  "manufacturer": "Intel",
+	  "model": "Cpu Super",
+	  "cores": 10,
+	  "threads": 20,
+	  "clockSpeed": 3.7,
+	  "socket": "LGA1200"
+	},
+	{
+	  "id": 603,
+	  "price":900.00,
+	  "manufacturer": "AMD",
+	  "model": "Ryzen 5 5600X",
+	  "cores": 6,
+	  "threads": 12,
+	  "clockSpeed": 3.7,
+	  "socket": "AM4"
+	},
+	{
+	  "id": 604,
+	  "price":700.00,
+	  "manufacturer": "Intel",
+	  "model": "Core i7-11700K",
+	  "cores": 8,
+	  "threads": 16,
+	  "clockSpeed": 3.6,
+	  "socket": "LGA1200"
+	},
+	{
+	  "id": 605,
+	  "price":600.00,
+	  "manufacturer": "AMD",
+	  "model": "Ryzen 9 5950X",
+	  "cores": 16,
+	  "threads": 32,
+	  "clockSpeed": 3.4,
+	  "socket": "AM4"
+	}
+	
+	
+	
+	
+	
+]

@@ -1,0 +1,2160 @@
+{
+   "ASRock Radeon RX6700XT CLD 12G Radeon RX 6700 XT 12 GB Graphics Card":{
+      "id":10,
+      "name":"ASRock Radeon RX6700XT CLD 12G Radeon RX 6700 XT 12 GB Graphics Card",
+      "price":389.99,
+      "url":"https://pc-builder.io/gpu/asrock-radeon-rx6700xt-cld-12g-p22718",
+      "TDP":[
+         "230 W"
+      ],
+      "External Power":[
+         "2 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 6700 XT"
+      ],
+      "Boost Clock":[
+         "2581 MHz"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "RX6700XT CLD 12G",
+         "90-GA2KZZ-00UANF"
+      ],
+      "Memory":[
+         "12 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "DisplayPort Outputs":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "HDMI Outputs":[
+         "1"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "2321 MHz"
+      ],
+      "Effective Memory Clock":[
+         "16000 MHz"
+      ],
+      "Length":[
+         "269 mm"
+      ],
+      "Manufacturer":[
+         "ASRock"
+      ],
+      "Model":[
+         "Radeon RX6700XT CLD 12G"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "NVIDIA Founders Edition GeForce RTX 4090 24 GB Video Card":{
+      "id":13,
+      "name":"NVIDIA Founders Edition GeForce RTX 4090 24 GB Video Card",
+      "price":2498.98,
+      "url":"https://pc-builder.io/gpu/nvidia-founders-edition-p50498",
+      "TDP":[
+         "450 W"
+      ],
+      "External Power":[
+         "1 PCIe 16-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 4090"
+      ],
+      "Boost Clock":[
+         "2520 MHz"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "900-1G136-2530-000"
+      ],
+      "Memory":[
+         "24 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Case Expansion Slot Width":[
+         "3"
+      ],
+      "DisplayPort 1.4a Outputs":[
+         "3"
+      ],
+      "Memory Type":[
+         "GDDR6X"
+      ],
+      "Core Clock":[
+         "2230 MHz"
+      ],
+      "Length":[
+         "304 mm"
+      ],
+      "Manufacturer":[
+         "NVIDIA"
+      ],
+      "HDMI 2.1a Outputs":[
+         "1"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "ASRock Challenger D Radeon RX 6600 8 GB Graphics Card":{
+      "id":4,
+      "name":"ASRock Challenger D Radeon RX 6600 8 GB Graphics Card",
+      "price":249.99,
+      "url":"https://pc-builder.io/gpu/asrock-challenger-d-p26807",
+      "TDP":[
+         "132 W"
+      ],
+      "External Power":[
+         "1 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 6600"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "RX6600 CLD 8G",
+         "90-GA2RZZ-00UANF"
+      ],
+      "Memory":[
+         "8 GB"
+      ],
+      "Total Slot Width":[
+         "2"
+      ],
+      "DisplayPort Outputs":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "HDMI Outputs":[
+         "1"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "1626 MHz"
+      ],
+      "Length":[
+         "269 mm"
+      ],
+      "Manufacturer":[
+         "ASRock"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "Asus DUAL OC GeForce RTX 4070 12 GB Video Card":{
+      "id":18,
+      "name":"Asus DUAL OC GeForce RTX 4070 12 GB Video Card",
+      "price":599.99,
+      "url":"https://pc-builder.io/gpu/asus-dual-oc-p54014",
+      "TDP":[
+         "200 W"
+      ],
+      "External Power":[
+         "1 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 4070"
+      ],
+      "Boost Clock":[
+         "2550 MHz"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "HDMI 2.1 Outputs":[
+         "1"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "dual-rtx4070-o12g",
+         "90YV0IZ2-M0NA00"
+      ],
+      "Memory":[
+         "12 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "DisplayPort 1.4a Outputs":[
+         "3"
+      ],
+      "Memory Type":[
+         "GDDR6X"
+      ],
+      "Core Clock":[
+         "2520 MHz"
+      ],
+      "Length":[
+         "267 mm"
+      ],
+      "Manufacturer":[
+         "Asus"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "XFX GTR XXX Radeon RX 580 8 GB Graphics Card":{
+      "id":16,
+      "name":"XFX GTR XXX Radeon RX 580 8 GB Graphics Card",
+      "price":149.99,
+      "url":"https://pc-builder.io/gpu/xfx-gtr-xxx-p23870",
+      "TDP":[
+         "185 W"
+      ],
+      "External Power":[
+         "1 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 580"
+      ],
+      "Boost Clock":[
+         "1386 MHz"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "RX-580P8DFD6"
+      ],
+      "Memory":[
+         "8 GB"
+      ],
+      "Total Slot Width":[
+         "2"
+      ],
+      "DisplayPort Outputs":[
+         "3"
+      ],
+      "Color":[
+         "Black / Red"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "HDMI Outputs":[
+         "1"
+      ],
+      "Memory Type":[
+         "GDDR5"
+      ],
+      "Core Clock":[
+         "1366 MHz"
+      ],
+      "DVI-D Dual Link Outputs":[
+         "1"
+      ],
+      "Effective Memory Clock":[
+         "8100 MHz"
+      ],
+      "Length":[
+         "270 mm"
+      ],
+      "SLI/CrossFire":[
+         "4-way CrossFire Capable",
+         "3-way CrossFire Capable",
+         "2-way CrossFire Capable"
+      ],
+      "Manufacturer":[
+         "XFX"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "XFX Speedster MERC 319 Radeon RX 6950 XT 16 GB Graphics Card":{
+      "id":7,
+      "name":"XFX Speedster MERC 319 Radeon RX 6950 XT 16 GB Graphics Card",
+      "price":849.99,
+      "url":"https://pc-builder.io/gpu/xfx-speedster-merc-319-p27166",
+      "TDP":[
+         "335 W"
+      ],
+      "External Power":[
+         "2 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 6950 XT"
+      ],
+      "Boost Clock":[
+         "2368 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "HDMI 2.1 Outputs":[
+         "1"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "RX-695XATBD9"
+      ],
+      "Memory":[
+         "16 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "2009 MHz"
+      ],
+      "Effective Memory Clock":[
+         "18000 MHz"
+      ],
+      "Length":[
+         "340 mm"
+      ],
+      "DisplayPort 1.4 Outputs":[
+         "3"
+      ],
+      "Manufacturer":[
+         "XFX"
+      ],
+      "UPC Codes":[
+         "840191500411"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "Gigabyte WINDFORCE OC GeForce RTX 4070 12 GB Video Card":{
+      "id":2,
+      "name":"Gigabyte WINDFORCE OC GeForce RTX 4070 12 GB Video Card",
+      "price":599.99,
+      "url":"https://pc-builder.io/gpu/gigabyte-windforce-oc-p54013",
+      "TDP":[
+         "200 W"
+      ],
+      "External Power":[
+         "1 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 4070"
+      ],
+      "Boost Clock":[
+         "2490 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "GV-N4070WF3OC-12GD"
+      ],
+      "Memory":[
+         "12 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "Memory Type":[
+         "GDDR6X"
+      ],
+      "Core Clock":[
+         "1920 MHz"
+      ],
+      "Length":[
+         "261 mm"
+      ],
+      "DisplayPort 1.4 Outputs":[
+         "3"
+      ],
+      "Manufacturer":[
+         "Gigabyte"
+      ],
+      "HDMI 2.1a Outputs":[
+         "1"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "MSI MECH 2X OC Radeon RX 6650 XT 8 GB Graphics Card":{
+      "id":15,
+      "name":"MSI MECH 2X OC Radeon RX 6650 XT 8 GB Graphics Card",
+      "price":307.98,
+      "url":"https://pc-builder.io/gpu/msi-mech-2x-oc-p27355",
+      "TDP":[
+         "175 W"
+      ],
+      "External Power":[
+         "1 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 6650 XT"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "HDMI 2.1 Outputs":[
+         "1"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "Radeon RX 6650 XT MECH 2X 8G OC",
+         "RX 6650 XT MECH 2X 8G OC",
+         "V502-064R"
+      ],
+      "Memory":[
+         "8 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "Color":[
+         "Silver / Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "DisplayPort 1.4a Outputs":[
+         "3"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "2055 MHz"
+      ],
+      "Length":[
+         "235 mm"
+      ],
+      "Manufacturer":[
+         "MSI"
+      ],
+      "UPC Codes":[
+         "824142282892, 824142290248"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "Asus TUF GAMING GeForce RTX 4080 16 GB Video Card":{
+      "id":19,
+      "name":"Asus TUF GAMING GeForce RTX 4080 16 GB Video Card",
+      "price":1199.0,
+      "url":"https://pc-builder.io/gpu/asus-tuf-gaming-p51148",
+      "TDP":[
+         "320 W"
+      ],
+      "External Power":[
+         "1 PCIe 16-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 4080"
+      ],
+      "Boost Clock":[
+         "2535 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "TUF-RTX4080-16G-GAMING",
+         "90YV0IB1-M0NA00",
+         "90YV0IB1-M0AA00"
+      ],
+      "Memory":[
+         "16 GB"
+      ],
+      "Total Slot Width":[
+         "4"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "4"
+      ],
+      "DisplayPort 1.4a Outputs":[
+         "3"
+      ],
+      "Memory Type":[
+         "GDDR6X"
+      ],
+      "Core Clock":[
+         "2205 MHz"
+      ],
+      "Effective Memory Clock":[
+         "22400 MHz"
+      ],
+      "Length":[
+         "348 mm"
+      ],
+      "Manufacturer":[
+         "Asus"
+      ],
+      "HDMI 2.1a Outputs":[
+         "2"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "MSI GeForce RTX 3060 Ventus 2X 12G GeForce RTX 3060 12 GB Graphics Card":{
+      "id":1,
+      "name":"MSI GeForce RTX 3060 Ventus 2X 12G GeForce RTX 3060 12 GB Graphics Card",
+      "price":365.48,
+      "url":"https://pc-builder.io/gpu/msi-geforce-rtx-3060-ventus-2x-12g-p25857",
+      "TDP":[
+         "170 W"
+      ],
+      "External Power":[
+         "1 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 3060"
+      ],
+      "Boost Clock":[
+         "1777 MHz"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "RTX3060Ventus2X12GOC",
+         "GeForce RTX 3060 VENTUS 2X 12G OC",
+         "V397-022R"
+      ],
+      "Memory":[
+         "12 GB"
+      ],
+      "Total Slot Width":[
+         "2"
+      ],
+      "DisplayPort Outputs":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "HDMI Outputs":[
+         "1"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "1320 MHz"
+      ],
+      "Effective Memory Clock":[
+         "15000 MHz"
+      ],
+      "Length":[
+         "235 mm"
+      ],
+      "Manufacturer":[
+         "MSI"
+      ],
+      "Model":[
+         "GeForce RTX 3060 Ventus 2X 12G"
+      ],
+      "UPC Codes":[
+         "824142240106"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "XFX Speedster MERC 319 CORE Radeon RX 6800 XT 16 GB Graphics Card":{
+      "id":11,
+      "name":"XFX Speedster MERC 319 CORE Radeon RX 6800 XT 16 GB Graphics Card",
+      "price":599.99,
+      "url":"https://pc-builder.io/gpu/xfx-speedster-merc-319-core-p26349",
+      "TDP":[
+         "300 W"
+      ],
+      "External Power":[
+         "2 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 6800 XT"
+      ],
+      "Boost Clock":[
+         "2250 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "RX-68XTALFD9"
+      ],
+      "Memory":[
+         "16 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "DisplayPort Outputs":[
+         "3"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "HDMI Outputs":[
+         "1"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "1825 MHz"
+      ],
+      "Effective Memory Clock":[
+         "16000 MHz"
+      ],
+      "Length":[
+         "340 mm"
+      ],
+      "Manufacturer":[
+         "XFX"
+      ],
+      "UPC Codes":[
+         "778656080782"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "Asus DUAL OC GeForce RTX 3060 Ti 8 GB Video Card":{
+      "id":12,
+      "name":"Asus DUAL OC GeForce RTX 3060 Ti 8 GB Video Card",
+      "price":599.99,
+      "url":"https://pc-builder.io/gpu/asus-dual-oc-p51385",
+      "TDP":[
+         "200 W"
+      ],
+      "External Power":[
+         "2 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 3060 Ti"
+      ],
+      "Boost Clock":[
+         "1710 MHz"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "HDMI 2.1 Outputs":[
+         "1"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "dual-rtx3060ti-o8gd6x-white"
+      ],
+      "Memory":[
+         "8 GB"
+      ],
+      "Total Slot Width":[
+         "2"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "DisplayPort 1.4a Outputs":[
+         "3"
+      ],
+      "Memory Type":[
+         "GDDR6X"
+      ],
+      "Core Clock":[
+         "1410 MHz"
+      ],
+      "Effective Memory Clock":[
+         "19000 MHz"
+      ],
+      "Length":[
+         "230 mm"
+      ],
+      "Manufacturer":[
+         "Asus"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "MSI RTX 3060 Ventus 3X 12G OC GeForce RTX 3060 12 GB Graphics Card":{
+      "id":3,
+      "name":"MSI RTX 3060 Ventus 3X 12G OC GeForce RTX 3060 12 GB Graphics Card",
+      "price":379.99,
+      "url":"https://pc-builder.io/gpu/msi-rtx-3060-ventus-3x-12g-oc-p26993",
+      "TDP":[
+         "170 W"
+      ],
+      "External Power":[
+         "1 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 3060"
+      ],
+      "Boost Clock":[
+         "1807 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "RTX3060Ventus3X12GOC",
+         "GeForce RTX 3060 VENTUS 3X 12G OC",
+         "V397-031R"
+      ],
+      "Memory":[
+         "12 GB"
+      ],
+      "Total Slot Width":[
+         "2"
+      ],
+      "DisplayPort Outputs":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "HDMI Outputs":[
+         "1"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "1320 MHz"
+      ],
+      "Effective Memory Clock":[
+         "15000 MHz"
+      ],
+      "Length":[
+         "316 mm"
+      ],
+      "Manufacturer":[
+         "MSI"
+      ],
+      "Model":[
+         "RTX 3060 Ventus 3X 12G OC"
+      ],
+      "UPC Codes":[
+         "824142240113"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "XFX Speedster SWFT 309 Radeon RX 6700 XT 12 GB Graphics Card":{
+      "id":6,
+      "name":"XFX Speedster SWFT 309 Radeon RX 6700 XT 12 GB Graphics Card",
+      "price":389.99,
+      "url":"https://pc-builder.io/gpu/xfx-speedster-swft-309-p27335",
+      "TDP":[
+         "230 W"
+      ],
+      "External Power":[
+         "2 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 6700 XT"
+      ],
+      "Boost Clock":[
+         "2581 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "RX-67XTYJFDV"
+      ],
+      "Memory":[
+         "12 GB"
+      ],
+      "Total Slot Width":[
+         "2"
+      ],
+      "DisplayPort Outputs":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "HDMI Outputs":[
+         "1"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "2321 MHz"
+      ],
+      "Length":[
+         "304 mm"
+      ],
+      "Manufacturer":[
+         "XFX"
+      ],
+      "UPC Codes":[
+         "778656080966"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "Asus TUF GAMING OC GeForce RTX 4070 Ti 12 GB Video Card":{
+      "id":9,
+      "name":"Asus TUF GAMING OC GeForce RTX 4070 Ti 12 GB Video Card",
+      "price":849.99,
+      "url":"https://pc-builder.io/gpu/asus-tuf-gaming-oc-p52196",
+      "TDP":[
+         "285 W"
+      ],
+      "External Power":[
+         "1 PCIe 16-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 4070 Ti"
+      ],
+      "Boost Clock":[
+         "2760 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "TUF-RTX4070TI-O12G-GAMING",
+         "90YV0IJ0-M0NA00"
+      ],
+      "Memory":[
+         "12 GB"
+      ],
+      "Total Slot Width":[
+         "4"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "DisplayPort 1.4a Outputs":[
+         "3"
+      ],
+      "Memory Type":[
+         "GDDR6X"
+      ],
+      "Core Clock":[
+         "2310 MHz"
+      ],
+      "Length":[
+         "305 mm"
+      ],
+      "Manufacturer":[
+         "Asus"
+      ],
+      "HDMI 2.1a Outputs":[
+         "2"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "MSI GAMING X TRIO GeForce RTX 4090 24 GB Video Card":{
+      "id":17,
+      "name":"MSI GAMING X TRIO GeForce RTX 4090 24 GB Video Card",
+      "price":1649.99,
+      "url":"https://pc-builder.io/gpu/msi-gaming-x-trio-p50468",
+      "TDP":[
+         "450 W"
+      ],
+      "External Power":[
+         "1 PCIe 16-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 4090"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "GeForce RTX 4090 GAMING X TRIO 24G",
+         "RTX 4090 GAMING X TRIO 24G",
+         "V510-006R"
+      ],
+      "Memory":[
+         "24 GB"
+      ],
+      "Total Slot Width":[
+         "4"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "3"
+      ],
+      "DisplayPort 1.4a Outputs":[
+         "3"
+      ],
+      "Memory Type":[
+         "GDDR6X"
+      ],
+      "Core Clock":[
+         "2235 MHz"
+      ],
+      "Effective Memory Clock":[
+         "21000 MHz"
+      ],
+      "Length":[
+         "337 mm"
+      ],
+      "Manufacturer":[
+         "MSI"
+      ],
+      "HDMI 2.1a Outputs":[
+         "1"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "XFX Speedster MERC 310 Black Edition Radeon RX 7900 XTX 24 GB Video Card":{
+      "id":14,
+      "name":"XFX Speedster MERC 310 Black Edition Radeon RX 7900 XTX 24 GB Video Card",
+      "price":1149.99,
+      "url":"https://pc-builder.io/gpu/xfx-speedster-merc-310-black-edition-p51339",
+      "TDP":[
+         "355 W"
+      ],
+      "External Power":[
+         "3 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 7900 XTX"
+      ],
+      "Boost Clock":[
+         "2615 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "HDMI 2.1 Outputs":[
+         "1"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "RX-79XMERCB9"
+      ],
+      "Memory":[
+         "24 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "Color":[
+         "Black / Silver"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "2300 MHz"
+      ],
+      "Length":[
+         "344 mm"
+      ],
+      "Manufacturer":[
+         "XFX"
+      ],
+      "DisplayPort 2.1 Outputs":[
+         "3"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "Sapphire PULSE Radeon RX 6700 XT 12 GB Graphics Card":{
+      "id":8,
+      "name":"Sapphire PULSE Radeon RX 6700 XT 12 GB Graphics Card",
+      "price":419.99,
+      "url":"https://pc-builder.io/gpu/sapphire-pulse-p26569",
+      "TDP":[
+         "230 W"
+      ],
+      "External Power":[
+         "1 PCIe 8-pin + 1 PCIe 6-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 6700 XT"
+      ],
+      "Boost Clock":[
+         "2581 MHz"
+      ],
+      "Cooling":[
+         "2 Fans"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "11306-02-20G"
+      ],
+      "Memory":[
+         "12 GB"
+      ],
+      "Total Slot Width":[
+         "3"
+      ],
+      "DisplayPort Outputs":[
+         "3"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "HDMI Outputs":[
+         "1"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "2321 MHz"
+      ],
+      "Effective Memory Clock":[
+         "16000 MHz"
+      ],
+      "Length":[
+         "260 mm"
+      ],
+      "Manufacturer":[
+         "Sapphire"
+      ],
+      "UPC Codes":[
+         "840777085790"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "Asus ROG STRIX GAMING OC GeForce RTX 4090 24 GB Video Card":{
+      "id":5,
+      "name":"Asus ROG STRIX GAMING OC GeForce RTX 4090 24 GB Video Card",
+      "price":1999.99,
+      "url":"https://pc-builder.io/gpu/asus-rog-strix-gaming-oc-p50471",
+      "TDP":[
+         "450 W"
+      ],
+      "External Power":[
+         "1 PCIe 16-pin"
+      ],
+      "Chipset":[
+         "GeForce RTX 4090"
+      ],
+      "Boost Clock":[
+         "2640 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "G-Sync"
+      ],
+      "Part #":[
+         "ROG-STRIX-RTX4090-O24G-GAMING",
+         "90YV0ID0-M0NA00",
+         "90YV0ID0-M0AA00"
+      ],
+      "Memory":[
+         "24 GB"
+      ],
+      "Total Slot Width":[
+         "4"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "DisplayPort 1.4a Outputs":[
+         "3"
+      ],
+      "Memory Type":[
+         "GDDR6X"
+      ],
+      "Core Clock":[
+         "2235 MHz"
+      ],
+      "Effective Memory Clock":[
+         "21000 MHz"
+      ],
+      "Length":[
+         "358 mm"
+      ],
+      "Manufacturer":[
+         "Asus"
+      ],
+      "HDMI 2.1a Outputs":[
+         "2"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         18,
+         19,
+         20,
+         21,
+         22
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   },
+   "XFX Speedster SWFT 309 Radeon RX 6700 10 GB Graphics Card":{
+      "id":20,
+      "name":"XFX Speedster SWFT 309 Radeon RX 6700 10 GB Graphics Card",
+      "price":369.99,
+      "url":"https://pc-builder.io/gpu/xfx-speedster-swft-309-p27326",
+      "TDP":[
+         "175 W"
+      ],
+      "External Power":[
+         "2 PCIe 8-pin"
+      ],
+      "Chipset":[
+         "Radeon RX 6700"
+      ],
+      "Boost Clock":[
+         "2425 MHz"
+      ],
+      "Cooling":[
+         "3 Fans"
+      ],
+      "Frame Sync":[
+         "FreeSync"
+      ],
+      "Part #":[
+         "RX-67XLKWFDV"
+      ],
+      "Memory":[
+         "10 GB"
+      ],
+      "Total Slot Width":[
+         "2"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Case Expansion Slot Width":[
+         "2"
+      ],
+      "Memory Type":[
+         "GDDR6"
+      ],
+      "Core Clock":[
+         "2132 MHz"
+      ],
+      "Effective Memory Clock":[
+         "16000 MHz"
+      ],
+      "Length":[
+         "304 mm"
+      ],
+      "Manufacturer":[
+         "XFX"
+      ],
+      "UPC Codes":[
+         "840191500572"
+      ],
+      "Interface":[
+         "PCIe x16"
+      ],
+      "Compatible Cases":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20,
+         21
+      ],
+      "Compatible Power Supplies":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,
+         11,
+         12,
+         13,
+         14,
+         15,
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   }
+}

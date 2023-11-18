@@ -1,0 +1,47 @@
+[
+	{
+	  "id": 801,
+	  "price":10.00,
+	  "manufacturer": "WattMaster",
+	  "model": "PowerPro 750",
+	  "wattage": 750,
+	  "hasModularCables": true
+	},
+	{
+	  "id": 802,
+	  "price":200.00,
+	  "manufacturer": "EcoPower",
+	  "model": "GreenEnergy ",
+	  "wattage": 550,
+	  "hasModularCables": false
+	},
+	{
+	  "id": 803,
+	  "price":200.00,
+	  "manufacturer": "MaxVolt",
+	  "model": "PowerUnit Super",
+	  "wattage": 1000,
+	  "hasModularCables": true
+	},
+	{
+	  "id": 804,
+	  "price":120.00,
+	  "manufacturer": "SilentSupply",
+	  "model": "WhisperWatt 850",
+	  "wattage": 850,
+	  "hasModularCables": true
+	},
+	{
+	  "id": 805,
+	  "price":250.00,
+	  "manufacturer": "PowerTech",
+	  "model": "VoltBoost 650",
+	  "wattage": 650,
+	  "hasModularCables": false
+	}
+	
+	
+	
+	
+	
+]

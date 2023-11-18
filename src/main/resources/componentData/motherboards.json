@@ -1,0 +1,66 @@
+[
+	{
+	  "id": 201,
+	  "price":200.00,
+	  "name": "Gaming Pro X",
+	  "manufacturer": "TechMaster",
+	  "chipset": "Z590",
+	  "formFactor": "ATX",
+	  "maxMemorySlots": 4,
+	  "maxStorageSlots": 6,
+	  "hasWifiSupport": true,
+	  "compatibilityList": [301, 303, 305,501,503,505,601,603,605,701,703,705,901,903,905,1001,1003,1005]
+	},
+	{
+	  "id": 202,
+	  "price":10.00,
+	  "name": "Office Essentials",
+	  "manufacturer": "BusinessTech",
+	  "chipset": "H410",
+	  "formFactor": "MicroATX",
+	  "maxMemorySlots": 2,
+	  "maxStorageSlots": 4,
+	  "hasWifiSupport": false,
+	  "compatibilityList": [302, 304,502,504,602,604,702,704,902,904, 1002, 1004]
+	},
+	{
+	  "id": 203,
+	  "price":90.00,
+	  "name": "Extreme Performance",
+	  "manufacturer": "Overclockers Inc.",
+	  "chipset": "X570",
+	  "formFactor": "EATX",
+	  "maxMemorySlots": 8,
+	  "maxStorageSlots": 8,
+	  "hasWifiSupport": true,
+	  "compatibilityList": [301, 303, 305,501,503,505,601,603,605,701,703,705,901,903,905,1001,1003,1005]
+	},
+	{
+	  "id": 204,
+	  "price":500.00,
+	  "name": "Motherboard Super",
+	  "manufacturer": "AffordableTech",
+	  "chipset": "B460",
+	  "formFactor": "MiniITX",
+	  "maxMemorySlots": 2,
+	  "maxStorageSlots": 4,
+	  "hasWifiSupport": false,
+	  "compatibilityList": [302,304,502,504,602,604,702,704,801,802,803,902,904,1002,1004]
+	},
+	{
+	  "id": 205,
+	  "price":900.00,
+	  "name": "Content Creator",
+	  "manufacturer": "CreativeTech",
+	  "chipset": "B550",
+	  "formFactor": "ATX",
+	  "maxMemorySlots": 4,
+	  "maxStorageSlots": 6,
+	  "hasWifiSupport": true,
+	  "compatibilityList": [301,303, 305,501,503,505,601,603,605,701,703,705,901,903,905,1001,1003,1005]
+	}
+	
+	
+]
+
+

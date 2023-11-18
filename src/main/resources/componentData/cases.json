@@ -1,0 +1,57 @@
+[
+	{
+	  "id": 301,
+	  "price":9900000.00,
+	  "name": "Gamer's Delight",
+	  "manufacturer": "GameMaster",
+	  "formFactor": "ATX",
+	  "maxGpuLength": 350,
+	  "maxCoolerHeight": 160,
+	  "compatibilityList": [502, 504]
+	},
+	{
+	  "id": 302,
+	  "price":990.00,
+	  "name": "Compact Office",
+	  "manufacturer": "BusinessTech",
+	  "formFactor": "MicroATX",
+	  "maxGpuLength": 250,
+	  "maxCoolerHeight": 130,
+	  "compatibilityList": [501, 503, 505]
+	},
+	{
+	  "id": 303,
+	  "price":20.00,
+	  "name": "Silent Sanctuary",
+	  "manufacturer": "QuietTech",
+	  "formFactor": "MiniITX",
+	  "maxGpuLength": 180,
+	  "maxCoolerHeight": 110,
+	  "compatibilityList": [502, 504]
+	},
+	{
+	  "id": 304,
+	  "price":480.00,
+	  "name": "Case Super",
+	  "manufacturer": "WorkTech",
+	  "formFactor": "ATX",
+	  "maxGpuLength": 320,
+	  "maxCoolerHeight": 150,
+	  "compatibilityList": [501,502, 503, 801, 803, 805]
+	},
+	{
+	  "id": 305,
+	  "price":499.00,
+	  "name": "Media Center Hub",
+	  "manufacturer": "EntertainmentTech",
+	  "formFactor": "MicroATX",
+	  "maxGpuLength": 270,
+	  "maxCoolerHeight": 140,
+	  "compatibilityList": [502, 504]
+	}
+	
+	
+	
+	
+	
+]

@@ -1,0 +1,48 @@
+[
+	{
+	  "id": 1001,
+	  "price":2323.00,
+	  "manufacturer": "FastDrive",
+	  "model": "SpeedStar 500GB SSD",
+	  "capacity": 500,
+	  "type": "SSD",
+	  "interfaceType": "SATA"
+	},
+	{
+	  "id": 1002,
+	  "price":20.00,
+	  "manufacturer": "DataMaster",
+	  "model": "Storage Super",
+	  "capacity": 1000,
+	  "type": "HDD",
+	  "interfaceType": "SATA"
+	},
+	{
+	  "id": 1003,
+	  "price":200.00,
+	  "manufacturer": "FlashTech",
+	  "model": "FlashBoost 256GB SSD",
+	  "capacity": 256,
+	  "type": "SSD",
+	  "interfaceType": "NVMe"
+	},
+	{
+	  "id": 1004,
+	  "price":200323.00,
+	  "manufacturer": "SwiftStore",
+	  "model": "TurboDrive 2TB HDD",
+	  "capacity": 2000,
+	  "type": "HDD",
+	  "interfaceType": "SATA"
+	},
+	{
+	  "id": 1005,
+	  "price":1200.00,
+	  "manufacturer": "UltraDisk",
+	  "model": "ProSpeed 512GB SSD",
+	  "capacity": 512,
+	  "type": "SSD",
+	  "interfaceType": "NVMe"
+	}
+	
+]

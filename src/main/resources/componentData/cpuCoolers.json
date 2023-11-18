@@ -1,0 +1,42 @@
+[
+	{
+	  "id": 501,
+	  "price":90.00,
+	  "manufacturer": "CoolTech",
+	  "model": "FrostMaster X",
+	  "height": 155.5,
+	  "hasRgbLighting": true
+	},
+	{
+	  "id": 502,
+	  "price":400.00,
+	  "manufacturer": "SilentCool",
+	  "model": "Cooler Super",
+	  "height": 140.0,
+	  "hasRgbLighting": false
+	},
+	{
+	  "id": 503,
+	  "price":490.00,
+	  "manufacturer": "RGBKing",
+	  "model": "WhisperCool 2000",
+	  "height": 165.2,
+	  "hasRgbLighting": true
+	},
+	{
+	  "id": 504,
+	  "price":10.00,
+	  "manufacturer": "HighCool",
+	  "model": "TurboCool Plus",
+	  "height": 175.0,
+	  "hasRgbLighting": false
+	},
+	{
+	  "id": 505,
+	  "price":20.00,
+	  "manufacturer": "CoolingMasters",
+	  "model": "ArcticBreeze",
+	  "height": 160.7,
+	  "hasRgbLighting": true
+	}
+]

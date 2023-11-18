@@ -1,0 +1,48 @@
+package com.tiger.designPatterns200.service.factory.computerFactory.implementations;
+
+import com.tiger.designPatterns200.model.component.Computer;
+import com.tiger.designPatterns200.service.component.ComponentSelector;
+import com.tiger.designPatterns200.service.factory.computerFactory.AbstractComputerFactory;
+import com.tiger.designPatterns200.service.factory.computerFactory.ComputerInfo;
+
+public class WorkStationComputerFactory extends AbstractComputerFactory {
+	private ComputerInfo info;
+	protected final int BUDGET_MAX = 500;
+	protected final int MIDTIER_MAX = 800;
+	protected final int HIGHEND_MAX = 1300;
+	protected final int ENTHUSIAST_MAX = 10000;
+	
+    public WorkStationComputerFactory(ComponentSelector selector) {
+    	super(selector);
+    	info = new ComputerInfo();
+		info.setX_case(0.02f);
+		info.setX_cooler(0.08f);
+		info.setX_cpu(0.2f);
+		info.setX_gpu(0.1f);
+		info.setX_motherboard(0.05f);
+		info.setX_powerUnit(0.1f);
+		info.setX_ram(0.2f);
+		info.setX_storage(0.1f);
+	}
+    
+
+	@Override
+    public Computer buildBudgetComputer() {
+    	return buildComputer(BUDGET_MAX, info);
+    }
+
+    @Override
+    public Computer buildMidTierComputer()  {
+    	return buildComputer(MIDTIER_MAX,info);
+    }
+
+    @Override
+    public Computer buildHighEndComputer() {
+    	return buildComputer(HIGHEND_MAX,info);
+    }
+
+    @Override
+    public Computer buildEnthusiastComputer() {
+    	return buildComputer(ENTHUSIAST_MAX,info);
+    }
+}

@@ -1,0 +1,694 @@
+{
+   "Seagate Barracuda Compute 2 TB 3.5\" 7200 RPM Internal Hard Drive":{
+      "id":7,
+      "name":"Seagate Barracuda Compute 2 TB 3.5\" 7200 RPM Internal Hard Drive",
+      "price":49.99,
+      "url":"https://pc-builder.io/storage/seagate-barracuda-compute-p20340",
+      "Price / GB":[
+         "$0.025"
+      ],
+      "Form Factor":[
+         "3.5\""
+      ],
+      "Type":[
+         "7200 RPM"
+      ],
+      "NVME":[
+         "No"
+      ],
+      "Capacity":[
+         "2 TB"
+      ],
+      "Part #":[
+         "ST2000DM008"
+      ],
+      "Manufacturer":[
+         "Seagate"
+      ],
+      "UPC Codes":[
+         "763649129081"
+      ],
+      "Interface":[
+         "SATA 6.0 Gb/s"
+      ],
+      "Cache":[
+         "256 MB"
+      ]
+   },
+   "Samsung 980 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":1,
+      "name":"Samsung 980 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":219.99,
+      "url":"https://pc-builder.io/storage/samsung-980-pro-p19801",
+      "Price / GB":[
+         "$0.110"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "2 TB"
+      ],
+      "Part #":[
+         "MZ-V8P2T0B/AM",
+         "MZ-V8P2T0BW"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "UPC Codes":[
+         "887276456430"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ],
+      "Cache":[
+         "2048 MB"
+      ]
+   },
+   "Crucial P5 Plus 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":13,
+      "name":"Crucial P5 Plus 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":169.99,
+      "url":"https://pc-builder.io/storage/crucial-p5-plus-p21317",
+      "Price / GB":[
+         "$0.085"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "2 TB"
+      ],
+      "Part #":[
+         "CT2000P5PSSD8"
+      ],
+      "Manufacturer":[
+         "Crucial"
+      ],
+      "UPC Codes":[
+         "649528906670"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "Samsung 970 Evo Plus 500 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive":{
+      "id":11,
+      "name":"Samsung 970 Evo Plus 500 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+      "price":59.99,
+      "url":"https://pc-builder.io/storage/samsung-970-evo-plus-p19074",
+      "Price / GB":[
+         "$0.120"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "500 GB"
+      ],
+      "Part #":[
+         "MZ-V7S500B/AM",
+         "MZ-V7S500BW"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "UPC Codes":[
+         "887276303741"
+      ],
+      "Interface":[
+         "M.2 PCIe 3.0 X4"
+      ],
+      "Cache":[
+         "512 MB"
+      ]
+   },
+   "Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive":{
+      "id":2,
+      "name":"Samsung 970 Evo Plus 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+      "price":99.99,
+      "url":"https://pc-builder.io/storage/samsung-970-evo-plus-1-tb-m2-2280-p19534",
+      "Price / GB":[
+         "$0.100"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "MZ-V7S1T0B/AM",
+         "MZ-V7S1T0BW"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "UPC Codes":[
+         "887276303758"
+      ],
+      "Interface":[
+         "M.2 PCIe 3.0 X4"
+      ],
+      "Cache":[
+         "1024 MB"
+      ]
+   },
+   "Western Digital Black SN850X 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":12,
+      "name":"Western Digital Black SN850X 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":399.99,
+      "url":"https://pc-builder.io/storage/western-digital-black-sn850x-p21440",
+      "Price / GB":[
+         "$0.100"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "4 TB"
+      ],
+      "Part #":[
+         "WDS400T2X0E"
+      ],
+      "Manufacturer":[
+         "Western Digital"
+      ],
+      "UPC Codes":[
+         "718037891378"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "Crucial P5 Plus 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":20,
+      "name":"Crucial P5 Plus 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":116.99,
+      "url":"https://pc-builder.io/storage/crucial-p5-plus-p21419",
+      "Price / GB":[
+         "$0.117"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "CT1000P5PSSD8"
+      ],
+      "Manufacturer":[
+         "Crucial"
+      ],
+      "UPC Codes":[
+         "649528906663"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "Kingston NV2 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":15,
+      "name":"Kingston NV2 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":137.94,
+      "url":"https://pc-builder.io/storage/kingston-nv2-p21512",
+      "Price / GB":[
+         "$0.069"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "2 TB"
+      ],
+      "Part #":[
+         "SNV2S/2000G"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "UPC Codes":[
+         "740617329971"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "Samsung 970 Evo Plus 2 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive":{
+      "id":4,
+      "name":"Samsung 970 Evo Plus 2 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+      "price":179.99,
+      "url":"https://pc-builder.io/storage/samsung-970-evo-plus-p18091",
+      "Price / GB":[
+         "$0.090"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "2 TB"
+      ],
+      "Part #":[
+         "MZ-V7S2T0B/AM",
+         "MZ-V7S2T0BW"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "UPC Codes":[
+         "887276303765, 887276302539"
+      ],
+      "Interface":[
+         "M.2 PCIe 3.0 X4"
+      ],
+      "Cache":[
+         "1024 MB"
+      ]
+   },
+   "Samsung 990 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":6,
+      "name":"Samsung 990 Pro 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":289.99,
+      "url":"https://pc-builder.io/storage/samsung-990-pro-p50673",
+      "Price / GB":[
+         "$0.152"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "2 TB"
+      ],
+      "Part #":[
+         "MZ-V9P2T0BW",
+         "MZ-V9P2T0B/AM"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ],
+      "Cache":[
+         "2048 MB"
+      ]
+   },
+   "Samsung 980 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":3,
+      "name":"Samsung 980 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":129.99,
+      "url":"https://pc-builder.io/storage/samsung-980-pro-p17964",
+      "Price / GB":[
+         "$0.130"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "MZ-V8P1T0B/AM",
+         "MZ-V8P1T0BW"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "UPC Codes":[
+         "887276404288"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ],
+      "Cache":[
+         "1024 MB"
+      ]
+   },
+   "Crucial P3 Plus 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":17,
+      "name":"Crucial P3 Plus 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":94.99,
+      "url":"https://pc-builder.io/storage/crucial-p3-plus-p21448",
+      "Price / GB":[
+         "$0.095"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "CT1000P3PSSD8"
+      ],
+      "Manufacturer":[
+         "Crucial"
+      ],
+      "UPC Codes":[
+         "649528918833"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "Seagate BarraCuda 4 TB 3.5\" 5400 RPM Internal Hard Drive":{
+      "id":16,
+      "name":"Seagate BarraCuda 4 TB 3.5\" 5400 RPM Internal Hard Drive",
+      "price":67.99,
+      "url":"https://pc-builder.io/storage/seagate-barracuda-p20101",
+      "Price / GB":[
+         "$0.017"
+      ],
+      "Form Factor":[
+         "3.5\""
+      ],
+      "Type":[
+         "5400 RPM"
+      ],
+      "NVME":[
+         "No"
+      ],
+      "Capacity":[
+         "4 TB"
+      ],
+      "Part #":[
+         "ST4000DM004"
+      ],
+      "Manufacturer":[
+         "Seagate"
+      ],
+      "UPC Codes":[
+         "763649119907"
+      ],
+      "Interface":[
+         "SATA 6.0 Gb/s"
+      ],
+      "Cache":[
+         "256 MB"
+      ]
+   },
+   "Western Digital Blue SN570 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive":{
+      "id":19,
+      "name":"Western Digital Blue SN570 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+      "price":79.98,
+      "url":"https://pc-builder.io/storage/western-digital-blue-sn570-p21329",
+      "Price / GB":[
+         "$0.080"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "WDS100T3B0C"
+      ],
+      "Manufacturer":[
+         "Western Digital"
+      ],
+      "UPC Codes":[
+         "718037883885"
+      ],
+      "Interface":[
+         "M.2 PCIe 3.0 X4"
+      ]
+   },
+   "Kingston NV2 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":5,
+      "name":"Kingston NV2 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":79.3,
+      "url":"https://pc-builder.io/storage/kingston-nv2-p21520",
+      "Price / GB":[
+         "$0.128"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "SNV2S/1000G"
+      ],
+      "Manufacturer":[
+         "Kingston"
+      ],
+      "UPC Codes":[
+         "740617329919"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "MSI SPATIUM M450 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":18,
+      "name":"MSI SPATIUM M450 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":100.86,
+      "url":"https://pc-builder.io/storage/msi-spatium-m450-p21595",
+      "Price / GB":[
+         "$0.101"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "SM450N1TB"
+      ],
+      "Manufacturer":[
+         "MSI"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "Western Digital Black SN770 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":10,
+      "name":"Western Digital Black SN770 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":79.99,
+      "url":"https://pc-builder.io/storage/western-digital-black-sn770-p21433",
+      "Price / GB":[
+         "$0.080"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "SSD NAND Flash Type":[
+         "3D TLC"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "WDS100T3X0E"
+      ],
+      "Manufacturer":[
+         "Western Digital"
+      ],
+      "UPC Codes":[
+         "718037887333"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "Western Digital Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive":{
+      "id":9,
+      "name":"Western Digital Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+      "price":199.99,
+      "url":"https://pc-builder.io/storage/western-digital-black-sn850x-p21443",
+      "Price / GB":[
+         "$0.100"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "2 TB"
+      ],
+      "Part #":[
+         "WDS200T2X0E"
+      ],
+      "Manufacturer":[
+         "Western Digital"
+      ],
+      "UPC Codes":[
+         "718037891408"
+      ],
+      "Interface":[
+         "M.2 PCIe 4.0 X4"
+      ]
+   },
+   "Samsung 870 Evo 1 TB 2.5\" Solid State Drive":{
+      "id":14,
+      "name":"Samsung 870 Evo 1 TB 2.5\" Solid State Drive",
+      "price":89.99,
+      "url":"https://pc-builder.io/storage/samsung-870-evo-p17572",
+      "Price / GB":[
+         "$0.090"
+      ],
+      "Form Factor":[
+         "2.5\""
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "No"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "MZ-77E1T0B/AM",
+         "MZ-77E1T0B/EU",
+         "MZ-77E1T0BW"
+      ],
+      "Manufacturer":[
+         "Samsung"
+      ],
+      "UPC Codes":[
+         "887276431970"
+      ],
+      "Interface":[
+         "SATA 6.0 Gb/s"
+      ],
+      "Cache":[
+         "1024 MB"
+      ]
+   },
+   "Crucial P3 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive":{
+      "id":8,
+      "name":"Crucial P3 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+      "price":83.99,
+      "url":"https://pc-builder.io/storage/crucial-p3-p21445",
+      "Price / GB":[
+         "$0.084"
+      ],
+      "Form Factor":[
+         "M.2-2280"
+      ],
+      "Type":[
+         "SSD"
+      ],
+      "NVME":[
+         "Yes"
+      ],
+      "Capacity":[
+         "1 TB"
+      ],
+      "Part #":[
+         "CT1000P3SSD8"
+      ],
+      "Manufacturer":[
+         "Crucial"
+      ],
+      "UPC Codes":[
+         "649528918796"
+      ],
+      "Interface":[
+         "M.2 PCIe 3.0 X4"
+      ]
+   }
+}

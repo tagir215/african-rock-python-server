@@ -1,0 +1,1289 @@
+{
+   "Corsair 5000D AIRFLOW ATX Mid Tower Case":{
+      "id":15,
+      "name":"Corsair 5000D AIRFLOW ATX Mid Tower Case",
+      "price":164.99,
+      "url":"https://pc-builder.io/case/corsair-5000d-airflow-p29067",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CC-9011210-WW"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "5000D AIRFLOW"
+      ],
+      "UPC Codes":[
+         "840006627470"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "4 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "420 mm / 16.535\""
+      ]
+   },
+   "Fractal Design Pop Air ATX Mid Tower Case":{
+      "id":14,
+      "name":"Fractal Design Pop Air ATX Mid Tower Case",
+      "price":95.98,
+      "url":"https://pc-builder.io/case/fractal-design-pop-air-p32205",
+      "Motherboard Form Factor":[
+         "ATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "FD-C-POA1A-02"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "473.5 mm x 215 mm x 454 mm",
+         "18.642\" x 8.465\" x 17.874\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "46.218 L",
+         "1.632 ft?"
+      ],
+      "Manufacturer":[
+         "Fractal Design"
+      ],
+      "UPC Codes":[
+         "843276103088"
+      ],
+      "Drive Bays":[
+         "2 x External 5.25\"",
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "405 mm / 15.945\""
+      ]
+   },
+   "Corsair 7000D AIRFLOW ATX Full Tower Case":{
+      "id":22,
+      "name":"Corsair 7000D AIRFLOW ATX Full Tower Case",
+      "price":209.99,
+      "url":"https://pc-builder.io/case/corsair-7000d-airflow-p31865",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CC-9011218WW"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "550 mm x 248 mm x 600 mm",
+         "21.654\" x 9.764\" x 23.622\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Full Tower"
+      ],
+      "Expansion Slots":[
+         "8 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "81.84 L",
+         "2.89 ft?"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "7000D AIRFLOW"
+      ],
+      "UPC Codes":[
+         "840006636427"
+      ],
+      "Drive Bays":[
+         "6 x Internal 3.5\"",
+         "3 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "450 mm / 17.717\""
+      ]
+   },
+   "Deepcool CC560 ATX Mid Tower Case":{
+      "id":2,
+      "name":"Deepcool CC560 ATX Mid Tower Case",
+      "price":75.08,
+      "url":"https://pc-builder.io/case/deepcool-cc560-p32224",
+      "Motherboard Form Factor":[
+         "ATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 1 Type-A",
+         "USB 2.0 Type-A"
+      ],
+      "Part #":[
+         "R-CC560-BKGAA4-G-1"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "416 mm x 210 mm x 477 mm",
+         "16.378\" x 8.268\" x 18.78\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "41.671 L",
+         "1.472 ft?"
+      ],
+      "Manufacturer":[
+         "Deepcool"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "370 mm / 14.567\""
+      ]
+   },
+   "Phanteks Eclipse G360A ATX Mid Tower Case":{
+      "id":18,
+      "name":"Phanteks Eclipse G360A ATX Mid Tower Case",
+      "price":89.99,
+      "url":"https://pc-builder.io/case/phanteks-eclipse-g360a-p32197",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "PH-EC360ATG_DBK02"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "455 mm x 200 mm x 465 mm",
+         "17.913\" x 7.874\" x 18.307\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "42.315 L",
+         "1.494 ft?"
+      ],
+      "Manufacturer":[
+         "Phanteks"
+      ],
+      "UPC Codes":[
+         "886523302513"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "400 mm / 15.748\""
+      ]
+   },
+   "Montech AIR 903 MAX ATX Mid Tower Case":{
+      "id":27,
+      "name":"Montech AIR 903 MAX ATX Mid Tower Case",
+      "price":74.99,
+      "url":"https://pc-builder.io/case/montech-air-903-max-p54307",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "AIR 903 MAX (B)"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "478 mm x 230 mm x 493 mm",
+         "18.819\" x 9.055\" x 19.409\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height"
+      ],
+      "Volume":[
+         "54.2 L",
+         "1.914 ft?"
+      ],
+      "Manufacturer":[
+         "Montech"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "3 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "400 mm / 15.748\""
+      ]
+   },
+   "Cooler Master MasterBox Q300L MicroATX Mini Tower Case":{
+      "id":11,
+      "name":"Cooler Master MasterBox Q300L MicroATX Mini Tower Case",
+      "price":59.97,
+      "url":"https://pc-builder.io/case/cooler-master-masterbox-q300l-p31013",
+      "Motherboard Form Factor":[
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "MCB-Q300L-KANN-S00"
+      ],
+      "Power Supply Shroud":[
+         "No"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Acrylic"
+      ],
+      "Dimensions":[
+         "387 mm x 230 mm x 378 mm",
+         "15.236\" x 9.055\" x 14.882\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "MicroATX Mini Tower"
+      ],
+      "Expansion Slots":[
+         "4 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "33.646 L",
+         "1.188 ft?"
+      ],
+      "Manufacturer":[
+         "Cooler Master"
+      ],
+      "UPC Codes":[
+         "884102095313, 884102038006"
+      ],
+      "Drive Bays":[
+         "1 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "360 mm / 14.173\""
+      ]
+   },
+   "Fractal Design Pop XL Air ATX Full Tower Case":{
+      "id":23,
+      "name":"Fractal Design Pop XL Air ATX Full Tower Case",
+      "price":125.98,
+      "url":"https://pc-builder.io/case/fractal-design-pop-xl-air-p32209",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "FD-C-POR1X-06"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "522 mm x 230 mm x 520 mm",
+         "20.551\" x 9.055\" x 20.472\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Full Tower"
+      ],
+      "Expansion Slots":[
+         "8 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "62.431 L",
+         "2.205 ft?"
+      ],
+      "Manufacturer":[
+         "Fractal Design"
+      ],
+      "UPC Codes":[
+         "843276103637"
+      ],
+      "Drive Bays":[
+         "2 x External 5.25\"",
+         "3 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "455 mm / 17.913\""
+      ]
+   },
+   "Corsair iCUE 4000X RGB ATX Mid Tower Case":{
+      "id":9,
+      "name":"Corsair iCUE 4000X RGB ATX Mid Tower Case",
+      "price":144.95,
+      "url":"https://pc-builder.io/case/corsair-icue-4000x-rgb-p27727",
+      "Motherboard Form Factor":[
+         "ATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CC-9011204-WW"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "453 mm x 230 mm x 466 mm",
+         "17.835\" x 9.055\" x 18.346\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "48.553 L",
+         "1.715 ft?"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "iCUE 4000X RGB"
+      ],
+      "UPC Codes":[
+         "840006626633"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "360 mm / 14.173\""
+      ]
+   },
+   "Fractal Design North ATX Mid Tower Case":{
+      "id":8,
+      "name":"Fractal Design North ATX Mid Tower Case",
+      "price":140.44,
+      "url":"https://pc-builder.io/case/fractal-design-north-p51409",
+      "Motherboard Form Factor":[
+         "ATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "FD-C-NOR1C-02"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "447 mm x 215 mm x 469 mm",
+         "17.598\" x 8.465\" x 18.465\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height"
+      ],
+      "Volume":[
+         "45.073 L",
+         "1.592 ft?"
+      ],
+      "Manufacturer":[
+         "Fractal Design"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "300 mm / 11.811\" With Drive Cages",
+         "355 mm / 13.976\" Without Drive Cages"
+      ]
+   },
+   "Lian Li LANCOOL 216 ATX Mid Tower Case":{
+      "id":26,
+      "name":"Lian Li LANCOOL 216 ATX Mid Tower Case",
+      "price":114.99,
+      "url":"https://pc-builder.io/case/lian-li-lancool-216-p50540",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "LANCOOL 216RW"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "480.9 mm x 235 mm x 491.7 mm",
+         "18.933\" x 9.252\" x 19.358\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height"
+      ],
+      "Volume":[
+         "55.568 L",
+         "1.962 ft?"
+      ],
+      "Manufacturer":[
+         "Lian Li"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "4 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "392 mm / 15.433\""
+      ]
+   },
+   "Lian Li LANCOOL 215 ATX Mid Tower Case":{
+      "id":28,
+      "name":"Lian Li LANCOOL 215 ATX Mid Tower Case",
+      "price":109.99,
+      "url":"https://pc-builder.io/case/lian-li-lancool-215-p29682",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "LANCOOL 215 BLACK",
+         "LANCOOL 215 X BLACK"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Manufacturer":[
+         "Lian Li"
+      ],
+      "UPC Codes":[
+         "840353040403"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "370 mm / 14.567\""
+      ]
+   },
+   "HYTE Y60 ATX Mid Tower Case":{
+      "id":25,
+      "name":"HYTE Y60 ATX Mid Tower Case",
+      "price":199.99,
+      "url":"https://pc-builder.io/case/hyte-y60-p32202",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CS-HYTE-Y60-B"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "3 x Full-Height",
+         "6 x Half-Height"
+      ],
+      "Manufacturer":[
+         "HYTE"
+      ],
+      "UPC Codes":[
+         "848604042855"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\""
+      ],
+      "Maximum Video Card Length":[
+         "375 mm / 14.764\""
+      ]
+   },
+   "Fractal Design Pop Mini Air MicroATX Mid Tower Case":{
+      "id":24,
+      "name":"Fractal Design Pop Mini Air MicroATX Mid Tower Case",
+      "price":105.98,
+      "url":"https://pc-builder.io/case/fractal-design-pop-mini-air-p32211",
+      "Motherboard Form Factor":[
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "FD-C-POR1M-06"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "432 mm x 215 mm x 393 mm",
+         "17.008\" x 8.465\" x 15.472\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "MicroATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "4 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "36.502 L",
+         "1.289 ft?"
+      ],
+      "Manufacturer":[
+         "Fractal Design"
+      ],
+      "UPC Codes":[
+         "843276103606"
+      ],
+      "Drive Bays":[
+         "2 x External 5.25\"",
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "365 mm / 14.37\""
+      ]
+   },
+   "Corsair 4000D Airflow ATX Mid Tower Case":{
+      "id":13,
+      "name":"Corsair 4000D Airflow ATX Mid Tower Case",
+      "price":104.95,
+      "url":"https://pc-builder.io/case/corsair-4000d-airflow-p29502",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CC-9011201-WW"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Side Panel":[
+         "Tinted Tempered Glass"
+      ],
+      "Dimensions":[
+         "453 mm x 230 mm x 466 mm",
+         "17.835\" x 9.055\" x 18.346\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "48.553 L",
+         "1.715 ft?"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "UPC Codes":[
+         "840006621928"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "360 mm / 14.173\""
+      ]
+   },
+   "Lian Li O11 Dynamic Mini Snow Edition ATX Mid Tower Case":{
+      "id":16,
+      "name":"Lian Li O11 Dynamic Mini Snow Edition ATX Mid Tower Case",
+      "price":119.99,
+      "url":"https://pc-builder.io/case/lian-li-o11-dynamic-mini-snow-edition-p29082",
+      "Motherboard Form Factor":[
+         "ATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "O11D MINI-S"
+      ],
+      "Power Supply Shroud":[
+         "No"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "420 mm x 269.5 mm x 380 mm",
+         "16.535\" x 10.61\" x 14.961\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "43.012 L",
+         "1.519 ft?"
+      ],
+      "Manufacturer":[
+         "Lian Li"
+      ],
+      "Model":[
+         "O11 Dynamic Mini Snow Edition"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "370 mm / 14.567\""
+      ]
+   },
+   "Lian Li O11 Dynamic EVO ATX Mid Tower Case":{
+      "id":5,
+      "name":"Lian Li O11 Dynamic EVO ATX Mid Tower Case",
+      "price":169.99,
+      "url":"https://pc-builder.io/case/lian-li-o11-dynamic-evo-p31801",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "8 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "PC-O11DEX",
+         "O11DEX"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tinted Tempered Glass"
+      ],
+      "Manufacturer":[
+         "Lian Li"
+      ],
+      "Drive Bays":[
+         "6 x Internal 3.5\"",
+         "3 x Internal 2.5\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Maximum Video Card Length":[
+         "422 mm / 16.614\""
+      ]
+   },
+   "Thermaltake Versa H18 MicroATX Mini Tower Case":{
+      "id":17,
+      "name":"Thermaltake Versa H18 MicroATX Mini Tower Case",
+      "price":50.98,
+      "url":"https://pc-builder.io/case/thermaltake-versa-h18-p30080",
+      "Motherboard Form Factor":[
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 1 Type-A",
+         "USB 2.0 Type-A"
+      ],
+      "Part #":[
+         "CA-1J4-00S1WN-01"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "380 mm x 205 mm x 390 mm",
+         "14.961\" x 8.071\" x 15.354\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "MicroATX Mini Tower"
+      ],
+      "Expansion Slots":[
+         "4 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "30.381 L",
+         "1.073 ft?"
+      ],
+      "Manufacturer":[
+         "Thermaltake"
+      ],
+      "UPC Codes":[
+         "841163001738"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "350 mm / 13.78\""
+      ]
+   },
+   "Lian Li PC-O11 Dynamic ATX Full Tower Case":{
+      "id":21,
+      "name":"Lian Li PC-O11 Dynamic ATX Full Tower Case",
+      "price":149.99,
+      "url":"https://pc-builder.io/case/lian-li-pc-o11-dynamic-p28581",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "PC-O11DX"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "445 mm x 272 mm x 446 mm",
+         "17.52\" x 10.709\" x 17.559\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Full Tower"
+      ],
+      "Expansion Slots":[
+         "8 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "53.984 L",
+         "1.906 ft?"
+      ],
+      "Manufacturer":[
+         "Lian Li"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "4 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "420 mm / 16.535\""
+      ]
+   },
+   "Corsair iCUE 4000D RGB AIRFLOW ATX Mid Tower Case":{
+      "id":29,
+      "name":"Corsair iCUE 4000D RGB AIRFLOW ATX Mid Tower Case",
+      "price":149.99,
+      "url":"https://pc-builder.io/case/corsair-icue-4000d-rgb-airflow-p52273",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CC-9011240-WW"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "453 mm x 230 mm x 466 mm",
+         "17.835\" x 9.055\" x 18.346\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height"
+      ],
+      "Volume":[
+         "48.553 L",
+         "1.715 ft?"
+      ],
+      "Manufacturer":[
+         "Corsair"
+      ],
+      "Model":[
+         "iCUE 4000D RGB AIRFLOW"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "2 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "360 mm / 14.173\""
+      ]
+   },
+   "NZXT H9 Flow ATX Mid Tower Case":{
+      "id":10,
+      "name":"NZXT H9 Flow ATX Mid Tower Case",
+      "price":144.95,
+      "url":"https://pc-builder.io/case/nzxt-h9-flow-p52268",
+      "Motherboard Form Factor":[
+         "ATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CM-H91FB-01"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "466 mm x 290 mm x 495 mm",
+         "18.346\" x 11.417\" x 19.488\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height"
+      ],
+      "Volume":[
+         "66.894 L",
+         "2.362 ft?"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "4 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "435 mm / 17.126\""
+      ]
+   },
+   "NZXT H7 Flow ATX Mid Tower Case":{
+      "id":20,
+      "name":"NZXT H7 Flow ATX Mid Tower Case",
+      "price":129.99,
+      "url":"https://pc-builder.io/case/nzxt-h7-flow-p32198",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CM-H71FB-01"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "Black"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "480 mm x 230 mm x 505 mm",
+         "18.898\" x 9.055\" x 19.882\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height",
+         "0 x Half-Height"
+      ],
+      "Volume":[
+         "55.752 L",
+         "1.969 ft?"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Drive Bays":[
+         "2 x Internal 3.5\"",
+         "4 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "400 mm / 15.748\""
+      ]
+   },
+   "NZXT H5 Flow ATX Mid Tower Case":{
+      "id":6,
+      "name":"NZXT H5 Flow ATX Mid Tower Case",
+      "price":94.99,
+      "url":"https://pc-builder.io/case/nzxt-h5-flow-p50531",
+      "Motherboard Form Factor":[
+         "ATX",
+         "EATX",
+         "Micro ATX",
+         "Mini ITX"
+      ],
+      "Front Panel USB":[
+         "USB 3.2 Gen 2 Type-C",
+         "USB 3.2 Gen 1 Type-A"
+      ],
+      "Part #":[
+         "CC-H51FW-01"
+      ],
+      "Power Supply Shroud":[
+         "Yes"
+      ],
+      "Color":[
+         "White"
+      ],
+      "Side Panel":[
+         "Tempered Glass"
+      ],
+      "Dimensions":[
+         "446 mm x 227 mm x 464 mm",
+         "17.559\" x 8.937\" x 18.268\""
+      ],
+      "Power Supply":[
+         "None"
+      ],
+      "Type":[
+         "ATX Mid Tower"
+      ],
+      "Expansion Slots":[
+         "7 x Full-Height"
+      ],
+      "Volume":[
+         "46.976 L",
+         "1.659 ft?"
+      ],
+      "Manufacturer":[
+         "NZXT"
+      ],
+      "Drive Bays":[
+         "1 x Internal 3.5\"",
+         "1 x Internal 2.5\""
+      ],
+      "Maximum Video Card Length":[
+         "365 mm / 14.37\""
+      ]
+   }
+}
