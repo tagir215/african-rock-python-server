@@ -2,13 +2,15 @@ package com.tiger.designPatterns200.service.component;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
 import com.tiger.designPatterns200.model.component.ComponentCollections;
 
+@SpringBootTest
 class ComponentCollectionsDAOJsonImplTest {
 
 	@Test
-	void test() {
+	void testGetCorrectSizedCollectionsFromDAO() {
 		ComponentCollectionsDAOJsonImpl dao = new ComponentCollectionsDAOJsonImpl();
 		ComponentCollections collections = dao.getComponentCollections();
 		Assertions.assertEquals(23, collections.cases().size());
