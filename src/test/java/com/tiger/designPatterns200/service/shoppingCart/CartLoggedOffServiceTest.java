@@ -1,9 +1,8 @@
 package com.tiger.designPatterns200.service.shoppingCart;
 
-import java.io.Serializable;
 import java.util.List;
 
-import org.hibernate.SessionFactory;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,9 +13,6 @@ import com.tiger.designPatterns200.model.component.Computer;
 import com.tiger.designPatterns200.model.shoppingCart.CartItemDTO;
 import com.tiger.designPatterns200.repository.shoppingCart.CartItemRepository;
 import com.tiger.designPatterns200.service.component.ComponentService;
-
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.PersistenceContext;
 
 @SpringBootTest
 class CartLoggedOffServiceTest {
@@ -67,14 +63,15 @@ class CartLoggedOffServiceTest {
 	void testView() {
 		List<Computer>computers = shoppingCart.view(token);
 		Computer computer = computers.get(0);
-		System.out.println(computer.getMotherboard().getName());
-		System.out.println(computer.getCpu().getName());
-		System.out.println(computer.getCpuCooler().getName());
-		System.out.println(computer.getPcCase().getName());
-		System.out.println(computer.getPowerUnit().getName());
-		System.out.println(computer.getRam().getName());
-		System.out.println(computer.getStorage().getName());
-		System.out.println(computer.getGpu().getName());
+
+		Assertions.assertNotNull(computer.getMotherboard());
+		Assertions.assertNotNull(computer.getPcCase());
+		Assertions.assertNotNull(computer.getCpuCooler());
+		Assertions.assertNotNull(computer.getCpu());
+		Assertions.assertNotNull(computer.getGpu());
+		Assertions.assertNotNull(computer.getPowerUnit());
+		Assertions.assertNotNull(computer.getRam());
+		Assertions.assertNotNull(computer.getStorage());
 		
 	}
 	

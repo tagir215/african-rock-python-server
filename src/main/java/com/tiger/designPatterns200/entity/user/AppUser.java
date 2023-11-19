@@ -32,13 +32,9 @@ public class AppUser implements User, UserDetails{
 	private boolean locked = false;
 	private boolean enabled = false;
 	
-	
-	
 	public AppUser() {
 	}
 
-	
-	
 	public AppUser(
 			String firstName,
 			String lastName, 
