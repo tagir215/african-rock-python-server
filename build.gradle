@@ -8,6 +8,10 @@ plugins {
 group = 'com.tiger' 
 version = '0.0.1-SNAPSHOT'
 
+ext.seleniumVersion = "3.131.59"
+ext.javaxMailVersion = "1.6.2"
+
+
 java {
 	sourceCompatibility = '17'
 }
@@ -19,10 +23,10 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'org.seleniumhq.selenium:selenium-java:3.141.59'
+	implementation "org.seleniumhq.selenium:selenium-java:${seleniumVersion}"
 	implementation "org.springframework.boot:spring-boot-starter-security"
 	implementation 'org.springframework.boot:spring-boot-starter-mail'
-	implementation 'com.sun.mail:javax.mail:1.6.2'
+	implementation "com.sun.mail:javax.mail:${javaxMailVersion}"
 	runtimeOnly 'com.mysql:mysql-connector-j'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	
