@@ -1,32 +1,38 @@
 package com.tiger.designPatterns200.service.user;
 
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.authentication.AuthenticationManager;
+import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
+import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
-import com.tiger.designPatterns200.entity.user.AppUser;
 import com.tiger.designPatterns200.exception.user.LoginException;
-import com.tiger.designPatterns200.model.user.LoginRequest;
-import com.tiger.designPatterns200.repository.user.AppUserRepository;
+import com.tiger.designPatterns200.model.user.AuthenticationResponse;
+import com.tiger.designPatterns200.model.user.LoginDTO;
+import com.tiger.designPatterns200.security.JwtService;
 
 @Service
 public class LoginService {
 
-	private final AppUserRepository repository;
-	private BCryptPasswordEncoder encoder;
+	private UserService userService;
+	private AuthenticationManager authenticationManager;
+	private JwtService jwtService;
 
-	public LoginService(AppUserRepository repository, BCryptPasswordEncoder encoder) {
-		this.repository = repository;
-		this.encoder = encoder;
+	public LoginService(AuthenticationManager authenticationManager, UserService userService, JwtService jwtService) {
+		this.authenticationManager = authenticationManager;
+		this.userService = userService;
+		this.jwtService = jwtService;
 	}
 
 
-	public String login(LoginRequest request) throws LoginException {
-		AppUser user = repository.findByEmail(request.getUserName())
-				.orElseThrow(()-> new LoginException("user not found"));
-		
-		if(!encoder.matches(request.getPassword(),user.getPassword())) {
-			throw new LoginException("wrong password");
-		}
-		return "success";
+	public AuthenticationResponse login(LoginDTO request) throws LoginException {
+		authenticationManager.authenticate(
+				new UsernamePasswordAuthenticationToken(
+						request.getUsername()
+						,request.getPassword()
+						)
+				);
+		UserDetails userDetails = userService.loadUserByUsername(request.getUsername());
+		String jwtToken = jwtService.generateToken(userDetails);
+		return new AuthenticationResponse(jwtToken);
 	}
 }

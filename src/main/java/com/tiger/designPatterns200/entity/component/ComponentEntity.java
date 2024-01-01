@@ -27,6 +27,8 @@ public abstract class ComponentEntity implements CompositeComponent {
 
 	private String url;
 	
+	private String manufacturer; 
+	
 
 	public void setPrice(BigDecimal price) {
 		this.price = price;
@@ -60,7 +62,14 @@ public abstract class ComponentEntity implements CompositeComponent {
 		this.id = id;
 	}
 
-	
+	public String getManufacturer() {
+		return manufacturer;
+	}
+
+	public void setManufacturer(String manufacturer) {
+		this.manufacturer = manufacturer;
+	}
+
 	@Override
 	public BigDecimal getCombinedPrice() {
 		BigDecimal fullPrice = this.getPrice();

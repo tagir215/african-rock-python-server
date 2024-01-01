@@ -38,5 +38,9 @@ public class StorageDTO extends ComponentDTO {
     @JsonProperty("SSD NAND Flash Type")
     private List<String>ssd_nand_flash_type;
     
+	@Override
+	public String getManufacturer() {
+		return manufacturer.get(0);
+	}
 }
 

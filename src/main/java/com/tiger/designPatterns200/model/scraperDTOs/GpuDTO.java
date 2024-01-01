@@ -167,9 +167,6 @@ public class GpuDTO extends ComponentDTO {
 		return length;
 	}
 
-	public List<String> getManufacturer() {
-		return manufacturer;
-	}
 
 	public List<String> getModel() {
 		return model;
@@ -220,6 +217,10 @@ public class GpuDTO extends ComponentDTO {
 	}
 
 	
+	@Override
+	public String getManufacturer() {
+		return manufacturer.get(0);
+	}
 	
 
 }

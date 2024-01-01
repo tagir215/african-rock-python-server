@@ -11,19 +11,23 @@ import org.springframework.stereotype.Service;
 
 import com.tiger.designPatterns200.entity.user.AppUser;
 import com.tiger.designPatterns200.exception.user.RegistrationException;
-import com.tiger.designPatterns200.repository.user.AppUserRepository;
+import com.tiger.designPatterns200.model.user.AuthenticationResponse;
+import com.tiger.designPatterns200.repository.user.UserRepository;
+import com.tiger.designPatterns200.security.JwtService;
 
 @Service
-public class AppUserService implements UserDetailsService{
+public class UserService implements UserDetailsService{
 	private final String USER_NOT_FOUND_MSG = "user with email % not found";
-	private final AppUserRepository repository;
+	private final UserRepository repository;
 	private final BCryptPasswordEncoder bcryptPasswordEncoder;
+	private final JwtService jwtService;
 
 
 
-	public AppUserService(AppUserRepository repository, BCryptPasswordEncoder bcryptPasswordEncoder) {
+	public UserService(UserRepository repository, BCryptPasswordEncoder bcryptPasswordEncoder, JwtService jwtService) {
 		this.repository = repository;
 		this.bcryptPasswordEncoder = bcryptPasswordEncoder;
+		this.jwtService = jwtService;
 	}
 
 	@Override
@@ -32,7 +36,7 @@ public class AppUserService implements UserDetailsService{
 				.orElseThrow(() -> new UsernameNotFoundException(USER_NOT_FOUND_MSG));
 	}
 
-	public String singUpUser(AppUser user) throws RegistrationException {
+	public AuthenticationResponse singUpUser(AppUser user) throws RegistrationException {
 		boolean userExists = repository
 				.findByEmail(user.getEmail())
 				.isPresent();
@@ -46,7 +50,8 @@ public class AppUserService implements UserDetailsService{
 		repository.save(user);
 		
 		String token = UUID.randomUUID().toString();
-		return token;
+		var jwtToken = jwtService.generateToken(user);
+		return new AuthenticationResponse(jwtToken);
 	}
 	
 	public int enableAppUser(String email) {

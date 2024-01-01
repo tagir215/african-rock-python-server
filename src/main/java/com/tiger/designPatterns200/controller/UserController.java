@@ -1,23 +1,28 @@
 package com.tiger.designPatterns200.controller;
 
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.security.authentication.AnonymousAuthenticationToken;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.tiger.designPatterns200.exception.user.LoginException;
 import com.tiger.designPatterns200.exception.user.RegistrationException;
-import com.tiger.designPatterns200.model.user.LoginRequest;
-import com.tiger.designPatterns200.model.user.RegistrationRequest;
+import com.tiger.designPatterns200.model.user.AuthenticationResponse;
+import com.tiger.designPatterns200.model.user.LoginDTO;
+import com.tiger.designPatterns200.model.user.RegistrationDTO;
 import com.tiger.designPatterns200.service.user.LoginService;
 import com.tiger.designPatterns200.service.user.RegistrationService;
 
 /**
  * @author OMISTAJA
- * login and registration. still incomplete
+ * authentication controller
  */
 @RestController
-@RequestMapping(path = "api/v1/user")
 public class UserController {
 
 	private RegistrationService registrationService;
@@ -30,22 +35,36 @@ public class UserController {
 	}
 
 	/**
-	 * @param request
+	 * @param dto
 	 * @return
 	 * @throws RegistrationException
 	 */
 	@PostMapping("/registration")
-	public String register(@RequestBody RegistrationRequest request) throws RegistrationException {
-		return registrationService.register(request);
+	public AuthenticationResponse register(@RequestBody RegistrationDTO dto) throws RegistrationException {
+		return registrationService.register(dto);
 	}
 	
 	/**
-	 * @param request
-	 * @return
+	 * @param dto
+	 * @return 
 	 * @throws LoginException
 	 */
 	@PostMapping("/login")
-	public String login(@RequestBody LoginRequest request) throws LoginException {
-		return loginService.login(request);
+	public AuthenticationResponse login(@RequestBody LoginDTO dto) throws LoginException {
+		return loginService.login(dto);
+	}
+	
+	/**
+	 * 
+	 * @return boolean based on if authenticated
+	 */
+	@GetMapping("api/v1/user/status")
+	public ResponseEntity<Boolean> checkStatus() {
+		Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+		if (authentication == null || authentication instanceof AnonymousAuthenticationToken) {
+			return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(false);
+        }
+
+        return ResponseEntity.ok(true);
 	}
 }

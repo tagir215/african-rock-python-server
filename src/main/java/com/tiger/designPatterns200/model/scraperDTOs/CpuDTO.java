@@ -77,4 +77,8 @@ public class CpuDTO extends ComponentDTO {
 	    @JsonProperty("Efficiency L2 Cache")
 	    private List<String>efficientlyl2cache;
     
+		@Override
+		public String getManufacturer() {
+			return manufacturer.get(0);
+		}
 }

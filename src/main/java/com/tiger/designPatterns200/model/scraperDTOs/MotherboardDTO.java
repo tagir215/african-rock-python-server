@@ -169,8 +169,8 @@ public class MotherboardDTO extends ComponentDTO {
 		return pcieX1Slots;
 	}
 
-	public List<String> getManufacturer() {
-		return manufacturer;
+	public String getManufacturer() {
+		return manufacturer.get(0);
 	}
 
 	public List<String> getModel() {

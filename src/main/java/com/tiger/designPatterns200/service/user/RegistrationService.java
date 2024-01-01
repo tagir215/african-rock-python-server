@@ -5,35 +5,40 @@ import org.springframework.stereotype.Service;
 import com.tiger.designPatterns200.entity.user.AppUser;
 import com.tiger.designPatterns200.exception.user.RegistrationException;
 import com.tiger.designPatterns200.model.user.AppUserRole;
-import com.tiger.designPatterns200.model.user.RegistrationRequest;
+import com.tiger.designPatterns200.model.user.AuthenticationResponse;
+import com.tiger.designPatterns200.model.user.RegistrationDTO;
+import com.tiger.designPatterns200.repository.user.UserRepository;
 
 @Service
 public class RegistrationService {
 
 	private final EmailValidator emailValidator;
-	private final AppUserService appUserService;
+	private final UserService userService;
 
 	
-	public RegistrationService(EmailValidator emailValidator, AppUserService appUserService) {
+	public RegistrationService(EmailValidator emailValidator, UserService appUserService, UserRepository appUserRepository) {
 		this.emailValidator = emailValidator;
-		this.appUserService = appUserService;
+		this.userService = appUserService;
 	}
 
-	public String register(RegistrationRequest request) throws RegistrationException {
+	public AuthenticationResponse register(RegistrationDTO request) throws RegistrationException {
 		boolean isValidEmail = emailValidator.test(request.getEmail());
 		if(!isValidEmail) {
 			throw new RegistrationException("email not valid");
 		}
-		String token = appUserService.singUpUser(
+		if(!request.getPassword().equals(request.getPasswordRepeated())) {
+			throw new RegistrationException("passwords don't match");
+		}
+		AuthenticationResponse response = userService.singUpUser(
 				new AppUser(
-						request.getFirstName(),
-						request.getLastName(),
+						request.getFirstname(),
+						request.getLastname(),
 						request.getEmail(),
 						request.getPassword(),
 						AppUserRole.USER	
 						));
 		
-		return token;
+		return response;
 	}
 	
 }
