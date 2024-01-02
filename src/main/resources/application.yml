@@ -31,7 +31,7 @@ logging:
   level:
     org:
      springframework:
-       security: TRACE
+       security: DEBUG
 
 url:
   local:
@@ -40,3 +40,5 @@ url:
   deployed:
     frontend: https://arp-client-c1df0d4c8a26.herokuapp.com
         
+auth:
+  secret: "BZ4ewqSXOhptAE8l1kjQzGiLsUTE+QJs0tPv3Wwcuz4="

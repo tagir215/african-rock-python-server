@@ -7,18 +7,20 @@ import com.tiger.designPatterns200.exception.user.RegistrationException;
 import com.tiger.designPatterns200.model.user.AppUserRole;
 import com.tiger.designPatterns200.model.user.AuthenticationResponse;
 import com.tiger.designPatterns200.model.user.RegistrationDTO;
-import com.tiger.designPatterns200.repository.user.UserRepository;
+import com.tiger.designPatterns200.security.JwtService;
 
 @Service
 public class RegistrationService {
 
 	private final EmailValidator emailValidator;
 	private final UserService userService;
+	private final JwtService jwtService;
 
 	
-	public RegistrationService(EmailValidator emailValidator, UserService appUserService, UserRepository appUserRepository) {
+	public RegistrationService(EmailValidator emailValidator, UserService appUserService, JwtService jwtService) {
 		this.emailValidator = emailValidator;
 		this.userService = appUserService;
+		this.jwtService = jwtService;
 	}
 
 	public AuthenticationResponse register(RegistrationDTO request) throws RegistrationException {
@@ -29,7 +31,7 @@ public class RegistrationService {
 		if(!request.getPassword().equals(request.getPasswordRepeated())) {
 			throw new RegistrationException("passwords don't match");
 		}
-		AuthenticationResponse response = userService.singUpUser(
+		AppUser response = userService.singUpUser(
 				new AppUser(
 						request.getFirstname(),
 						request.getLastname(),
@@ -38,7 +40,7 @@ public class RegistrationService {
 						AppUserRole.USER	
 						));
 		
-		return response;
+		return new AuthenticationResponse(jwtService.generateToken(response));
 	}
 	
 }

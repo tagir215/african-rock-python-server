@@ -27,8 +27,8 @@ public class LoginService {
 	public AuthenticationResponse login(LoginDTO request) throws LoginException {
 		authenticationManager.authenticate(
 				new UsernamePasswordAuthenticationToken(
-						request.getUsername()
-						,request.getPassword()
+						request.getUsername(),
+						request.getPassword()
 						)
 				);
 		UserDetails userDetails = userService.loadUserByUsername(request.getUsername());

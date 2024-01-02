@@ -5,8 +5,8 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-@Configuration
-@EnableWebMvc
+//@Configuration
+//@EnableWebMvc
 public class CorsConfigurations implements WebMvcConfigurer {
 
 	@Value("${url.local.frontend}")
@@ -21,8 +21,11 @@ public class CorsConfigurations implements WebMvcConfigurer {
        registry.addMapping("/**")
            .allowedOrigins(frontendUrlLocal,frontendUrlDeployed) 
            .allowCredentials(true)
-           .allowedMethods("GET", "POST", "PUT", "DELETE")
+           .exposedHeaders("*")
+           .maxAge(3600L)
+           .allowedMethods("GET", "POST", "PUT", "DELETE","OPTIONS")
        	   .allowedHeaders("*");
    }
    
+
 }
