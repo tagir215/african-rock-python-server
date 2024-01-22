@@ -13,9 +13,32 @@ spring:
       hibernate:
         jdbc:
           batch_size: 200
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: ${GOOGLE_OAUTH2_CLIENT}
+            clientSecret: ${GOOGLE_OAUTH2_SERVER}
 server:
   servlet:
     encoding:
       charset: UTF-8
       enabled: true
       force: true
+
+logging:
+  level:
+    org:
+     springframework:
+       security: DEBUG
+
+url:
+  local:
+    frontend: "http://localhost:3000"
+    backend: "http://localhost:8080"
+  deployed:
+    frontend: https://arp-client-c1df0d4c8a26.herokuapp.com
+        
+auth:
+  secret: ${JWTSECRET}

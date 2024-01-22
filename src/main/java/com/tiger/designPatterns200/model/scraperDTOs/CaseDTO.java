@@ -57,5 +57,9 @@ public class CaseDTO extends ComponentDTO{
     private List<String> maximumVideoCardLength;
 	
     
+	@Override
+	public String getManufacturer() {
+		return manufacturer.get(0);
+	}
 }
 

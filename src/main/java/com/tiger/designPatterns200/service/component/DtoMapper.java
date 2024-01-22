@@ -39,6 +39,7 @@ public class DtoMapper {
         e.setName(dto.getName());
         e.setPrice(dto.getPrice());
         e.setUrl(dto.getUrl());
+        e.setManufacturer(dto.getManufacturer());
     }
     
    
@@ -68,7 +69,6 @@ public class DtoMapper {
         MotherboardEntity e = new MotherboardEntity();
         setBasicThings(e, dto);
         e.setChipset(dto.getChipset());
-        e.setManufacturer(dto.getManufacturer().get(0));
         List<ComponentEntity>cases = getCompatibleComponents(dto.getCompatibleCases(),collections.cases());
         List<ComponentEntity>coolers = getCompatibleComponents(dto.getCompatibleCPUCoolers(),collections.coolers());
         List<ComponentEntity>cpus = getCompatibleComponents(dto.getCompatibleCPUs(),collections.cpus());

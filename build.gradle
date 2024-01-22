@@ -8,8 +8,11 @@ plugins {
 group = 'com.tiger' 
 version = '0.0.1-SNAPSHOT'
 
-ext.seleniumVersion = "3.131.59"
+ext.seleniumVersion = "3.141.59"
 ext.javaxMailVersion = "1.6.2"
+ext.jjwtVersion = "0.11.5"
+ext.jjwtImplVersion = "0.11.5"
+ext.jjwtJacksonVersion = "0.11.5"
 
 
 java {
@@ -25,8 +28,13 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation "org.seleniumhq.selenium:selenium-java:${seleniumVersion}"
 	implementation "org.springframework.boot:spring-boot-starter-security"
+	implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
 	implementation 'org.springframework.boot:spring-boot-starter-mail'
 	implementation "com.sun.mail:javax.mail:${javaxMailVersion}"
+	implementation "io.jsonwebtoken:jjwt-api:${jjwtVersion}"
+	runtimeOnly "io.jsonwebtoken:jjwt-impl:${jjwtImplVersion}"
+	runtimeOnly "io.jsonwebtoken:jjwt-jackson:${jjwtJacksonVersion}"
+	implementation 'org.hibernate.validator:hibernate-validator'
 	runtimeOnly 'com.mysql:mysql-connector-j'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	

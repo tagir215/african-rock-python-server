@@ -32,6 +32,7 @@ public class ComponentMapper {
 		dtos.add(componentToDto(computer.getStorage()));
 		dtos.add(componentToDto(computer.getPowerUnit()));
 		ComputerDTO dto = new ComputerDTO(dtos);
+		dto.setDeliveryTime(generateDeliveryTimeString(dtos));
 		dto.setCombinedPrice(computer.getCombinedPrice());
 		return dto;
 	}
@@ -46,6 +47,7 @@ public class ComponentMapper {
 			 dto.setName(entity.getName());
 			 dto.setPrice(entity.getCombinedPrice());
 			 dto.setUrl(entity.getUrl());
+			 dto.setTransientManufacturer(entity.getManufacturer());
 			 return dto;
 	}
 	
@@ -60,6 +62,15 @@ public class ComponentMapper {
 			dtos.add(computerToDto(e));
 		}
 		return dtos;
+	}
+	private static String generateDeliveryTimeString(List<ComponentDTO>dtos) {
+		int longestTime = 0;
+		for(ComponentDTO dto : dtos) {
+			if(dto.getDeliveryTime()>longestTime) {
+				longestTime = dto.getDeliveryTime();
+			}
+		}
+		return longestTime +"-"+(longestTime+2)+"d";
 	}
 	
 	/**

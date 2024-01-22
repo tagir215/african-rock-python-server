@@ -47,5 +47,9 @@ public class RamDTO extends ComponentDTO {
     @JsonProperty("UPC Codes")
     private List<String> upcCodes;
     
+	@Override
+	public String getManufacturer() {
+		return manufacturer.get(0);
+	}
 }
 

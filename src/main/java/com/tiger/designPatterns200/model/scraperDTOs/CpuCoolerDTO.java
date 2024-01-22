@@ -38,6 +38,10 @@ public class CpuCoolerDTO extends ComponentDTO {
 	    @JsonProperty("Height")
 	    private List<String>height;
     
+		@Override
+		public String getManufacturer() {
+			return manufacturer.get(0);
+		}
 }
 
 

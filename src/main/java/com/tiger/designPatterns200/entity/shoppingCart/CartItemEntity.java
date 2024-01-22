@@ -1,21 +1,23 @@
-	package com.tiger.designPatterns200.entity.shoppingCart;
+package com.tiger.designPatterns200.entity.shoppingCart;
 	
-	import com.tiger.designPatterns200.entity.component.CaseEntity;
-	import com.tiger.designPatterns200.entity.component.CoolerEntity;
-	import com.tiger.designPatterns200.entity.component.CpuEntity;
-	import com.tiger.designPatterns200.entity.component.GpuEntity;
-	import com.tiger.designPatterns200.entity.component.MotherboardEntity;
-	import com.tiger.designPatterns200.entity.component.PowerUnitEntity;
-	import com.tiger.designPatterns200.entity.component.RamEntity;
-	import com.tiger.designPatterns200.entity.component.StorageEntity;
-	
-	import jakarta.persistence.Entity;
-	import jakarta.persistence.FetchType;
-	import jakarta.persistence.GeneratedValue;
-	import jakarta.persistence.GenerationType;
-	import jakarta.persistence.Id;
-	import jakarta.persistence.JoinColumn;
-	import jakarta.persistence.ManyToOne;
+
+import com.tiger.designPatterns200.entity.component.CaseEntity;
+import com.tiger.designPatterns200.entity.component.CoolerEntity;
+import com.tiger.designPatterns200.entity.component.CpuEntity;
+import com.tiger.designPatterns200.entity.component.GpuEntity;
+import com.tiger.designPatterns200.entity.component.MotherboardEntity;
+import com.tiger.designPatterns200.entity.component.PowerUnitEntity;
+import com.tiger.designPatterns200.entity.component.RamEntity;
+import com.tiger.designPatterns200.entity.component.StorageEntity;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
 	
 	@Entity
 	public class CartItemEntity {
@@ -24,6 +26,7 @@
 		@GeneratedValue(strategy = GenerationType.IDENTITY)
 		private Long id;
 		
+		@Column(nullable=false)
 		private String token;
 	
 		@ManyToOne(fetch =FetchType.LAZY)

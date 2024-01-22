@@ -17,4 +17,5 @@ public class UserExceptionHandler {
 	public ResponseEntity<Object>handleRegistrationException(RegistrationException e){
 		return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
 	}
+	
 }

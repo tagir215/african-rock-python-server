@@ -71,4 +71,8 @@ public class PowerUnitDTO extends ComponentDTO{
     @JsonProperty("Efficiency")
     private List<String>efficicency;
     
+	@Override
+	public String getManufacturer() {
+		return manufacturer.get(0);
+	}
 }

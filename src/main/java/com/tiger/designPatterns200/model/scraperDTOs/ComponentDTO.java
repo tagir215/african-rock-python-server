@@ -7,6 +7,8 @@ public class ComponentDTO {
 	private String name;
 	private BigDecimal price;
 	private String url;
+	private transient String manufacturer;
+	private transient int deliveryTime = (int)(Math.random()*14)+1;
 	
 	
 	public long getId() {
@@ -33,6 +35,20 @@ public class ComponentDTO {
 	public void setUrl(String url) {
 		this.url = url;
 	}
+	public String getManufacturer() {
+		return manufacturer;
+	}
+	public void setTransientManufacturer(String manufacturer) {
+		this.manufacturer = manufacturer;
+	}
+	public int getDeliveryTime() {
+		return deliveryTime;
+	}
+	public void setDeliveryTime(int deliveryTime) {
+		this.deliveryTime = deliveryTime;
+	}
+
 	
+		
 	
 }

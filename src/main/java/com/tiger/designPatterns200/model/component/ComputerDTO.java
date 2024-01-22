@@ -8,6 +8,7 @@ import com.tiger.designPatterns200.model.scraperDTOs.ComponentDTO;
 public class ComputerDTO {
 	private List<ComponentDTO>components;
 	private BigDecimal combinedPrice; 
+	private String deliveryTime;
 
 	public ComputerDTO(List<ComponentDTO> components) {
 		this.components = components;
@@ -27,6 +28,14 @@ public class ComputerDTO {
 
 	public void setCombinedPrice(BigDecimal combinedPrice) {
 		this.combinedPrice = combinedPrice;
+	}
+
+	public String getDeliveryTime() {
+		return deliveryTime;
+	}
+
+	public void setDeliveryTime(String deliveryTime) {
+		this.deliveryTime = deliveryTime;
 	}
 	
 	

@@ -1,7 +1,7 @@
 package com.tiger.designPatterns200.entity.user;
 
 import java.util.Collection;
-import java.util.Collections;
+import java.util.List;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
@@ -17,7 +17,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-public class AppUser implements User, UserDetails{
+public class AppUser implements UserDetails{
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.SEQUENCE)
@@ -52,8 +52,7 @@ public class AppUser implements User, UserDetails{
 
 	@Override
 	public Collection<? extends GrantedAuthority> getAuthorities() {
-		SimpleGrantedAuthority authority = new SimpleGrantedAuthority(appUserRole.name());
-		return Collections.singletonList(authority);
+		return List.of(new SimpleGrantedAuthority(appUserRole.name()));
 	}
 
 	@Override
@@ -136,13 +135,9 @@ public class AppUser implements User, UserDetails{
 		return lastName;
 	}
 
-
-
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
-
-
 
 	@Override
 	public String getUsername() {
