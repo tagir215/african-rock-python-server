@@ -28,10 +28,17 @@ public class ComponentFilterer {
 	        BigDecimal bestDifference = BigDecimal.valueOf(Double.MAX_VALUE);
 	        
 	        for (T entity : entities) {
+	        	boolean compatible = true;
 	        	for(CompatibilityComponent cc : compatibilityChecks) {
+	        		Class clazz = entity.getClass();
+	        		Long id = entity.getId();
 	        		if(!cc.checkCompatibility(entity.getClass(), entity.getId())) {
-	        			continue;
+	        			compatible = false;
+	        			break;
 	        		}
+	        	}
+	        	if(!compatible) {
+	        		continue;
 	        	}
 	            if (entity.getPrice().compareTo(price) <= 0) {
 	                BigDecimal difference = price.subtract(entity.getPrice());

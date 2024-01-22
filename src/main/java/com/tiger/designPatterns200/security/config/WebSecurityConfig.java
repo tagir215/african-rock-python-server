@@ -68,6 +68,7 @@ public class WebSecurityConfig {
 		config.setAllowedOrigins(Arrays.asList(frontendUrlLocal,frontendUrlDeployed));
 		config.addAllowedMethod("*");
 		config.addAllowedHeader("*");
+		config.setAllowCredentials(true);
 		var source = new UrlBasedCorsConfigurationSource();
 		source.registerCorsConfiguration("/**", config);
 		return source;

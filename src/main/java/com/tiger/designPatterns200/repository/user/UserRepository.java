@@ -15,7 +15,6 @@ import com.tiger.designPatterns200.entity.user.AppUser;
  *
  */
 @Repository
-@Transactional(readOnly=true)
 public interface UserRepository extends JpaRepository<AppUser,Long>{
 	Optional<AppUser>findByEmail(String email);
 	
