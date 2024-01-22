@@ -41,4 +41,4 @@ url:
     frontend: https://arp-client-c1df0d4c8a26.herokuapp.com
         
 auth:
-  secret: "BZ4ewqSXOhptAE8l1kjQzGiLsUTE+QJs0tPv3Wwcuz4="
+  secret: ${JWTSECRET}
