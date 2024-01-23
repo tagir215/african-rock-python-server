@@ -38,7 +38,9 @@ url:
     frontend: "http://localhost:3000"
     backend: "http://localhost:8080"
   deployed:
-    frontend: https://arp-client-c1df0d4c8a26.herokuapp.com
+    frontend: "https://arp-client-c1df0d4c8a26.herokuapp.com"
+  ip:
+    frontend: "192.168.31.32"
         
 auth:
   secret: ${JWTSECRET}
