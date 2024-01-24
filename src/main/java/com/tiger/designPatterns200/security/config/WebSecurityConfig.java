@@ -26,6 +26,8 @@ public class WebSecurityConfig {
 	private String frontendUrlLocal;
 	@Value("${url.deployed.frontend")
 	private String frontendUrlDeployed;
+	@Value("${url.ip.frontend")
+	private String ipAddress;
 
 	private final JwtAuthFilter jwtAuthFilter;
 	private final AuthenticationProvider authenticationProvider;
@@ -65,7 +67,7 @@ public class WebSecurityConfig {
 	@Bean
 	CorsConfigurationSource corsConfigurationSource() {
 		CorsConfiguration config = new CorsConfiguration();
-		config.setAllowedOrigins(Arrays.asList(frontendUrlLocal,frontendUrlDeployed));
+		config.setAllowedOrigins(Arrays.asList(frontendUrlLocal,frontendUrlDeployed, ipAddress));
 		config.addAllowedMethod("*");
 		config.addAllowedHeader("*");
 		config.setAllowCredentials(true);

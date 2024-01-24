@@ -38,7 +38,9 @@ url:
     frontend: "http://localhost:3000"
     backend: "http://localhost:8080"
   deployed:
-    frontend: https://victorious-moss-08018a303.4.azurestaticapps.net
+    frontend: "https://victorious-moss-08018a303.4.azurestaticapps.net"
+  ip:
+    frontend: "192.168.31.32"
         
 auth:
   secret: ${JWTSECRET}
