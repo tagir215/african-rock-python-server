@@ -30,8 +30,6 @@ public class ComponentFilterer {
 	        for (T entity : entities) {
 	        	boolean compatible = true;
 	        	for(CompatibilityComponent cc : compatibilityChecks) {
-	        		Class clazz = entity.getClass();
-	        		Long id = entity.getId();
 	        		if(!cc.checkCompatibility(entity.getClass(), entity.getId())) {
 	        			compatible = false;
 	        			break;

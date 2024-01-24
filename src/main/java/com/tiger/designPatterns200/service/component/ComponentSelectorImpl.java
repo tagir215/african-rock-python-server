@@ -50,8 +50,12 @@ public class ComponentSelectorImpl implements ComponentSelector {
 	 */
 	private <T extends ComponentEntity> T selectComponent(float budget, float multiplier,
     		List<T> entities, CompatibilityComponent... compatibilityChecks) throws ComponentSelectorException {
+
+		if(entities==null) {
+			return null;
+		}
 		
-		if(entities==null || entities.size()==0) {
+		if(entities.size()==0) {
 			throw new ComponentCollectionException(entities.getClass().getName());
 		}
 		
