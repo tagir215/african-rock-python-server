@@ -40,7 +40,7 @@ url:
   deployed:
     frontend: "https://victorious-moss-08018a303.4.azurestaticapps.net"
   ip:
-    frontend: "192.168.31.32"
+    frontend: "http://193.210.203.236"
         
 auth:
   secret: ${JWTSECRET}
