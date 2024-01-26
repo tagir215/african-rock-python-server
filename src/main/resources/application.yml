@@ -29,8 +29,10 @@ server:
 
 logging:
   level:
+    root: DEBUG
     org:
      springframework:
+       web: DEBUG
        security: DEBUG
 
 url:
@@ -39,8 +41,6 @@ url:
     backend: "http://localhost:8080"
   deployed:
     frontend: "https://arp-client-c1df0d4c8a26.herokuapp.com/"
-  ip:
-    frontend: "http://193.210.203.268"
         
 auth:
   secret: ${JWTSECRET}
