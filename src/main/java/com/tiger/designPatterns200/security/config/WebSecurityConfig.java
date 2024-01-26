@@ -65,7 +65,8 @@ public class WebSecurityConfig {
 	@Bean
 	CorsConfigurationSource corsConfigurationSource() {
 		CorsConfiguration config = new CorsConfiguration();
-		config.setAllowedOrigins(Arrays.asList(frontendUrlLocal,frontendUrlDeployed));
+		//config.setAllowedOrigins(Arrays.asList(frontendUrlLocal,frontendUrlDeployed));
+		config.addAllowedOrigin("*");
 		config.addAllowedMethod("*");
 		config.addAllowedHeader("*");
 		config.setAllowCredentials(true);
