@@ -38,7 +38,7 @@ url:
     frontend: "http://localhost:3000"
     backend: "http://localhost:8080"
   deployed:
-    frontend: "https://victorious-moss-08018a303.4.azurestaticapps.net"
+    frontend: "https://arp-client-c1df0d4c8a26.herokuapp.com"
   ip:
     frontend: "http://193.210.203.236"
         
