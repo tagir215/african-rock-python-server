@@ -6,4 +6,4 @@ The AfricanRockPythonServer is a project focused on learning and implementing de
 [UML diagram](/doc/uml.png)
 
 ## The application is here
-https://arp-client-c1df0d4c8a26.herokuapp.com/
+(demo will be soon availabe, there's some cors errors with jwt implementation when deploying)
